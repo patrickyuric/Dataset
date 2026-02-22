@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Produtos>
+  <Produto>
+    <ProdutoID>1</ProdutoID>
+    <Produto>Notebook Pro X</Produto>
+    <Categoria>Informática</Categoria>
+    <ValorUnitario>4500.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>2</ProdutoID>
+    <Produto>Mouse Gamer</Produto>
+    <Categoria>Informática</Categoria>
+    <ValorUnitario>120.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>3</ProdutoID>
+    <Produto>Cadeira Escritório</Produto>
+    <Categoria>Móveis</Categoria>
+    <ValorUnitario>980.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>4</ProdutoID>
+    <Produto>Monitor 27"</Produto>
+    <Categoria>Informática</Categoria>
+    <ValorUnitario>1350.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>5</ProdutoID>
+    <Produto>Teclado Mecânico</Produto>
+    <Categoria>Informática</Categoria>
+    <ValorUnitario>350.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>6</ProdutoID>
+    <Produto>Smartphone A15</Produto>
+    <Categoria>Eletrônicos</Categoria>
+    <ValorUnitario>2200.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>7</ProdutoID>
+    <Produto>Impressora Laser</Produto>
+    <Categoria>Informática</Categoria>
+    <ValorUnitario>1600.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>8</ProdutoID>
+    <Produto>Tablet Plus</Produto>
+    <Categoria>Eletrônicos</Categoria>
+    <ValorUnitario>1500.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>9</ProdutoID>
+    <Produto>HD Externo 1TB</Produto>
+    <Categoria>Informática</Categoria>
+    <ValorUnitario>400.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>10</ProdutoID>
+    <Produto>Smart TV 50"</Produto>
+    <Categoria>Eletrônicos</Categoria>
+    <ValorUnitario>3200.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>11</ProdutoID>
+    <Produto>Mesa Escritório</Produto>
+    <Categoria>Móveis</Categoria>
+    <ValorUnitario>1200.0</ValorUnitario>
+  </Produto>
+  <Produto>
+    <ProdutoID>12</ProdutoID>
+    <Produto>Headset Gamer</Produto>
+    <Categoria>Informática</Categoria>
+    <ValorUnitario>450.0</ValorUnitario>
+  </Produto>
+</Produtos>

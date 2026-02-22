@@ -1,0 +1,2753 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Pedidos>
+  <Pedido>
+    <ID_Pedido>1000</ID_Pedido>
+    <Data_Pedido>13/01/2023</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Jeans</Subcategoria>
+    <Nome_Produto>Jeans Model B</Nome_Produto>
+    <Preco_Unitario>99999.99</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>372.37</Imposto>
+    <Valor_Total>5026.99</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>45.56</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>9</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1001</ID_Pedido>
+    <Data_Pedido>09/01/2024</Data_Pedido>
+    <Nome_Cliente>  Fatima Zahra  </Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>ÁSIA</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Headphones</Subcategoria>
+    <Nome_Produto>Headphones Model B</Nome_Produto>
+    <Preco_Unitario>1430.99</Preco_Unitario>
+    <Quantidade>-5</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>1030.31</Imposto>
+    <Valor_Total>13909.22</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>44.93</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>5</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1002</ID_Pedido>
+    <Data_Pedido>10-07-2023</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>vestuário</Categoria>
+    <Subcategoria>T-shirt</Subcategoria>
+    <Nome_Produto>T-shirt Model A</Nome_Produto>
+    <Preco_Unitario>997.11</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>478.61</Imposto>
+    <Valor_Total>6461.27</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1003</ID_Pedido>
+    <Data_Pedido>2023-10-01</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Tablet</Subcategoria>
+    <Nome_Produto>Tablet Model X</Nome_Produto>
+    <Preco_Unitario>1829.24</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>439.02</Imposto>
+    <Valor_Total>5926.74</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>46.86</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>4</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1004</ID_Pedido>
+    <Data_Pedido>2023-12-20</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Estados Unidos</Pais>
+    <Cidade>City_10</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Jeans</Subcategoria>
+    <Nome_Produto>Jeans Model A</Nome_Produto>
+    <Preco_Unitario>1532.35</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>1225.88</Imposto>
+    <Valor_Total>16549.38</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>42.81</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1005</ID_Pedido>
+    <Data_Pedido>2023-12-13</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model C</Nome_Produto>
+    <Preco_Unitario>1338.49</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>214.16</Imposto>
+    <Valor_Total>2891.14</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>23.86</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>19</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1006</ID_Pedido>
+    <Data_Pedido>27/08/2023</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao/>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_3</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model C</Nome_Produto>
+    <Preco_Unitario>1623.57</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>259.77</Imposto>
+    <Valor_Total>3506.91</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>25.17</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>19</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1007</ID_Pedido>
+    <Data_Pedido>23/04/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_11</Cidade>
+    <Categoria>vestuário</Categoria>
+    <Subcategoria>Jeans</Subcategoria>
+    <Nome_Produto>Jeans Model A</Nome_Produto>
+    <Preco_Unitario>1599.61</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>1023.75</Imposto>
+    <Valor_Total>13820.63</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>39.77</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>7</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1008</ID_Pedido>
+    <Data_Pedido>29/01/2024</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_16</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>T-shirt</Subcategoria>
+    <Nome_Produto>T-shirt Model X</Nome_Produto>
+    <Preco_Unitario>1304.81</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>730.69</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>13</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1009</ID_Pedido>
+    <Data_Pedido>2023-03-25</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_2</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model C</Nome_Produto>
+    <Preco_Unitario>959.94</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>460.77</Imposto>
+    <Valor_Total>6220.41</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>15</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1010</ID_Pedido>
+    <Data_Pedido>2024-01-29</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email/>
+    <Regiao>Oceania</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_7</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Paper</Subcategoria>
+    <Nome_Produto>Paper Model B</Nome_Produto>
+    <Preco_Unitario>1700.93</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>952.52</Imposto>
+    <Valor_Total>12859.03</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>19.22</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>3</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1011</ID_Pedido>
+    <Data_Pedido>01-09-2024</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model C</Nome_Produto>
+    <Preco_Unitario>1245.0</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>697.2</Imposto>
+    <Valor_Total>9412.2</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>35.83</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>30</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1012</ID_Pedido>
+    <Data_Pedido>2023-11-05</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_15</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Paper</Subcategoria>
+    <Nome_Produto>Paper Model A</Nome_Produto>
+    <Preco_Unitario>458.33</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>36.67</Imposto>
+    <Valor_Total>495.0</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>11.67</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1013</ID_Pedido>
+    <Data_Pedido>2023-03-03</Data_Pedido>
+    <Nome_Cliente>  Carlos Ruiz  </Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model X</Nome_Produto>
+    <Preco_Unitario>1647.05</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>131.76</Imposto>
+    <Valor_Total>1778.81</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>41.96</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>13</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1014</ID_Pedido>
+    <Data_Pedido>2023-12-05</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>OCEANIA</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_2</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model B</Nome_Produto>
+    <Preco_Unitario>1119.56</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>89.56</Imposto>
+    <Valor_Total>1209.12</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>45.79</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1015</ID_Pedido>
+    <Data_Pedido>2023-02-08</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_11</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Headphones</Subcategoria>
+    <Nome_Produto>Headphones Model B</Nome_Produto>
+    <Preco_Unitario>215.97</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>69.11</Imposto>
+    <Valor_Total>932.99</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>21.74</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1016</ID_Pedido>
+    <Data_Pedido>07-01-2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email/>
+    <Regiao/>
+    <Pais>China</Pais>
+    <Cidade>City_20</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model B</Nome_Produto>
+    <Preco_Unitario>1609.73</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>386.34</Imposto>
+    <Valor_Total>5215.53</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>49.69</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>21</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1017</ID_Pedido>
+    <Data_Pedido>2023-04-05</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>OCEANIA</Regiao>
+    <Pais>Estados Unidos</Pais>
+    <Cidade>City_14</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Lipstick</Subcategoria>
+    <Nome_Produto>Lipstick Model A</Nome_Produto>
+    <Preco_Unitario>280.46</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>201.93</Imposto>
+    <Valor_Total>2726.07</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>13.3</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1018</ID_Pedido>
+    <Data_Pedido>03-27-2023</Data_Pedido>
+    <Nome_Cliente>  Hans Schmidt  </Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>ÁFRICA</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model X</Nome_Produto>
+    <Preco_Unitario>1639.36</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>262.3</Imposto>
+    <Valor_Total>3541.02</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>49.3</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>4</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1019</ID_Pedido>
+    <Data_Pedido>2023-01-10</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_12</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Headphones</Subcategoria>
+    <Nome_Produto>Headphones Model B</Nome_Produto>
+    <Preco_Unitario>433.3</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>138.66</Imposto>
+    <Valor_Total>1871.86</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>28.84</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1020</ID_Pedido>
+    <Data_Pedido>23/12/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Perfume</Subcategoria>
+    <Nome_Produto>Perfume Model A</Nome_Produto>
+    <Preco_Unitario>1193.33</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>286.4</Imposto>
+    <Valor_Total>3866.39</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>36.27</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>14</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1021</ID_Pedido>
+    <Data_Pedido>24/01/2023</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Pen</Subcategoria>
+    <Nome_Produto>Pen Model A</Nome_Produto>
+    <Preco_Unitario>270.65</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>43.3</Imposto>
+    <Valor_Total>584.6</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>22.88</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>29</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1022</ID_Pedido>
+    <Data_Pedido>2023-06-25</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_5</Cidade>
+    <Categoria>saúde e beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model X</Nome_Produto>
+    <Preco_Unitario>1701.77</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>408.42</Imposto>
+    <Valor_Total>5513.73</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>15.48</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>14</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1023</ID_Pedido>
+    <Data_Pedido>04-30-2023</Data_Pedido>
+    <Nome_Cliente>  John Doe  </Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_9</Cidade>
+    <Categoria>saúde e beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model Z</Nome_Produto>
+    <Preco_Unitario>1888.58</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>1057.6</Imposto>
+    <Valor_Total>14277.66</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>40.62</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>29</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1024</ID_Pedido>
+    <Data_Pedido>28/12/2023</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_7</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Jeans</Subcategoria>
+    <Nome_Produto>Jeans Model Z</Nome_Produto>
+    <Preco_Unitario>1894.12</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>606.12</Imposto>
+    <Valor_Total>8182.6</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>49.15</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>3</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1025</ID_Pedido>
+    <Data_Pedido>06/01/2024</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model X</Nome_Produto>
+    <Preco_Unitario>37.43</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>23.96</Imposto>
+    <Valor_Total>323.4</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>43.53</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1026</ID_Pedido>
+    <Data_Pedido>28/03/2023</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email/>
+    <Regiao>Europa</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_10</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Laptop</Subcategoria>
+    <Nome_Produto>Laptop Model Z</Nome_Produto>
+    <Preco_Unitario>1357.38</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>1085.9</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>1</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1027</ID_Pedido>
+    <Data_Pedido>02-04-2024</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model C</Nome_Produto>
+    <Preco_Unitario>1282.36</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>615.53</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>16.79</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>24</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1028</ID_Pedido>
+    <Data_Pedido>2023-11-26</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email/>
+    <Regiao>África</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_5</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Lipstick</Subcategoria>
+    <Nome_Produto>Lipstick Model X</Nome_Produto>
+    <Preco_Unitario>698.58</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>167.66</Imposto>
+    <Valor_Total>2263.4</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>31.56</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>11</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1029</ID_Pedido>
+    <Data_Pedido>2023-11-25</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email/>
+    <Regiao>Ásia</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_18</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Lipstick</Subcategoria>
+    <Nome_Produto>Lipstick Model B</Nome_Produto>
+    <Preco_Unitario>434.87</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>139.16</Imposto>
+    <Valor_Total>1878.64</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>16.58</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1030</ID_Pedido>
+    <Data_Pedido>03-18-2023</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model B</Nome_Produto>
+    <Preco_Unitario>1537.39</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>860.94</Imposto>
+    <Valor_Total>11622.67</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>28.46</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1031</ID_Pedido>
+    <Data_Pedido>18/09/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Estados Unidos</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Vase</Subcategoria>
+    <Nome_Produto>Vase Model A</Nome_Produto>
+    <Preco_Unitario>352.13</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>28.17</Imposto>
+    <Valor_Total>380.3</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>12.19</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>11</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1032</ID_Pedido>
+    <Data_Pedido>10-30-2023</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email/>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Pen</Subcategoria>
+    <Nome_Produto>Pen Model X</Nome_Produto>
+    <Preco_Unitario>88.18</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>7.05</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>28</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1033</ID_Pedido>
+    <Data_Pedido>2023-09-19</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model X</Nome_Produto>
+    <Preco_Unitario>1302.47</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>625.19</Imposto>
+    <Valor_Total>8440.01</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>29.44</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>5</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1034</ID_Pedido>
+    <Data_Pedido>25/06/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model C</Nome_Produto>
+    <Preco_Unitario>1666.6</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>1199.95</Imposto>
+    <Valor_Total>16199.35</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>20.72</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>26</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1035</ID_Pedido>
+    <Data_Pedido>2024-01-13</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao/>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_7</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Stapler</Subcategoria>
+    <Nome_Produto>Stapler Model Z</Nome_Produto>
+    <Preco_Unitario>1480.94</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>236.95</Imposto>
+    <Valor_Total>3198.83</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>42.37</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>12</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1036</ID_Pedido>
+    <Data_Pedido>2023-12-19</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email/>
+    <Regiao>OCEANIA</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_3</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model Z</Nome_Produto>
+    <Preco_Unitario>1119.56</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>716.52</Imposto>
+    <Valor_Total>9673.0</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>34.33</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>19</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1037</ID_Pedido>
+    <Data_Pedido>2023-09-29</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>EUROPA</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_16</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Laptop</Subcategoria>
+    <Nome_Produto>Laptop Model C</Nome_Produto>
+    <Preco_Unitario>1875.01</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>1200.01</Imposto>
+    <Valor_Total>16200.09</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>46.11</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>17</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1038</ID_Pedido>
+    <Data_Pedido>05-29-2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_10</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Stapler</Subcategoria>
+    <Nome_Produto>Stapler Model A</Nome_Produto>
+    <Preco_Unitario>528.41</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>380.46</Imposto>
+    <Valor_Total>5136.15</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>42.94</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>5</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1039</ID_Pedido>
+    <Data_Pedido>25/09/2023</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_18</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Stapler</Subcategoria>
+    <Nome_Produto>Stapler Model B</Nome_Produto>
+    <Preco_Unitario>579.48</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>370.87</Imposto>
+    <Valor_Total>5006.71</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>35.22</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>7</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1040</ID_Pedido>
+    <Data_Pedido>2023-09-26</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_4</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model C</Nome_Produto>
+    <Preco_Unitario>1487.54</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>238.01</Imposto>
+    <Valor_Total>3213.09</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>5.02</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>11</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1041</ID_Pedido>
+    <Data_Pedido>03/10/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_10</Cidade>
+    <Categoria>eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model A</Nome_Produto>
+    <Preco_Unitario>1787.2</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>285.95</Imposto>
+    <Valor_Total>3860.35</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>36.53</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>7</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1042</ID_Pedido>
+    <Data_Pedido>2023-07-04</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model X</Nome_Produto>
+    <Preco_Unitario>392.55</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>94.21</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>16.98</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>6</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1043</ID_Pedido>
+    <Data_Pedido>2023-07-19</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao/>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_20</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Lamp</Subcategoria>
+    <Nome_Produto>Lamp Model Z</Nome_Produto>
+    <Preco_Unitario>1108.63</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>798.21</Imposto>
+    <Valor_Total>10775.88</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>44.94</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>25</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1044</ID_Pedido>
+    <Data_Pedido>26/05/2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model C</Nome_Produto>
+    <Preco_Unitario>737.63</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>413.07</Imposto>
+    <Valor_Total>5576.48</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>9.76</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>20</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1045</ID_Pedido>
+    <Data_Pedido>07-30-2023</Data_Pedido>
+    <Nome_Cliente>  John Doe  </Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_20</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model C</Nome_Produto>
+    <Preco_Unitario>281.87</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>225.5</Imposto>
+    <Valor_Total>3044.2</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>6</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1046</ID_Pedido>
+    <Data_Pedido>2023-10-27</Data_Pedido>
+    <Nome_Cliente>  Jane Smith  </Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_12</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model B</Nome_Produto>
+    <Preco_Unitario>159.99</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>51.2</Imposto>
+    <Valor_Total>691.16</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>19.07</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>3</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1047</ID_Pedido>
+    <Data_Pedido>2023-02-05</Data_Pedido>
+    <Nome_Cliente>  John Doe  </Nome_Cliente>
+    <Email/>
+    <Regiao/>
+    <Pais>EUA</Pais>
+    <Cidade>City_18</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Lipstick</Subcategoria>
+    <Nome_Produto>Lipstick Model C</Nome_Produto>
+    <Preco_Unitario>998.99</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>239.76</Imposto>
+    <Valor_Total>3236.73</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1048</ID_Pedido>
+    <Data_Pedido>2023-01-01</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model A</Nome_Produto>
+    <Preco_Unitario>596.43</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>477.14</Imposto>
+    <Valor_Total>6441.44</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>21.84</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>28</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1049</ID_Pedido>
+    <Data_Pedido>19/08/2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_9</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Curtains</Subcategoria>
+    <Nome_Produto>Curtains Model X</Nome_Produto>
+    <Preco_Unitario>1301.52</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>937.09</Imposto>
+    <Valor_Total>12650.77</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>8</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1050</ID_Pedido>
+    <Data_Pedido>28/10/2023</Data_Pedido>
+    <Nome_Cliente>  John Doe  </Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao/>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model C</Nome_Produto>
+    <Preco_Unitario>613.9</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>392.9</Imposto>
+    <Valor_Total>5304.1</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>30.38</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>11</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1051</ID_Pedido>
+    <Data_Pedido>27/06/2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_4</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Lamp</Subcategoria>
+    <Nome_Produto>Lamp Model Z</Nome_Produto>
+    <Preco_Unitario>968.97</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>310.07</Imposto>
+    <Valor_Total>4185.95</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>42.29</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>12</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1052</ID_Pedido>
+    <Data_Pedido>01-26-2023</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model X</Nome_Produto>
+    <Preco_Unitario>268.28</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>64.39</Imposto>
+    <Valor_Total>869.23</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>29.27</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>6</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1053</ID_Pedido>
+    <Data_Pedido>04-01-2023</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model B</Nome_Produto>
+    <Preco_Unitario>1668.9</Preco_Unitario>
+    <Quantidade>5</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>667.56</Imposto>
+    <Valor_Total>9012.06</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>21</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1054</ID_Pedido>
+    <Data_Pedido>2023-02-23</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_9</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Tablet</Subcategoria>
+    <Nome_Produto>Tablet Model B</Nome_Produto>
+    <Preco_Unitario>1087.41</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>869.93</Imposto>
+    <Valor_Total>11744.03</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>41.58</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>30</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1055</ID_Pedido>
+    <Data_Pedido>04-05-2023</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model A</Nome_Produto>
+    <Preco_Unitario>712.68</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>456.12</Imposto>
+    <Valor_Total>6157.56</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>35.49</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>14</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1056</ID_Pedido>
+    <Data_Pedido>2023-10-14</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_9</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Headphones</Subcategoria>
+    <Nome_Produto>Headphones Model C</Nome_Produto>
+    <Preco_Unitario>261.51</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>41.84</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>46.42</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>25</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1057</ID_Pedido>
+    <Data_Pedido>30/05/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Tablet</Subcategoria>
+    <Nome_Produto>Tablet Model C</Nome_Produto>
+    <Preco_Unitario>1395.89</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>781.7</Imposto>
+    <Valor_Total>10552.93</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>17.66</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>19</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1058</ID_Pedido>
+    <Data_Pedido>07-26-2023</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Perfume</Subcategoria>
+    <Nome_Produto>Perfume Model A</Nome_Produto>
+    <Preco_Unitario>1146.56</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>183.45</Imposto>
+    <Valor_Total>2476.57</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>44.07</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>7</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1059</ID_Pedido>
+    <Data_Pedido>2023-04-19</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_12</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Tablet</Subcategoria>
+    <Nome_Produto>Tablet Model A</Nome_Produto>
+    <Preco_Unitario>1001.0</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>240.24</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>10.81</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1060</ID_Pedido>
+    <Data_Pedido>12/01/2023</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_16</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Curtains</Subcategoria>
+    <Nome_Produto>Curtains Model A</Nome_Produto>
+    <Preco_Unitario>1021.03</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>163.36</Imposto>
+    <Valor_Total>2205.42</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>27.84</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>12</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1061</ID_Pedido>
+    <Data_Pedido>10-19-2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_14</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model C</Nome_Produto>
+    <Preco_Unitario>103.44</Preco_Unitario>
+    <Quantidade>5</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>41.38</Imposto>
+    <Valor_Total>558.58</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>18.33</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>17</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1062</ID_Pedido>
+    <Data_Pedido>2023-07-16</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Estados Unidos</Pais>
+    <Cidade>City_5</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Stapler</Subcategoria>
+    <Nome_Produto>Stapler Model B</Nome_Produto>
+    <Preco_Unitario>1039.79</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>332.73</Imposto>
+    <Valor_Total>4491.89</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>46.24</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>15</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1063</ID_Pedido>
+    <Data_Pedido>2023-02-04</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_10</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model C</Nome_Produto>
+    <Preco_Unitario>1507.0</Preco_Unitario>
+    <Quantidade>5</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>602.8</Imposto>
+    <Valor_Total>8137.8</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>31.74</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>1</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1064</ID_Pedido>
+    <Data_Pedido>2023-06-25</Data_Pedido>
+    <Nome_Cliente>  Carlos Ruiz  </Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_5</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model A</Nome_Produto>
+    <Preco_Unitario>1003.05</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>481.46</Imposto>
+    <Valor_Total>6499.76</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>45.31</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1065</ID_Pedido>
+    <Data_Pedido>06/01/2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email/>
+    <Regiao>Oceania</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Pen</Subcategoria>
+    <Nome_Produto>Pen Model X</Nome_Produto>
+    <Preco_Unitario>1935.06</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>154.8</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>16.45</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>29</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1066</ID_Pedido>
+    <Data_Pedido>17/12/2023</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_11</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Tablet</Subcategoria>
+    <Nome_Produto>Tablet Model A</Nome_Produto>
+    <Preco_Unitario>1472.35</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>353.36</Imposto>
+    <Valor_Total>4770.41</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>14.69</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>14</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1067</ID_Pedido>
+    <Data_Pedido>2023-01-25</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_12</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Lipstick</Subcategoria>
+    <Nome_Produto>Lipstick Model C</Nome_Produto>
+    <Preco_Unitario>1967.34</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>157.39</Imposto>
+    <Valor_Total>2124.73</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>10.25</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>30</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1068</ID_Pedido>
+    <Data_Pedido>2023-02-17</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Jacket</Subcategoria>
+    <Nome_Produto>Jacket Model A</Nome_Produto>
+    <Preco_Unitario>637.84</Preco_Unitario>
+    <Quantidade>5</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>255.14</Imposto>
+    <Valor_Total>3444.34</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>48.08</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>24</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1069</ID_Pedido>
+    <Data_Pedido>2023-09-08</Data_Pedido>
+    <Nome_Cliente>  Li Wei  </Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model X</Nome_Produto>
+    <Preco_Unitario>1400.08</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>1120.06</Imposto>
+    <Valor_Total>15120.86</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>33.28</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1070</ID_Pedido>
+    <Data_Pedido>04-08-2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_20</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Vase</Subcategoria>
+    <Nome_Produto>Vase Model A</Nome_Produto>
+    <Preco_Unitario>1892.23</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>1211.03</Imposto>
+    <Valor_Total>16348.87</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>49.27</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>13</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1071</ID_Pedido>
+    <Data_Pedido>08-12-2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Pen</Subcategoria>
+    <Nome_Produto>Pen Model B</Nome_Produto>
+    <Preco_Unitario>913.64</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>730.91</Imposto>
+    <Valor_Total>9867.31</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>25.57</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>8</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1072</ID_Pedido>
+    <Data_Pedido>2023-03-30</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email/>
+    <Regiao>Europa</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_14</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Headphones</Subcategoria>
+    <Nome_Produto>Headphones Model Z</Nome_Produto>
+    <Preco_Unitario>33.11</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>10.6</Imposto>
+    <Valor_Total>143.04</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>33.84</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>3</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1073</ID_Pedido>
+    <Data_Pedido>2023-11-19</Data_Pedido>
+    <Nome_Cliente>  Li Wei  </Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>T-shirt</Subcategoria>
+    <Nome_Produto>T-shirt Model C</Nome_Produto>
+    <Preco_Unitario>940.48</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>75.24</Imposto>
+    <Valor_Total>1015.72</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>47.48</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>25</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1074</ID_Pedido>
+    <Data_Pedido>2023-04-16</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model X</Nome_Produto>
+    <Preco_Unitario>362.02</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>57.92</Imposto>
+    <Valor_Total>781.96</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>47.7</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>10</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1075</ID_Pedido>
+    <Data_Pedido>2023-06-05</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao/>
+    <Pais>China</Pais>
+    <Cidade>City_10</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model X</Nome_Produto>
+    <Preco_Unitario>1047.39</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>670.33</Imposto>
+    <Valor_Total>9049.45</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>40.89</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>11</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1076</ID_Pedido>
+    <Data_Pedido>2023-01-18</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model A</Nome_Produto>
+    <Preco_Unitario>283.58</Preco_Unitario>
+    <Quantidade>5</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>113.43</Imposto>
+    <Valor_Total>1531.33</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>12.43</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1077</ID_Pedido>
+    <Data_Pedido>28/11/2023</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>AMÉRICA DO NORTE</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_4</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model X</Nome_Produto>
+    <Preco_Unitario>636.99</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>356.71</Imposto>
+    <Valor_Total>4815.64</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>10.77</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>30</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1078</ID_Pedido>
+    <Data_Pedido>07-08-2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_10</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model X</Nome_Produto>
+    <Preco_Unitario>1809.13</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>289.46</Imposto>
+    <Valor_Total>3907.72</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>22.29</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>18</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1079</ID_Pedido>
+    <Data_Pedido>19/04/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email/>
+    <Regiao>América do Sul</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_11</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Laptop</Subcategoria>
+    <Nome_Produto>Laptop Model C</Nome_Produto>
+    <Preco_Unitario>856.88</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>205.65</Imposto>
+    <Valor_Total>2776.29</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>45.08</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>17</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1080</ID_Pedido>
+    <Data_Pedido>09-21-2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Lipstick</Subcategoria>
+    <Nome_Produto>Lipstick Model C</Nome_Produto>
+    <Preco_Unitario>409.53</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>98.29</Imposto>
+    <Valor_Total>1326.88</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>33.33</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>26</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1081</ID_Pedido>
+    <Data_Pedido>2023-07-27</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>AMÉRICA DO NORTE</Regiao>
+    <Pais>Estados Unidos</Pais>
+    <Cidade>City_5</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Pen</Subcategoria>
+    <Nome_Produto>Pen Model Z</Nome_Produto>
+    <Preco_Unitario>1835.77</Preco_Unitario>
+    <Quantidade>5</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>734.31</Imposto>
+    <Valor_Total>9913.16</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>18.91</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>24</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1082</ID_Pedido>
+    <Data_Pedido>27/11/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model C</Nome_Produto>
+    <Preco_Unitario>983.35</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>472.01</Imposto>
+    <Valor_Total>6372.11</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>16.44</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>20</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1083</ID_Pedido>
+    <Data_Pedido>05-09-2023</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model C</Nome_Produto>
+    <Preco_Unitario>503.53</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>40.28</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>34.35</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>13</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1084</ID_Pedido>
+    <Data_Pedido>10-10-2023</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model C</Nome_Produto>
+    <Preco_Unitario>1959.44</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>1254.04</Imposto>
+    <Valor_Total>16929.56</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>33.67</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>8</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1085</ID_Pedido>
+    <Data_Pedido>2023-03-06</Data_Pedido>
+    <Nome_Cliente>  Li Wei  </Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model C</Nome_Produto>
+    <Preco_Unitario>65.7</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>52.56</Imposto>
+    <Valor_Total>709.56</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>21.54</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>26</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1086</ID_Pedido>
+    <Data_Pedido>04-25-2023</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_2</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>T-shirt</Subcategoria>
+    <Nome_Produto>T-shirt Model A</Nome_Produto>
+    <Preco_Unitario>383.22</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>245.26</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>31.62</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>11</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1087</ID_Pedido>
+    <Data_Pedido>2024-02-03</Data_Pedido>
+    <Nome_Cliente>  Hans Schmidt  </Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_14</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Curtains</Subcategoria>
+    <Nome_Produto>Curtains Model C</Nome_Produto>
+    <Preco_Unitario>1190.71</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>95.26</Imposto>
+    <Valor_Total>1285.97</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>23.33</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>25</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1088</ID_Pedido>
+    <Data_Pedido>29/08/2023</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_18</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model X</Nome_Produto>
+    <Preco_Unitario>738.32</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>413.46</Imposto>
+    <Valor_Total>5581.7</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>13.44</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>30</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1089</ID_Pedido>
+    <Data_Pedido>02-19-2023</Data_Pedido>
+    <Nome_Cliente>  Jane Smith  </Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao/>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model A</Nome_Produto>
+    <Preco_Unitario>624.07</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>449.33</Imposto>
+    <Valor_Total>6065.96</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>34.09</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>8</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1090</ID_Pedido>
+    <Data_Pedido>21/04/2023</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Curtains</Subcategoria>
+    <Nome_Produto>Curtains Model B</Nome_Produto>
+    <Preco_Unitario>1213.4</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>388.29</Imposto>
+    <Valor_Total>5241.89</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>42.9</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>3</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1091</ID_Pedido>
+    <Data_Pedido>2023-03-06</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_5</Cidade>
+    <Categoria>saúde e beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model A</Nome_Produto>
+    <Preco_Unitario>1835.82</Preco_Unitario>
+    <Quantidade>5</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>734.33</Imposto>
+    <Valor_Total>9913.43</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>5.14</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>14</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1092</ID_Pedido>
+    <Data_Pedido>09-26-2023</Data_Pedido>
+    <Nome_Cliente>  Fatima Zahra  </Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Estados Unidos</Pais>
+    <Cidade>City_14</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Paper</Subcategoria>
+    <Nome_Produto>Paper Model Z</Nome_Produto>
+    <Preco_Unitario>1125.44</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>360.14</Imposto>
+    <Valor_Total>4861.9</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>15</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1093</ID_Pedido>
+    <Data_Pedido>04/06/2023</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Japão</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Perfume</Subcategoria>
+    <Nome_Produto>Perfume Model Z</Nome_Produto>
+    <Preco_Unitario>563.66</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>270.56</Imposto>
+    <Valor_Total>3652.52</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>13.52</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>27</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1094</ID_Pedido>
+    <Data_Pedido>19/08/2023</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao/>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_20</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Stapler</Subcategoria>
+    <Nome_Produto>Stapler Model B</Nome_Produto>
+    <Preco_Unitario>892.3</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>214.15</Imposto>
+    <Valor_Total>2891.05</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>26.0</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>1</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1095</ID_Pedido>
+    <Data_Pedido>11-27-2023</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Shoes</Subcategoria>
+    <Nome_Produto>Shoes Model X</Nome_Produto>
+    <Preco_Unitario>1712.01</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>547.84</Imposto>
+    <Valor_Total>7395.88</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>31.02</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>12</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1096</ID_Pedido>
+    <Data_Pedido>06-20-2023</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Jeans</Subcategoria>
+    <Nome_Produto>Jeans Model X</Nome_Produto>
+    <Preco_Unitario>1476.96</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>236.31</Imposto>
+    <Valor_Total>3190.23</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>47.19</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>19</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1097</ID_Pedido>
+    <Data_Pedido>2023-10-17</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_14</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model Z</Nome_Produto>
+    <Preco_Unitario>520.85</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>416.68</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>5</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1098</ID_Pedido>
+    <Data_Pedido>2023-03-09</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Pen</Subcategoria>
+    <Nome_Produto>Pen Model Z</Nome_Produto>
+    <Preco_Unitario>1278.18</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>818.04</Imposto>
+    <Valor_Total>11043.48</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>33.69</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>8</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1099</ID_Pedido>
+    <Data_Pedido>19/01/2024</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Estados Unidos</Pais>
+    <Cidade>City_1</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Rug</Subcategoria>
+    <Nome_Produto>Rug Model C</Nome_Produto>
+    <Preco_Unitario>471.31</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>75.41</Imposto>
+    <Valor_Total>1018.03</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>25.88</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>11</Dias_Entrega>
+    <Avaliacao>1.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1100</ID_Pedido>
+    <Data_Pedido>18/01/2024</Data_Pedido>
+    <Nome_Cliente>  Maria Silva  </Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Jacket</Subcategoria>
+    <Nome_Produto>Jacket Model Z</Nome_Produto>
+    <Preco_Unitario>1047.05</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>335.06</Imposto>
+    <Valor_Total>4523.26</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>14.11</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>1</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1101</ID_Pedido>
+    <Data_Pedido>2023-02-17</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email/>
+    <Regiao>África</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_15</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model B</Nome_Produto>
+    <Preco_Unitario>1751.4</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>840.67</Imposto>
+    <Valor_Total>11349.07</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>43.67</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>24</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1102</ID_Pedido>
+    <Data_Pedido>2023-03-14</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_7</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Paper</Subcategoria>
+    <Nome_Produto>Paper Model Z</Nome_Produto>
+    <Preco_Unitario>1978.93</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>949.89</Imposto>
+    <Valor_Total>12823.47</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>16.8</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>17</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1103</ID_Pedido>
+    <Data_Pedido>2023-12-17</Data_Pedido>
+    <Nome_Cliente>Li Wei</Nome_Cliente>
+    <Email>li.wei@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_5</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model A</Nome_Produto>
+    <Preco_Unitario>1984.56</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>317.53</Imposto>
+    <Valor_Total>4286.65</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>40.82</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>6</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1104</ID_Pedido>
+    <Data_Pedido>2023-11-15</Data_Pedido>
+    <Nome_Cliente>Maria Silva</Nome_Cliente>
+    <Email>maria.silva@example.com</Email>
+    <Regiao>EUROPA</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_14</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model Z</Nome_Produto>
+    <Preco_Unitario>1346.0</Preco_Unitario>
+    <Quantidade>8</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>861.44</Imposto>
+    <Valor_Total>11629.44</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>11.06</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>4</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1105</ID_Pedido>
+    <Data_Pedido>01-04-2024</Data_Pedido>
+    <Nome_Cliente>  John Doe  </Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>AMÉRICA DO NORTE</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_15</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model Z</Nome_Produto>
+    <Preco_Unitario>1695.88</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>949.69</Imposto>
+    <Valor_Total>12820.85</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>17.58</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>24</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1106</ID_Pedido>
+    <Data_Pedido>2023-04-20</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao/>
+    <Pais>EUA</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Lipstick</Subcategoria>
+    <Nome_Produto>Lipstick Model A</Nome_Produto>
+    <Preco_Unitario>784.9</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>565.13</Imposto>
+    <Valor_Total>7629.23</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>46.53</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>13</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1107</ID_Pedido>
+    <Data_Pedido>12/07/2023</Data_Pedido>
+    <Nome_Cliente>  Carlos Ruiz  </Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_1</Cidade>
+    <Categoria>decoração</Categoria>
+    <Subcategoria>Lamp</Subcategoria>
+    <Nome_Produto>Lamp Model Z</Nome_Produto>
+    <Preco_Unitario>1210.82</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>581.19</Imposto>
+    <Valor_Total/>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>41.33</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>29</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1108</ID_Pedido>
+    <Data_Pedido>01-17-2023</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_4</Cidade>
+    <Categoria>vestuário</Categoria>
+    <Subcategoria>Jeans</Subcategoria>
+    <Nome_Produto>Jeans Model B</Nome_Produto>
+    <Preco_Unitario>962.19</Preco_Unitario>
+    <Quantidade>4</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>307.9</Imposto>
+    <Valor_Total>4156.66</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>25.28</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>8</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1109</ID_Pedido>
+    <Data_Pedido>2023-01-11</Data_Pedido>
+    <Nome_Cliente>Carlos Ruiz</Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_9</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Perfume</Subcategoria>
+    <Nome_Produto>Perfume Model X</Nome_Produto>
+    <Preco_Unitario>245.88</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.05</Desconto>
+    <Imposto>19.67</Imposto>
+    <Valor_Total>265.55</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>47.55</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1110</ID_Pedido>
+    <Data_Pedido>30/05/2023</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_2</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Shampoo</Subcategoria>
+    <Nome_Produto>Shampoo Model X</Nome_Produto>
+    <Preco_Unitario>103.02</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>82.42</Imposto>
+    <Valor_Total>1112.62</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>33.95</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>2</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1111</ID_Pedido>
+    <Data_Pedido>2023-11-27</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao/>
+    <Pais>Brasil</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model C</Nome_Produto>
+    <Preco_Unitario>1327.96</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>956.13</Imposto>
+    <Valor_Total>12907.77</Valor_Total>
+    <Metodo_Envio>Expresso</Metodo_Envio>
+    <Custo_Envio>47.2</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>13</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1112</ID_Pedido>
+    <Data_Pedido>2023-02-12</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>África</Regiao>
+    <Pais>EUA</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Smartphone</Subcategoria>
+    <Nome_Produto>Smartphone Model X</Nome_Produto>
+    <Preco_Unitario>1962.99</Preco_Unitario>
+    <Quantidade>5</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>785.2</Imposto>
+    <Valor_Total>10600.15</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>41.1</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1113</ID_Pedido>
+    <Data_Pedido>2023-01-17</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>América do Norte</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Cream</Subcategoria>
+    <Nome_Produto>Cream Model X</Nome_Produto>
+    <Preco_Unitario>1167.34</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>186.77</Imposto>
+    <Valor_Total>2521.45</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>9.01</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>17</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1114</ID_Pedido>
+    <Data_Pedido>23/02/2023</Data_Pedido>
+    <Nome_Cliente>  Carlos Ruiz  </Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_1</Cidade>
+    <Categoria>Materiais de Escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model X</Nome_Produto>
+    <Preco_Unitario>1829.14</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>146.33</Imposto>
+    <Valor_Total>1975.47</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>21.81</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>7</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1115</ID_Pedido>
+    <Data_Pedido>2023-11-23</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Tablet</Subcategoria>
+    <Nome_Produto>Tablet Model Z</Nome_Produto>
+    <Preco_Unitario>1621.06</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>129.68</Imposto>
+    <Valor_Total>1750.74</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>18.95</Custo_Envio>
+    <Status_Pagamento>Pendente</Status_Pagamento>
+    <Dias_Entrega>21</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1116</ID_Pedido>
+    <Data_Pedido>2023-01-19</Data_Pedido>
+    <Nome_Cliente>  John Doe  </Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>Europa</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_4</Cidade>
+    <Categoria>materiais de escritório</Categoria>
+    <Subcategoria>Folder</Subcategoria>
+    <Nome_Produto>Folder Model C</Nome_Produto>
+    <Preco_Unitario>1983.44</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>1110.73</Imposto>
+    <Valor_Total>14994.81</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio/>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>22</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1117</ID_Pedido>
+    <Data_Pedido>01/02/2023</Data_Pedido>
+    <Nome_Cliente>  John Doe  </Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Brasil</Pais>
+    <Cidade>City_6</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Tablet</Subcategoria>
+    <Nome_Produto>Tablet Model A</Nome_Produto>
+    <Preco_Unitario>1449.18</Preco_Unitario>
+    <Quantidade>1</Quantidade>
+    <Desconto>0.15</Desconto>
+    <Imposto>115.93</Imposto>
+    <Valor_Total>1565.11</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>9.98</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1118</ID_Pedido>
+    <Data_Pedido>12/12/2023</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao/>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_9</Cidade>
+    <Categoria>Decoração</Categoria>
+    <Subcategoria>Curtains</Subcategoria>
+    <Nome_Produto>Curtains Model C</Nome_Produto>
+    <Preco_Unitario>699.84</Preco_Unitario>
+    <Quantidade>2</Quantidade>
+    <Desconto>0</Desconto>
+    <Imposto>111.97</Imposto>
+    <Valor_Total>1511.65</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>40.6</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>21</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1119</ID_Pedido>
+    <Data_Pedido>2023-08-19</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>Oceania</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_19</Cidade>
+    <Categoria>Saúde e Beleza</Categoria>
+    <Subcategoria>Lipstick</Subcategoria>
+    <Nome_Produto>Lipstick Model Z</Nome_Produto>
+    <Preco_Unitario>453.62</Preco_Unitario>
+    <Quantidade>7</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>254.03</Imposto>
+    <Valor_Total>3429.37</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>13.08</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>19</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1000</ID_Pedido>
+    <Data_Pedido>01-13-2023</Data_Pedido>
+    <Nome_Cliente>John Doe</Nome_Cliente>
+    <Email>john.doe@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Reino Unido</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Jeans</Subcategoria>
+    <Nome_Produto>Jeans Model B</Nome_Produto>
+    <Preco_Unitario>1551.54</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>0.2</Desconto>
+    <Imposto>372.37</Imposto>
+    <Valor_Total>5026.99</Valor_Total>
+    <Metodo_Envio>Padrão</Metodo_Envio>
+    <Custo_Envio>45.56</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>9</Dias_Entrega>
+    <Avaliacao/>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1001</ID_Pedido>
+    <Data_Pedido>09/01/2024</Data_Pedido>
+    <Nome_Cliente>Fatima Zahra</Nome_Cliente>
+    <Email>fatima.zahra@example.com</Email>
+    <Regiao>Ásia</Regiao>
+    <Pais>China</Pais>
+    <Cidade>City_13</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Headphones</Subcategoria>
+    <Nome_Produto>Headphones Model B</Nome_Produto>
+    <Preco_Unitario>1430.99</Preco_Unitario>
+    <Quantidade>9</Quantidade>
+    <Desconto>5%</Desconto>
+    <Imposto>1030.31</Imposto>
+    <Valor_Total>13909.22</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>44.93</Custo_Envio>
+    <Status_Pagamento>Reembolsado</Status_Pagamento>
+    <Dias_Entrega>5</Dias_Entrega>
+    <Avaliacao>4.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1002</ID_Pedido>
+    <Data_Pedido>10-07-2023</Data_Pedido>
+    <Nome_Cliente>Hans Schmidt</Nome_Cliente>
+    <Email>hans.schmidt@example.com</Email>
+    <Regiao>OCEANIA</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_8</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>T-shirt</Subcategoria>
+    <Nome_Produto>T-shirt Model A</Nome_Produto>
+    <Preco_Unitario>997.11</Preco_Unitario>
+    <Quantidade>6</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>478.61</Imposto>
+    <Valor_Total>6461.27</Valor_Total>
+    <Metodo_Envio>Entrega Rápida</Metodo_Envio>
+    <Custo_Envio>42.15</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>16</Dias_Entrega>
+    <Avaliacao>5.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1003</ID_Pedido>
+    <Data_Pedido>2023-10-01</Data_Pedido>
+    <Nome_Cliente>  Carlos Ruiz  </Nome_Cliente>
+    <Email>carlos.ruiz@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Alemanha</Pais>
+    <Cidade>City_17</Cidade>
+    <Categoria>Eletrônicos</Categoria>
+    <Subcategoria>Tablet</Subcategoria>
+    <Nome_Produto>Tablet Model X</Nome_Produto>
+    <Preco_Unitario>1829.24</Preco_Unitario>
+    <Quantidade>3</Quantidade>
+    <Desconto>10%</Desconto>
+    <Imposto>439.02</Imposto>
+    <Valor_Total>5926.74</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>46.86</Custo_Envio>
+    <Status_Pagamento>Cancelado</Status_Pagamento>
+    <Dias_Entrega>4</Dias_Entrega>
+    <Avaliacao>2.0</Avaliacao>
+  </Pedido>
+  <Pedido>
+    <ID_Pedido>1004</ID_Pedido>
+    <Data_Pedido>20/12/2023</Data_Pedido>
+    <Nome_Cliente>Jane Smith</Nome_Cliente>
+    <Email>jane.smith@example.com</Email>
+    <Regiao>América do Sul</Regiao>
+    <Pais>Estados Unidos</Pais>
+    <Cidade>City_10</Cidade>
+    <Categoria>Vestuário</Categoria>
+    <Subcategoria>Jeans</Subcategoria>
+    <Nome_Produto>Jeans Model A</Nome_Produto>
+    <Preco_Unitario>1532.35</Preco_Unitario>
+    <Quantidade>10</Quantidade>
+    <Desconto>0.1</Desconto>
+    <Imposto>1225.88</Imposto>
+    <Valor_Total>16549.38</Valor_Total>
+    <Metodo_Envio>Frete Grátis</Metodo_Envio>
+    <Custo_Envio>42.81</Custo_Envio>
+    <Status_Pagamento>Pago</Status_Pagamento>
+    <Dias_Entrega>23</Dias_Entrega>
+    <Avaliacao>3.0</Avaliacao>
+  </Pedido>
+</Pedidos>

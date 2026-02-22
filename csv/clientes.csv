@@ -1,0 +1,51 @@
+ClienteID,Nome,Genero,Idade,Cidade,Estado,Email,Telefone,Plano,DataCadastro
+1,Ana Souza,F,58,São Paulo,SP,ana.souza@gmail.com,(19) 994108603,Bronze,2022-03-24
+2,Carlos Lima,M,24,Campinas,SP,carlos.lima@gmail.com,(19) 990533224,Ouro,2022-02-07
+3,Mariana Alves,F,32,Rio de Janeiro,RJ,mariana.alves@gmail.com,(21) 999142600,Ouro,2023-04-15
+4,João Pedro,M,55,Belo Horizonte,MG,joao.pedro@gmail.com,(31) 997090293,Prata,2023-05-05
+5,Fernanda Rocha,F,31,Curitiba,PR,fernanda.rocha@gmail.com,(41) 996374122,Prata,2022-06-28
+6,Lucas Martins,M,40,Salvador,BA,lucas.martins@yahoo.com.br,(71) 997707870,Ouro,2024-02-13
+7,Juliana Costa,F,23,Recife,PE,juliana.costa@yahoo.com.br,(81) 999686361,Ouro,2022-12-03
+8,Rafael Gomes,M,20,Fortaleza,CE,rafael.gomes@hotmail.com,(85) 991338687,Ouro,2022-02-13
+9,Beatriz Lima,F,35,Porto Alegre,RS,beatriz.lima@yahoo.com.br,(51) 996210606,Prata,2023-04-22
+10,Eduardo Silva,M,35,Goiânia,GO,eduardo.silva@gmail.com,(62) 998961380,Ouro,2024-04-06
+11,Camila Ferreira,F,47,São Paulo,SP,camila.ferreira@yahoo.com.br,(11) 995440561,Prata,2022-04-27
+12,Daniel Ramos,M,20,Campinas,SP,daniel.ramos@outlook.com,(19) 991110460,Prata,2022-10-23
+13,Paula Mendes,F,38,Rio de Janeiro,RJ,paula.mendes@outlook.com,(21) 997698256,Bronze,2022-05-05
+14,Gustavo Alves,M,33,Belo Horizonte,MG,gustavo.alves@yahoo.com.br,(31) 999790057,Ouro,2023-06-08
+15,Larissa Costa,F,26,Curitiba,PR,larissa.costa@outlook.com,(41) 990790481,Ouro,2022-03-21
+16,Tiago Oliveira,M,28,Salvador,BA,tiago.oliveira@outlook.com,(71) 996455324,Ouro,2023-10-15
+17,Vanessa Lima,F,51,Recife,PE,vanessa.lima@gmail.com,(81) 999008867,Prata,2023-11-11
+18,Bruno Castro,M,25,Fortaleza,CE,bruno.castro@outlook.com,(85) 997612220,Prata,2022-12-24
+19,Aline Rocha,F,34,Porto Alegre,RS,aline.rocha@hotmail.com,(51) 995007072,Ouro,2024-09-20
+20,Marcos Pinto,M,30,Goiânia,GO,marcos.pinto@yahoo.com.br,(62) 999049278,Bronze,2024-01-20
+21,Renata Souza,F,38,São Paulo,SP,renata.souza@gmail.com,(11) 996089806,Prata,2023-04-02
+22,Felipe Nunes,M,33,Campinas,SP,felipe.nunes@gmail.com,(11) 998153566,Ouro,2022-09-25
+23,Patrícia Moraes,F,26,Rio de Janeiro,RJ,patricia.moraes@outlook.com,(21) 994446912,Bronze,2024-10-14
+24,André Luiz,M,31,Belo Horizonte,MG,andre.luiz@hotmail.com,(31) 996693979,Ouro,2024-11-12
+25,Simone Ribeiro,F,46,Curitiba,PR,simone.ribeiro@outlook.com,(41) 994159166,Ouro,2022-02-11
+26,Ricardo Lopes,M,19,Salvador,BA,ricardo.lopes@hotmail.com,(71) 990120642,Ouro,2022-12-21
+27,Amanda Dias,F,21,Recife,PE,amanda.dias@gmail.com,(81) 995543670,Bronze,2022-09-08
+28,Vinicius Melo,M,35,Fortaleza,CE,vinicius.melo@outlook.com,(85) 999046844,Ouro,2022-12-19
+29,Thaís Andrade,F,54,Porto Alegre,RS,thais.andrade@hotmail.com,(51) 996829332,Prata,2022-02-04
+30,Leandro Costa,M,60,Goiânia,GO,leandro.costa@yahoo.com.br,(62) 996897151,Prata,2023-12-02
+31,Carla Mendes,F,59,São Paulo,SP,carla.mendes@gmail.com,(11) 996754864,Ouro,2024-06-26
+32,Rodrigo Alves,M,24,Campinas,SP,rodrigo.alves@hotmail.com,(11) 998997381,Bronze,2023-03-14
+33,Débora Lima,F,29,Rio de Janeiro,RJ,debora.lima@outlook.com,(21) 991264748,Prata,2023-09-04
+34,Marcelo Silva,M,21,Belo Horizonte,MG,marcelo.silva@gmail.com,(31) 993965789,Ouro,2022-07-16
+35,Bruna Rocha,F,48,Curitiba,PR,bruna.rocha@outlook.com,(41) 992762152,Bronze,2023-01-13
+36,Diego Martins,M,34,Salvador,BA,diego.martins@yahoo.com.br,(71) 999324245,Prata,2024-12-16
+37,Elisa Santos,F,27,Recife,PE,elisa.santos@yahoo.com.br,(81) 990981186,Bronze,2024-12-18
+38,Henrique Ramos,M,21,Fortaleza,CE,henrique.ramos@yahoo.com.br,(85) 990841248,Ouro,2024-08-17
+39,Camila Pinto,F,51,Porto Alegre,RS,camila.pinto@gmail.com,(51) 993117625,Bronze,2022-10-03
+40,Leonardo Souza,M,33,Goiânia,GO,leonardo.souza@gmail.com,(62) 999712650,Prata,2024-01-20
+41,Isabela Moraes,F,23,São Paulo,SP,isabela.moraes@yahoo.com.br,(19) 993426900,Prata,2024-12-11
+42,Pedro Henrique,M,33,Campinas,SP,pedro.henrique@outlook.com,(11) 995033115,Prata,2023-06-25
+43,Larissa Gomes,F,22,Rio de Janeiro,RJ,larissa.gomes@outlook.com,(21) 991229110,Bronze,2024-04-17
+44,Gabriel Costa,M,34,Belo Horizonte,MG,gabriel.costa@yahoo.com.br,(31) 994098412,Bronze,2023-05-06
+45,Mariana Lopes,F,46,Curitiba,PR,mariana.lopes@yahoo.com.br,(41) 999304682,Ouro,2023-11-04
+46,Thiago Ribeiro,M,26,Salvador,BA,thiago.ribeiro@gmail.com,(71) 999281552,Prata,2022-05-10
+47,Aline Santos,F,56,Recife,PE,aline.santos@yahoo.com.br,(81) 994428914,Bronze,2024-08-09
+48,Fernando Lima,M,21,Fortaleza,CE,fernando.lima@outlook.com,(85) 990739653,Bronze,2022-06-25
+49,Juliana Alves,F,26,Porto Alegre,RS,juliana.alves@yahoo.com.br,(51) 997412769,Ouro,2024-12-14
+50,Renato Castro,M,53,Goiânia,GO,renato.castro@gmail.com,(62) 992500715,Bronze,2024-01-27

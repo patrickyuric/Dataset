@@ -1,0 +1,983 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Netflix>
+  <Item>
+    <Show_ID>1</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Enola Holmes 2</Titulo>
+    <Diretor>David Fincher</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>Japão</Pais>
+    <Data_Adicao>2021-05-01</Data_Adicao>
+    <Ano_Lancamento>2022</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>89 min</Duracao>
+    <Genero>Terror</Genero>
+    <Descricao>Uma produção emocionante de terror ambientada em Japão.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>2</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Irlandês 4</Titulo>
+    <Diretor>David Fincher</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>México</Pais>
+    <Data_Adicao>2022-09-21</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>131 min</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em México.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>3</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Céu da Meia-Noite 4</Titulo>
+    <Diretor>Greta Gerwig</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2023-07-29</Data_Adicao>
+    <Ano_Lancamento>2023</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>162 min</Duracao>
+    <Genero>Suspense</Genero>
+    <Descricao>Uma produção emocionante de suspense ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>4</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Stranger Things (Temporada 3)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Henry Cavill, Freya Allan</Elenco>
+    <Pais>México</Pais>
+    <Data_Adicao>2019-05-19</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>1 Temporadas</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em México.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>5</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Lupin (Temporada 2)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2020-12-28</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>3 Temporadas</Duracao>
+    <Genero>Comédia</Genero>
+    <Descricao>Uma produção emocionante de comédia ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>6</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Bridgerton (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>Japão</Pais>
+    <Data_Adicao>2021-11-12</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>4 Temporadas</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Japão.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>7</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Irlandês 4</Titulo>
+    <Diretor>Christopher Nolan</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>Coreia do Sul</Pais>
+    <Data_Adicao>2023-09-28</Data_Adicao>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Classificacao>10+</Classificacao>
+    <Duracao>102 min</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em Coreia do Sul.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>8</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Irlandês 4</Titulo>
+    <Diretor>Bong Joon-ho</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2020-02-20</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>139 min</Duracao>
+    <Genero>Terror</Genero>
+    <Descricao>Uma produção emocionante de terror ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>9</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Power 1</Titulo>
+    <Diretor>Bong Joon-ho</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>Espanha</Pais>
+    <Data_Adicao>2023-03-14</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>140 min</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Espanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>10</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Lupin (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>Reino Unido</Pais>
+    <Data_Adicao>2019-12-26</Data_Adicao>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>3 Temporadas</Duracao>
+    <Genero>Suspense</Genero>
+    <Descricao>Uma produção emocionante de suspense ambientada em Reino Unido.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>11</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Mank 3</Titulo>
+    <Diretor>Greta Gerwig</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>México</Pais>
+    <Data_Adicao>2023-02-22</Data_Adicao>
+    <Ano_Lancamento>2023</Ano_Lancamento>
+    <Classificacao>10+</Classificacao>
+    <Duracao>131 min</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em México.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>12</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Resgate 3</Titulo>
+    <Diretor>Zack Snyder</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2021-11-23</Data_Adicao>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Classificacao>10+</Classificacao>
+    <Duracao>104 min</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>13</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Crown (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2021-09-08</Data_Adicao>
+    <Ano_Lancamento>2023</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>1 Temporadas</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>14</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Bridgerton (Temporada 3)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Japão</Pais>
+    <Data_Adicao>2022-09-17</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>5 Temporadas</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em Japão.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>15</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Elite (Temporada 3)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Henry Cavill, Freya Allan</Elenco>
+    <Pais>México</Pais>
+    <Data_Adicao>2023-08-07</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>5 Temporadas</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em México.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>16</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Witcher (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2022-01-09</Data_Adicao>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>3 Temporadas</Duracao>
+    <Genero>Terror</Genero>
+    <Descricao>Uma produção emocionante de terror ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>17</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Irlandês 5</Titulo>
+    <Diretor>Ava DuVernay</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2021-05-14</Data_Adicao>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>158 min</Duracao>
+    <Genero>Suspense</Genero>
+    <Descricao>Uma produção emocionante de suspense ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>18</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Bridgerton (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Henry Cavill, Freya Allan</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2019-03-30</Data_Adicao>
+    <Ano_Lancamento>2021</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Ação</Genero>
+    <Descricao>Uma produção emocionante de ação ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>19</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Céu da Meia-Noite 3</Titulo>
+    <Diretor>David Fincher</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2020-04-03</Data_Adicao>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>94 min</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>20</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Power 3</Titulo>
+    <Diretor>David Fincher</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2021-01-11</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>114 min</Duracao>
+    <Genero>Suspense</Genero>
+    <Descricao>Uma produção emocionante de suspense ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>21</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Roma 4</Titulo>
+    <Diretor>Zack Snyder</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>Reino Unido</Pais>
+    <Data_Adicao>2021-08-10</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>95 min</Duracao>
+    <Genero>Comédia</Genero>
+    <Descricao>Uma produção emocionante de comédia ambientada em Reino Unido.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>22</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Bridgerton (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Brasil</Pais>
+    <Data_Adicao>2023-02-07</Data_Adicao>
+    <Ano_Lancamento>2022</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em Brasil.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>23</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>A Caminho da Lua 4</Titulo>
+    <Diretor>Zack Snyder</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Espanha</Pais>
+    <Data_Adicao>2023-01-06</Data_Adicao>
+    <Ano_Lancamento>2023</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>132 min</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em Espanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>24</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Power 1</Titulo>
+    <Diretor>Bong Joon-ho</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2023-08-04</Data_Adicao>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Classificacao>10+</Classificacao>
+    <Duracao>122 min</Duracao>
+    <Genero>Comédia</Genero>
+    <Descricao>Uma produção emocionante de comédia ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>25</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Mank 1</Titulo>
+    <Diretor>Christopher Nolan</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2019-04-27</Data_Adicao>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>135 min</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>26</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>La Casa de Papel (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2020-08-10</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>4 Temporadas</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>27</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Céu da Meia-Noite 3</Titulo>
+    <Diretor>Zack Snyder</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>México</Pais>
+    <Data_Adicao>2021-12-16</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>167 min</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em México.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>28</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Elite (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>Espanha</Pais>
+    <Data_Adicao>2020-08-05</Data_Adicao>
+    <Ano_Lancamento>2020</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>6 Temporadas</Duracao>
+    <Genero>Comédia</Genero>
+    <Descricao>Uma produção emocionante de comédia ambientada em Espanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>29</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Dark (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>Brasil</Pais>
+    <Data_Adicao>2022-02-07</Data_Adicao>
+    <Ano_Lancamento>2021</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>5 Temporadas</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em Brasil.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>30</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Irlandês 4</Titulo>
+    <Diretor>Bong Joon-ho</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>Espanha</Pais>
+    <Data_Adicao>2020-01-21</Data_Adicao>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>173 min</Duracao>
+    <Genero>Ação</Genero>
+    <Descricao>Uma produção emocionante de ação ambientada em Espanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>31</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Bird Box 4</Titulo>
+    <Diretor>Bong Joon-ho</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2023-01-15</Data_Adicao>
+    <Ano_Lancamento>2020</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>156 min</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>32</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Crown (Temporada 3)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2021-01-04</Data_Adicao>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Ação</Genero>
+    <Descricao>Uma produção emocionante de ação ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>33</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Céu da Meia-Noite 4</Titulo>
+    <Diretor>Christopher Nolan</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>Reino Unido</Pais>
+    <Data_Adicao>2022-12-18</Data_Adicao>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>133 min</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Reino Unido.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>34</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Power 1</Titulo>
+    <Diretor>Greta Gerwig</Diretor>
+    <Elenco>Henry Cavill, Freya Allan</Elenco>
+    <Pais>Japão</Pais>
+    <Data_Adicao>2019-03-14</Data_Adicao>
+    <Ano_Lancamento>2021</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>171 min</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Japão.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>35</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Dark (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2020-01-12</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>10+</Classificacao>
+    <Duracao>3 Temporadas</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>36</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Ozark (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2023-09-05</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>37</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Narcos (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>Brasil</Pais>
+    <Data_Adicao>2021-09-04</Data_Adicao>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>1 Temporadas</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em Brasil.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>38</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Elite (Temporada 2)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>Japão</Pais>
+    <Data_Adicao>2021-03-21</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>10+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em Japão.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>39</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>A Caminho da Lua 1</Titulo>
+    <Diretor>Christopher Nolan</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>Brasil</Pais>
+    <Data_Adicao>2021-08-24</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>144 min</Duracao>
+    <Genero>Terror</Genero>
+    <Descricao>Uma produção emocionante de terror ambientada em Brasil.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>40</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>La Casa de Papel (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>Espanha</Pais>
+    <Data_Adicao>2021-07-26</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em Espanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>41</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Ozark (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Reino Unido</Pais>
+    <Data_Adicao>2019-04-14</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>5 Temporadas</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Reino Unido.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>42</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Elite (Temporada 3)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>Espanha</Pais>
+    <Data_Adicao>2019-06-06</Data_Adicao>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em Espanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>43</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Lupin (Temporada 3)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2019-02-08</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Ação</Genero>
+    <Descricao>Uma produção emocionante de ação ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>44</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Irlandês 3</Titulo>
+    <Diretor>Ava DuVernay</Diretor>
+    <Elenco>Henry Cavill, Freya Allan</Elenco>
+    <Pais>México</Pais>
+    <Data_Adicao>2019-10-08</Data_Adicao>
+    <Ano_Lancamento>2020</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>115 min</Duracao>
+    <Genero>Comédia</Genero>
+    <Descricao>Uma produção emocionante de comédia ambientada em México.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>45</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Bird Box 3</Titulo>
+    <Diretor>Greta Gerwig</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>Reino Unido</Pais>
+    <Data_Adicao>2019-11-19</Data_Adicao>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>137 min</Duracao>
+    <Genero>Suspense</Genero>
+    <Descricao>Uma produção emocionante de suspense ambientada em Reino Unido.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>46</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Crown (Temporada 2)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Henry Cavill, Freya Allan</Elenco>
+    <Pais>México</Pais>
+    <Data_Adicao>2021-10-18</Data_Adicao>
+    <Ano_Lancamento>2020</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em México.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>47</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Irlandês 4</Titulo>
+    <Diretor>Greta Gerwig</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2022-05-12</Data_Adicao>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>128 min</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>48</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Roma 3</Titulo>
+    <Diretor>Christopher Nolan</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2020-08-09</Data_Adicao>
+    <Ano_Lancamento>2020</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>149 min</Duracao>
+    <Genero>Comédia</Genero>
+    <Descricao>Uma produção emocionante de comédia ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>49</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Witcher (Temporada 2)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Henry Cavill, Freya Allan</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2021-08-19</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>3 Temporadas</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>50</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Bird Box 1</Titulo>
+    <Diretor>Bong Joon-ho</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>Coreia do Sul</Pais>
+    <Data_Adicao>2021-07-14</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>180 min</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Coreia do Sul.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>51</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Mank 2</Titulo>
+    <Diretor>Bong Joon-ho</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>Reino Unido</Pais>
+    <Data_Adicao>2022-06-09</Data_Adicao>
+    <Ano_Lancamento>2022</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>160 min</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Reino Unido.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>52</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Crown (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2023-04-25</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>53</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>O Céu da Meia-Noite 4</Titulo>
+    <Diretor>David Fincher</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2023-06-11</Data_Adicao>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>171 min</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>54</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Crown (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2021-05-09</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>10+</Classificacao>
+    <Duracao>1 Temporadas</Duracao>
+    <Genero>Terror</Genero>
+    <Descricao>Uma produção emocionante de terror ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>55</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Mistério no Mediterrâneo 5</Titulo>
+    <Diretor>Alfonso Cuarón</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>Reino Unido</Pais>
+    <Data_Adicao>2022-10-08</Data_Adicao>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>112 min</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em Reino Unido.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>56</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Bird Box 3</Titulo>
+    <Diretor>Bong Joon-ho</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2019-07-12</Data_Adicao>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>82 min</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>57</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Elite (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Wagner Moura, Pedro Pascal</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2020-04-27</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>1 Temporadas</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>58</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Crown (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>Reino Unido</Pais>
+    <Data_Adicao>2019-02-27</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>1 Temporadas</Duracao>
+    <Genero>Drama</Genero>
+    <Descricao>Uma produção emocionante de drama ambientada em Reino Unido.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>59</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Roma 5</Titulo>
+    <Diretor>Alfonso Cuarón</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>Brasil</Pais>
+    <Data_Adicao>2020-07-19</Data_Adicao>
+    <Ano_Lancamento>2022</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>104 min</Duracao>
+    <Genero>Documentário</Genero>
+    <Descricao>Uma produção emocionante de documentário ambientada em Brasil.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>60</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Mank 1</Titulo>
+    <Diretor>Alfonso Cuarón</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2020-10-24</Data_Adicao>
+    <Ano_Lancamento>2020</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>173 min</Duracao>
+    <Genero>Suspense</Genero>
+    <Descricao>Uma produção emocionante de suspense ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>61</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>A Caminho da Lua 5</Titulo>
+    <Diretor>Christopher Nolan</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2021-08-27</Data_Adicao>
+    <Ano_Lancamento>2022</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>151 min</Duracao>
+    <Genero>Comédia</Genero>
+    <Descricao>Uma produção emocionante de comédia ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>62</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Witcher (Temporada 2)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2022-04-08</Data_Adicao>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>63</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Elite (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>Coreia do Sul</Pais>
+    <Data_Adicao>2023-07-15</Data_Adicao>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>5 Temporadas</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em Coreia do Sul.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>64</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Mank 5</Titulo>
+    <Diretor>Zack Snyder</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Japão</Pais>
+    <Data_Adicao>2020-06-24</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>90 min</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em Japão.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>65</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Elite (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Japão</Pais>
+    <Data_Adicao>2022-07-07</Data_Adicao>
+    <Ano_Lancamento>2023</Ano_Lancamento>
+    <Classificacao>14+</Classificacao>
+    <Duracao>2 Temporadas</Duracao>
+    <Genero>Ação</Genero>
+    <Descricao>Uma produção emocionante de ação ambientada em Japão.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>66</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>The Crown (Temporada 1)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Jason Bateman, Laura Linney</Elenco>
+    <Pais>França</Pais>
+    <Data_Adicao>2019-10-27</Data_Adicao>
+    <Ano_Lancamento>2020</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>4 Temporadas</Duracao>
+    <Genero>Ficção Científica</Genero>
+    <Descricao>Uma produção emocionante de ficção científica ambientada em França.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>67</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Lupin (Temporada 4)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Millie Bobby Brown, Finn Wolfhard</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2022-04-06</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>Livre</Classificacao>
+    <Duracao>5 Temporadas</Duracao>
+    <Genero>Suspense</Genero>
+    <Descricao>Uma produção emocionante de suspense ambientada em Alemanha.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>68</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Stranger Things (Temporada 2)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>México</Pais>
+    <Data_Adicao>2019-04-25</Data_Adicao>
+    <Ano_Lancamento>2023</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>3 Temporadas</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em México.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>69</Show_ID>
+    <Tipo>Série</Tipo>
+    <Titulo>Lupin (Temporada 3)</Titulo>
+    <Diretor>Vários Diretores</Diretor>
+    <Elenco>Olivia Colman, Tobias Menzies</Elenco>
+    <Pais>EUA</Pais>
+    <Data_Adicao>2023-09-19</Data_Adicao>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Classificacao>18+</Classificacao>
+    <Duracao>5 Temporadas</Duracao>
+    <Genero>Romance</Genero>
+    <Descricao>Uma produção emocionante de romance ambientada em EUA.</Descricao>
+  </Item>
+  <Item>
+    <Show_ID>70</Show_ID>
+    <Tipo>Filme</Tipo>
+    <Titulo>Mistério no Mediterrâneo 3</Titulo>
+    <Diretor>Greta Gerwig</Diretor>
+    <Elenco>Úrsula Corberó, Álvaro Morte</Elenco>
+    <Pais>Alemanha</Pais>
+    <Data_Adicao>2023-06-30</Data_Adicao>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Classificacao>16+</Classificacao>
+    <Duracao>134 min</Duracao>
+    <Genero>Terror</Genero>
+    <Descricao>Uma produção emocionante de terror ambientada em Alemanha.</Descricao>
+  </Item>
+</Netflix>

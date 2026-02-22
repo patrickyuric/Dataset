@@ -1,0 +1,74 @@
+[
+    {
+        "ProdutoID":1,
+        "Produto":"Notebook Pro X",
+        "Categoria":"Informática",
+        "ValorUnitario":4500.0
+    },
+    {
+        "ProdutoID":2,
+        "Produto":"Mouse Gamer",
+        "Categoria":"Informática",
+        "ValorUnitario":120.0
+    },
+    {
+        "ProdutoID":3,
+        "Produto":"Cadeira Escritório",
+        "Categoria":"Móveis",
+        "ValorUnitario":980.0
+    },
+    {
+        "ProdutoID":4,
+        "Produto":"Monitor 27\"",
+        "Categoria":"Informática",
+        "ValorUnitario":1350.0
+    },
+    {
+        "ProdutoID":5,
+        "Produto":"Teclado Mecânico",
+        "Categoria":"Informática",
+        "ValorUnitario":350.0
+    },
+    {
+        "ProdutoID":6,
+        "Produto":"Smartphone A15",
+        "Categoria":"Eletrônicos",
+        "ValorUnitario":2200.0
+    },
+    {
+        "ProdutoID":7,
+        "Produto":"Impressora Laser",
+        "Categoria":"Informática",
+        "ValorUnitario":1600.0
+    },
+    {
+        "ProdutoID":8,
+        "Produto":"Tablet Plus",
+        "Categoria":"Eletrônicos",
+        "ValorUnitario":1500.0
+    },
+    {
+        "ProdutoID":9,
+        "Produto":"HD Externo 1TB",
+        "Categoria":"Informática",
+        "ValorUnitario":400.0
+    },
+    {
+        "ProdutoID":10,
+        "Produto":"Smart TV 50\"",
+        "Categoria":"Eletrônicos",
+        "ValorUnitario":3200.0
+    },
+    {
+        "ProdutoID":11,
+        "Produto":"Mesa Escritório",
+        "Categoria":"Móveis",
+        "ValorUnitario":1200.0
+    },
+    {
+        "ProdutoID":12,
+        "Produto":"Headset Gamer",
+        "Categoria":"Informática",
+        "ValorUnitario":450.0
+    }
+]

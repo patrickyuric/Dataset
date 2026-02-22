@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Spotify>
+  <Track>
+    <Track_ID>1</Track_ID>
+    <Nome_da_Musica>Coração de Verão</Nome_da_Musica>
+    <Artista>Baco Exu do Blues</Artista>
+    <Estilo_Musical>Hip Hop/Rap</Estilo_Musical>
+    <Album>Acústico</Album>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Total_Streams>117583417</Total_Streams>
+    <Duracao_ms>212277</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>86</Popularidade>
+    <Danceability>0.362</Danceability>
+    <Energy>0.391</Energy>
+    <Valence>0.375</Valence>
+    <BPM>149</BPM>
+  </Track>
+  <Track>
+    <Track_ID>2</Track_ID>
+    <Nome_da_Musica>Vida de Vidro</Nome_da_Musica>
+    <Artista>Caetano Veloso</Artista>
+    <Estilo_Musical>MPB</Estilo_Musical>
+    <Album>Acústico</Album>
+    <Ano_Lancamento>2023</Ano_Lancamento>
+    <Total_Streams>64444248</Total_Streams>
+    <Duracao_ms>201535</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>41</Popularidade>
+    <Danceability>0.697</Danceability>
+    <Energy>0.603</Energy>
+    <Valence>0.198</Valence>
+    <BPM>142</BPM>
+  </Track>
+  <Track>
+    <Track_ID>3</Track_ID>
+    <Nome_da_Musica>Céu de Vidro</Nome_da_Musica>
+    <Artista>Skank</Artista>
+    <Estilo_Musical>Rock</Estilo_Musical>
+    <Album>Acústico</Album>
+    <Ano_Lancamento>2022</Ano_Lancamento>
+    <Total_Streams>113974425</Total_Streams>
+    <Duracao_ms>178336</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>56</Popularidade>
+    <Danceability>0.848</Danceability>
+    <Energy>0.733</Energy>
+    <Valence>0.126</Valence>
+    <BPM>79</BPM>
+  </Track>
+  <Track>
+    <Track_ID>4</Track_ID>
+    <Nome_da_Musica>Fogo de Verão</Nome_da_Musica>
+    <Artista>Legião Urbana</Artista>
+    <Estilo_Musical>Rock</Estilo_Musical>
+    <Album>Evolução</Album>
+    <Ano_Lancamento>2010</Ano_Lancamento>
+    <Total_Streams>100510009</Total_Streams>
+    <Duracao_ms>165732</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>91</Popularidade>
+    <Danceability>0.34</Danceability>
+    <Energy>0.663</Energy>
+    <Valence>0.395</Valence>
+    <BPM>127</BPM>
+  </Track>
+  <Track>
+    <Track_ID>5</Track_ID>
+    <Nome_da_Musica>Sol Profundo</Nome_da_Musica>
+    <Artista>Arctic Monkeys</Artista>
+    <Estilo_Musical>Indie Rock</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2023</Ano_Lancamento>
+    <Total_Streams>10019109</Total_Streams>
+    <Duracao_ms>188862</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>54</Popularidade>
+    <Danceability>0.497</Danceability>
+    <Energy>0.647</Energy>
+    <Valence>0.41</Valence>
+    <BPM>121</BPM>
+  </Track>
+  <Track>
+    <Track_ID>6</Track_ID>
+    <Nome_da_Musica>Vida de Verão</Nome_da_Musica>
+    <Artista>Caetano Veloso</Artista>
+    <Estilo_Musical>MPB</Estilo_Musical>
+    <Album>Acústico</Album>
+    <Ano_Lancamento>2025</Ano_Lancamento>
+    <Total_Streams>133730814</Total_Streams>
+    <Duracao_ms>154407</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>65</Popularidade>
+    <Danceability>0.322</Danceability>
+    <Energy>0.867</Energy>
+    <Valence>0.416</Valence>
+    <BPM>113</BPM>
+  </Track>
+  <Track>
+    <Track_ID>7</Track_ID>
+    <Nome_da_Musica>Coração de Vidro</Nome_da_Musica>
+    <Artista>Pabllo Vittar</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Total_Streams>10561466</Total_Streams>
+    <Duracao_ms>198037</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>67</Popularidade>
+    <Danceability>0.724</Danceability>
+    <Energy>0.738</Energy>
+    <Valence>0.852</Valence>
+    <BPM>107</BPM>
+  </Track>
+  <Track>
+    <Track_ID>8</Track_ID>
+    <Nome_da_Musica>Noite de Vidro</Nome_da_Musica>
+    <Artista>Caetano Veloso</Artista>
+    <Estilo_Musical>MPB</Estilo_Musical>
+    <Album>Acústico</Album>
+    <Ano_Lancamento>2022</Ano_Lancamento>
+    <Total_Streams>36217491</Total_Streams>
+    <Duracao_ms>236936</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>55</Popularidade>
+    <Danceability>0.872</Danceability>
+    <Energy>0.775</Energy>
+    <Valence>0.784</Valence>
+    <BPM>152</BPM>
+  </Track>
+  <Track>
+    <Track_ID>9</Track_ID>
+    <Nome_da_Musica>Céu Proibido</Nome_da_Musica>
+    <Artista>Drake</Artista>
+    <Estilo_Musical>Hip Hop</Estilo_Musical>
+    <Album>Evolução</Album>
+    <Ano_Lancamento>2021</Ano_Lancamento>
+    <Total_Streams>84156459</Total_Streams>
+    <Duracao_ms>239253</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>65</Popularidade>
+    <Danceability>0.52</Danceability>
+    <Energy>0.707</Energy>
+    <Valence>0.724</Valence>
+    <BPM>110</BPM>
+  </Track>
+  <Track>
+    <Track_ID>10</Track_ID>
+    <Nome_da_Musica>Noite de Verão</Nome_da_Musica>
+    <Artista>Drake</Artista>
+    <Estilo_Musical>Hip Hop</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Total_Streams>111305934</Total_Streams>
+    <Duracao_ms>197729</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>49</Popularidade>
+    <Danceability>0.426</Danceability>
+    <Energy>0.467</Energy>
+    <Valence>0.214</Valence>
+    <BPM>147</BPM>
+  </Track>
+  <Track>
+    <Track_ID>11</Track_ID>
+    <Nome_da_Musica>Coração Eterno</Nome_da_Musica>
+    <Artista>Taylor Swift</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Destino</Album>
+    <Ano_Lancamento>2022</Ano_Lancamento>
+    <Total_Streams>116301107</Total_Streams>
+    <Duracao_ms>212202</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>57</Popularidade>
+    <Danceability>0.779</Danceability>
+    <Energy>0.685</Energy>
+    <Valence>0.838</Valence>
+    <BPM>129</BPM>
+  </Track>
+  <Track>
+    <Track_ID>12</Track_ID>
+    <Nome_da_Musica>Sonho Profundo</Nome_da_Musica>
+    <Artista>The Weeknd</Artista>
+    <Estilo_Musical>Pop/R&amp;B</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Total_Streams>128652063</Total_Streams>
+    <Duracao_ms>192560</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>97</Popularidade>
+    <Danceability>0.505</Danceability>
+    <Energy>0.841</Energy>
+    <Valence>0.452</Valence>
+    <BPM>94</BPM>
+  </Track>
+  <Track>
+    <Track_ID>13</Track_ID>
+    <Nome_da_Musica>Fogo Eterno</Nome_da_Musica>
+    <Artista>Ludmilla</Artista>
+    <Estilo_Musical>Pagode/Pop</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2014</Ano_Lancamento>
+    <Total_Streams>7561060</Total_Streams>
+    <Duracao_ms>219202</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>96</Popularidade>
+    <Danceability>0.525</Danceability>
+    <Energy>0.554</Energy>
+    <Valence>0.748</Valence>
+    <BPM>149</BPM>
+  </Track>
+  <Track>
+    <Track_ID>14</Track_ID>
+    <Nome_da_Musica>Noite de Verão</Nome_da_Musica>
+    <Artista>Arctic Monkeys</Artista>
+    <Estilo_Musical>Indie Rock</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Total_Streams>51753179</Total_Streams>
+    <Duracao_ms>178700</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>74</Popularidade>
+    <Danceability>0.727</Danceability>
+    <Energy>0.639</Energy>
+    <Valence>0.605</Valence>
+    <BPM>74</BPM>
+  </Track>
+  <Track>
+    <Track_ID>15</Track_ID>
+    <Nome_da_Musica>Céu Profundo</Nome_da_Musica>
+    <Artista>Alok</Artista>
+    <Estilo_Musical>Eletrônica</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2010</Ano_Lancamento>
+    <Total_Streams>102495751</Total_Streams>
+    <Duracao_ms>193178</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>55</Popularidade>
+    <Danceability>0.75</Danceability>
+    <Energy>0.754</Energy>
+    <Valence>0.154</Valence>
+    <BPM>155</BPM>
+  </Track>
+  <Track>
+    <Track_ID>16</Track_ID>
+    <Nome_da_Musica>Vida Selvagem</Nome_da_Musica>
+    <Artista>Legião Urbana</Artista>
+    <Estilo_Musical>Rock</Estilo_Musical>
+    <Album>Ao Vivo em SP</Album>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Total_Streams>13548379</Total_Streams>
+    <Duracao_ms>193196</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>97</Popularidade>
+    <Danceability>0.658</Danceability>
+    <Energy>0.773</Energy>
+    <Valence>0.692</Valence>
+    <BPM>155</BPM>
+  </Track>
+  <Track>
+    <Track_ID>17</Track_ID>
+    <Nome_da_Musica>Sol Proibido</Nome_da_Musica>
+    <Artista>Drake</Artista>
+    <Estilo_Musical>Hip Hop</Estilo_Musical>
+    <Album>Verão 2024</Album>
+    <Ano_Lancamento>2021</Ano_Lancamento>
+    <Total_Streams>129535824</Total_Streams>
+    <Duracao_ms>172564</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>78</Popularidade>
+    <Danceability>0.545</Danceability>
+    <Energy>0.799</Energy>
+    <Valence>0.212</Valence>
+    <BPM>118</BPM>
+  </Track>
+  <Track>
+    <Track_ID>18</Track_ID>
+    <Nome_da_Musica>Sol de Vidro</Nome_da_Musica>
+    <Artista>Skank</Artista>
+    <Estilo_Musical>Rock</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Total_Streams>74548530</Total_Streams>
+    <Duracao_ms>201671</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>55</Popularidade>
+    <Danceability>0.681</Danceability>
+    <Energy>0.682</Energy>
+    <Valence>0.325</Valence>
+    <BPM>138</BPM>
+  </Track>
+  <Track>
+    <Track_ID>19</Track_ID>
+    <Nome_da_Musica>Amor Profundo</Nome_da_Musica>
+    <Artista>Bad Bunny</Artista>
+    <Estilo_Musical>Reggaeton</Estilo_Musical>
+    <Album>Ao Vivo em SP</Album>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Total_Streams>27691609</Total_Streams>
+    <Duracao_ms>168893</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>93</Popularidade>
+    <Danceability>0.634</Danceability>
+    <Energy>0.646</Energy>
+    <Valence>0.259</Valence>
+    <BPM>118</BPM>
+  </Track>
+  <Track>
+    <Track_ID>20</Track_ID>
+    <Nome_da_Musica>Sonho Selvagem</Nome_da_Musica>
+    <Artista>Ludmilla</Artista>
+    <Estilo_Musical>Pagode/Pop</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2025</Ano_Lancamento>
+    <Total_Streams>61916301</Total_Streams>
+    <Duracao_ms>195947</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>78</Popularidade>
+    <Danceability>0.561</Danceability>
+    <Energy>0.608</Energy>
+    <Valence>0.467</Valence>
+    <BPM>74</BPM>
+  </Track>
+  <Track>
+    <Track_ID>21</Track_ID>
+    <Nome_da_Musica>Estrada de Verão</Nome_da_Musica>
+    <Artista>Dua Lipa</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Total_Streams>133090245</Total_Streams>
+    <Duracao_ms>239411</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>99</Popularidade>
+    <Danceability>0.392</Danceability>
+    <Energy>0.7</Energy>
+    <Valence>0.421</Valence>
+    <BPM>112</BPM>
+  </Track>
+  <Track>
+    <Track_ID>22</Track_ID>
+    <Nome_da_Musica>Coração de Verão</Nome_da_Musica>
+    <Artista>Alok</Artista>
+    <Estilo_Musical>Eletrônica</Estilo_Musical>
+    <Album>Acústico</Album>
+    <Ano_Lancamento>2020</Ano_Lancamento>
+    <Total_Streams>80124185</Total_Streams>
+    <Duracao_ms>161012</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>74</Popularidade>
+    <Danceability>0.505</Danceability>
+    <Energy>0.826</Energy>
+    <Valence>0.456</Valence>
+    <BPM>91</BPM>
+  </Track>
+  <Track>
+    <Track_ID>23</Track_ID>
+    <Nome_da_Musica>Vida Eterno</Nome_da_Musica>
+    <Artista>Baco Exu do Blues</Artista>
+    <Estilo_Musical>Hip Hop/Rap</Estilo_Musical>
+    <Album>Verão 2024</Album>
+    <Ano_Lancamento>2012</Ano_Lancamento>
+    <Total_Streams>144953814</Total_Streams>
+    <Duracao_ms>162092</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>85</Popularidade>
+    <Danceability>0.625</Danceability>
+    <Energy>0.505</Energy>
+    <Valence>0.832</Valence>
+    <BPM>144</BPM>
+  </Track>
+  <Track>
+    <Track_ID>24</Track_ID>
+    <Nome_da_Musica>Coração Infinito</Nome_da_Musica>
+    <Artista>Jorge &amp; Mateus</Artista>
+    <Estilo_Musical>Sertanejo</Estilo_Musical>
+    <Album>Acústico</Album>
+    <Ano_Lancamento>2014</Ano_Lancamento>
+    <Total_Streams>113579829</Total_Streams>
+    <Duracao_ms>173477</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>51</Popularidade>
+    <Danceability>0.538</Danceability>
+    <Energy>0.574</Energy>
+    <Valence>0.348</Valence>
+    <BPM>105</BPM>
+  </Track>
+  <Track>
+    <Track_ID>25</Track_ID>
+    <Nome_da_Musica>Noite Perdido</Nome_da_Musica>
+    <Artista>Gilberto Gil</Artista>
+    <Estilo_Musical>MPB</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Total_Streams>39406421</Total_Streams>
+    <Duracao_ms>217928</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>48</Popularidade>
+    <Danceability>0.672</Danceability>
+    <Energy>0.643</Energy>
+    <Valence>0.147</Valence>
+    <BPM>81</BPM>
+  </Track>
+  <Track>
+    <Track_ID>26</Track_ID>
+    <Nome_da_Musica>Vida de Verão</Nome_da_Musica>
+    <Artista>Dua Lipa</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Evolução</Album>
+    <Ano_Lancamento>2012</Ano_Lancamento>
+    <Total_Streams>29247131</Total_Streams>
+    <Duracao_ms>193464</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>78</Popularidade>
+    <Danceability>0.301</Danceability>
+    <Energy>0.762</Energy>
+    <Valence>0.571</Valence>
+    <BPM>102</BPM>
+  </Track>
+  <Track>
+    <Track_ID>27</Track_ID>
+    <Nome_da_Musica>Sonho Eterno</Nome_da_Musica>
+    <Artista>Ludmilla</Artista>
+    <Estilo_Musical>Pagode/Pop</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2012</Ano_Lancamento>
+    <Total_Streams>131470213</Total_Streams>
+    <Duracao_ms>238210</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>81</Popularidade>
+    <Danceability>0.819</Danceability>
+    <Energy>0.66</Energy>
+    <Valence>0.143</Valence>
+    <BPM>154</BPM>
+  </Track>
+  <Track>
+    <Track_ID>28</Track_ID>
+    <Nome_da_Musica>Noite Selvagem</Nome_da_Musica>
+    <Artista>Drake</Artista>
+    <Estilo_Musical>Hip Hop</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Total_Streams>95494472</Total_Streams>
+    <Duracao_ms>155299</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>85</Popularidade>
+    <Danceability>0.534</Danceability>
+    <Energy>0.305</Energy>
+    <Valence>0.442</Valence>
+    <BPM>156</BPM>
+  </Track>
+  <Track>
+    <Track_ID>29</Track_ID>
+    <Nome_da_Musica>Dança Infinito</Nome_da_Musica>
+    <Artista>Ludmilla</Artista>
+    <Estilo_Musical>Pagode/Pop</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Total_Streams>142747411</Total_Streams>
+    <Duracao_ms>199996</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>62</Popularidade>
+    <Danceability>0.647</Danceability>
+    <Energy>0.502</Energy>
+    <Valence>0.125</Valence>
+    <BPM>122</BPM>
+  </Track>
+  <Track>
+    <Track_ID>30</Track_ID>
+    <Nome_da_Musica>Dança Proibido</Nome_da_Musica>
+    <Artista>Pabllo Vittar</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Greatest Hits</Album>
+    <Ano_Lancamento>2021</Ano_Lancamento>
+    <Total_Streams>128432044</Total_Streams>
+    <Duracao_ms>182485</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>44</Popularidade>
+    <Danceability>0.677</Danceability>
+    <Energy>0.635</Energy>
+    <Valence>0.405</Valence>
+    <BPM>74</BPM>
+  </Track>
+  <Track>
+    <Track_ID>31</Track_ID>
+    <Nome_da_Musica>Sol Perdido</Nome_da_Musica>
+    <Artista>Anitta</Artista>
+    <Estilo_Musical>Pop/Funk</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Total_Streams>4443426</Total_Streams>
+    <Duracao_ms>182646</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>41</Popularidade>
+    <Danceability>0.566</Danceability>
+    <Energy>0.626</Energy>
+    <Valence>0.462</Valence>
+    <BPM>92</BPM>
+  </Track>
+  <Track>
+    <Track_ID>32</Track_ID>
+    <Nome_da_Musica>Estrada Perdido</Nome_da_Musica>
+    <Artista>Arctic Monkeys</Artista>
+    <Estilo_Musical>Indie Rock</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Total_Streams>128373695</Total_Streams>
+    <Duracao_ms>167492</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>47</Popularidade>
+    <Danceability>0.401</Danceability>
+    <Energy>0.316</Energy>
+    <Valence>0.174</Valence>
+    <BPM>146</BPM>
+  </Track>
+  <Track>
+    <Track_ID>33</Track_ID>
+    <Nome_da_Musica>Amor Proibido</Nome_da_Musica>
+    <Artista>Luísa Sonza</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Greatest Hits</Album>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Total_Streams>103970766</Total_Streams>
+    <Duracao_ms>159273</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>51</Popularidade>
+    <Danceability>0.534</Danceability>
+    <Energy>0.765</Energy>
+    <Valence>0.664</Valence>
+    <BPM>126</BPM>
+  </Track>
+  <Track>
+    <Track_ID>34</Track_ID>
+    <Nome_da_Musica>Fogo de Verão</Nome_da_Musica>
+    <Artista>Pabllo Vittar</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Evolução</Album>
+    <Ano_Lancamento>2021</Ano_Lancamento>
+    <Total_Streams>48316219</Total_Streams>
+    <Duracao_ms>190973</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>61</Popularidade>
+    <Danceability>0.504</Danceability>
+    <Energy>0.56</Energy>
+    <Valence>0.14</Valence>
+    <BPM>141</BPM>
+  </Track>
+  <Track>
+    <Track_ID>35</Track_ID>
+    <Nome_da_Musica>Fogo Perdido</Nome_da_Musica>
+    <Artista>Skank</Artista>
+    <Estilo_Musical>Rock</Estilo_Musical>
+    <Album>Greatest Hits</Album>
+    <Ano_Lancamento>2017</Ano_Lancamento>
+    <Total_Streams>91505544</Total_Streams>
+    <Duracao_ms>204443</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>42</Popularidade>
+    <Danceability>0.37</Danceability>
+    <Energy>0.339</Energy>
+    <Valence>0.815</Valence>
+    <BPM>83</BPM>
+  </Track>
+  <Track>
+    <Track_ID>36</Track_ID>
+    <Nome_da_Musica>Dança Infinito</Nome_da_Musica>
+    <Artista>Taylor Swift</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Ao Vivo em SP</Album>
+    <Ano_Lancamento>2013</Ano_Lancamento>
+    <Total_Streams>39806987</Total_Streams>
+    <Duracao_ms>151209</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>41</Popularidade>
+    <Danceability>0.748</Danceability>
+    <Energy>0.533</Energy>
+    <Valence>0.86</Valence>
+    <BPM>82</BPM>
+  </Track>
+  <Track>
+    <Track_ID>37</Track_ID>
+    <Nome_da_Musica>Noite Proibido</Nome_da_Musica>
+    <Artista>Baco Exu do Blues</Artista>
+    <Estilo_Musical>Hip Hop/Rap</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2014</Ano_Lancamento>
+    <Total_Streams>47559829</Total_Streams>
+    <Duracao_ms>170642</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>64</Popularidade>
+    <Danceability>0.506</Danceability>
+    <Energy>0.701</Energy>
+    <Valence>0.517</Valence>
+    <BPM>81</BPM>
+  </Track>
+  <Track>
+    <Track_ID>38</Track_ID>
+    <Nome_da_Musica>Dança Eterno</Nome_da_Musica>
+    <Artista>Ludmilla</Artista>
+    <Estilo_Musical>Pagode/Pop</Estilo_Musical>
+    <Album>Greatest Hits</Album>
+    <Ano_Lancamento>2015</Ano_Lancamento>
+    <Total_Streams>128190274</Total_Streams>
+    <Duracao_ms>216435</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>57</Popularidade>
+    <Danceability>0.313</Danceability>
+    <Energy>0.588</Energy>
+    <Valence>0.641</Valence>
+    <BPM>100</BPM>
+  </Track>
+  <Track>
+    <Track_ID>39</Track_ID>
+    <Nome_da_Musica>Noite Profundo</Nome_da_Musica>
+    <Artista>Baco Exu do Blues</Artista>
+    <Estilo_Musical>Hip Hop/Rap</Estilo_Musical>
+    <Album>Evolução</Album>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Total_Streams>88417958</Total_Streams>
+    <Duracao_ms>207795</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>63</Popularidade>
+    <Danceability>0.323</Danceability>
+    <Energy>0.794</Energy>
+    <Valence>0.466</Valence>
+    <BPM>93</BPM>
+  </Track>
+  <Track>
+    <Track_ID>40</Track_ID>
+    <Nome_da_Musica>Sol Selvagem</Nome_da_Musica>
+    <Artista>Skank</Artista>
+    <Estilo_Musical>Rock</Estilo_Musical>
+    <Album>Destino</Album>
+    <Ano_Lancamento>2014</Ano_Lancamento>
+    <Total_Streams>137148029</Total_Streams>
+    <Duracao_ms>216022</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>98</Popularidade>
+    <Danceability>0.721</Danceability>
+    <Energy>0.359</Energy>
+    <Valence>0.515</Valence>
+    <BPM>84</BPM>
+  </Track>
+  <Track>
+    <Track_ID>41</Track_ID>
+    <Nome_da_Musica>Coração Perdido</Nome_da_Musica>
+    <Artista>Marília Mendonça</Artista>
+    <Estilo_Musical>Sertanejo</Estilo_Musical>
+    <Album>Evolução</Album>
+    <Ano_Lancamento>2025</Ano_Lancamento>
+    <Total_Streams>142786870</Total_Streams>
+    <Duracao_ms>216947</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>81</Popularidade>
+    <Danceability>0.71</Danceability>
+    <Energy>0.526</Energy>
+    <Valence>0.408</Valence>
+    <BPM>131</BPM>
+  </Track>
+  <Track>
+    <Track_ID>42</Track_ID>
+    <Nome_da_Musica>Estrada Infinito</Nome_da_Musica>
+    <Artista>Caetano Veloso</Artista>
+    <Estilo_Musical>MPB</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2016</Ano_Lancamento>
+    <Total_Streams>6735670</Total_Streams>
+    <Duracao_ms>200795</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>83</Popularidade>
+    <Danceability>0.83</Danceability>
+    <Energy>0.653</Energy>
+    <Valence>0.194</Valence>
+    <BPM>85</BPM>
+  </Track>
+  <Track>
+    <Track_ID>43</Track_ID>
+    <Nome_da_Musica>Céu Profundo</Nome_da_Musica>
+    <Artista>Drake</Artista>
+    <Estilo_Musical>Hip Hop</Estilo_Musical>
+    <Album>Midnight Memories</Album>
+    <Ano_Lancamento>2018</Ano_Lancamento>
+    <Total_Streams>80107263</Total_Streams>
+    <Duracao_ms>192622</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>100</Popularidade>
+    <Danceability>0.436</Danceability>
+    <Energy>0.613</Energy>
+    <Valence>0.861</Valence>
+    <BPM>120</BPM>
+  </Track>
+  <Track>
+    <Track_ID>44</Track_ID>
+    <Nome_da_Musica>Coração Perdido</Nome_da_Musica>
+    <Artista>Legião Urbana</Artista>
+    <Estilo_Musical>Rock</Estilo_Musical>
+    <Album>Ao Vivo em SP</Album>
+    <Ano_Lancamento>2024</Ano_Lancamento>
+    <Total_Streams>101876712</Total_Streams>
+    <Duracao_ms>228345</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>71</Popularidade>
+    <Danceability>0.741</Danceability>
+    <Energy>0.364</Energy>
+    <Valence>0.126</Valence>
+    <BPM>143</BPM>
+  </Track>
+  <Track>
+    <Track_ID>45</Track_ID>
+    <Nome_da_Musica>Noite Perdido</Nome_da_Musica>
+    <Artista>Dua Lipa</Artista>
+    <Estilo_Musical>Pop</Estilo_Musical>
+    <Album>Verão 2024</Album>
+    <Ano_Lancamento>2014</Ano_Lancamento>
+    <Total_Streams>113425189</Total_Streams>
+    <Duracao_ms>186877</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>82</Popularidade>
+    <Danceability>0.544</Danceability>
+    <Energy>0.743</Energy>
+    <Valence>0.794</Valence>
+    <BPM>98</BPM>
+  </Track>
+  <Track>
+    <Track_ID>46</Track_ID>
+    <Nome_da_Musica>Amor de Vidro</Nome_da_Musica>
+    <Artista>The Weeknd</Artista>
+    <Estilo_Musical>Pop/R&amp;B</Estilo_Musical>
+    <Album>Destino</Album>
+    <Ano_Lancamento>2013</Ano_Lancamento>
+    <Total_Streams>8693250</Total_Streams>
+    <Duracao_ms>151572</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>82</Popularidade>
+    <Danceability>0.79</Danceability>
+    <Energy>0.387</Energy>
+    <Valence>0.239</Valence>
+    <BPM>153</BPM>
+  </Track>
+  <Track>
+    <Track_ID>47</Track_ID>
+    <Nome_da_Musica>Sol de Vidro</Nome_da_Musica>
+    <Artista>Arctic Monkeys</Artista>
+    <Estilo_Musical>Indie Rock</Estilo_Musical>
+    <Album>Raízes</Album>
+    <Ano_Lancamento>2012</Ano_Lancamento>
+    <Total_Streams>12342845</Total_Streams>
+    <Duracao_ms>237726</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>53</Popularidade>
+    <Danceability>0.363</Danceability>
+    <Energy>0.33</Energy>
+    <Valence>0.31</Valence>
+    <BPM>111</BPM>
+  </Track>
+  <Track>
+    <Track_ID>48</Track_ID>
+    <Nome_da_Musica>Estrada Eterno</Nome_da_Musica>
+    <Artista>The Weeknd</Artista>
+    <Estilo_Musical>Pop/R&amp;B</Estilo_Musical>
+    <Album>Greatest Hits</Album>
+    <Ano_Lancamento>2012</Ano_Lancamento>
+    <Total_Streams>130187171</Total_Streams>
+    <Duracao_ms>176306</Duracao_ms>
+    <Explicit>False</Explicit>
+    <Popularidade>61</Popularidade>
+    <Danceability>0.588</Danceability>
+    <Energy>0.49</Energy>
+    <Valence>0.431</Valence>
+    <BPM>113</BPM>
+  </Track>
+  <Track>
+    <Track_ID>49</Track_ID>
+    <Nome_da_Musica>Céu Eterno</Nome_da_Musica>
+    <Artista>Caetano Veloso</Artista>
+    <Estilo_Musical>MPB</Estilo_Musical>
+    <Album>Destino</Album>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Total_Streams>45662939</Total_Streams>
+    <Duracao_ms>183709</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>90</Popularidade>
+    <Danceability>0.573</Danceability>
+    <Energy>0.527</Energy>
+    <Valence>0.543</Valence>
+    <BPM>150</BPM>
+  </Track>
+  <Track>
+    <Track_ID>50</Track_ID>
+    <Nome_da_Musica>Estrada de Vidro</Nome_da_Musica>
+    <Artista>The Weeknd</Artista>
+    <Estilo_Musical>Pop/R&amp;B</Estilo_Musical>
+    <Album>Evolução</Album>
+    <Ano_Lancamento>2019</Ano_Lancamento>
+    <Total_Streams>138941445</Total_Streams>
+    <Duracao_ms>170041</Duracao_ms>
+    <Explicit>True</Explicit>
+    <Popularidade>47</Popularidade>
+    <Danceability>0.451</Danceability>
+    <Energy>0.764</Energy>
+    <Valence>0.147</Valence>
+    <BPM>159</BPM>
+  </Track>
+</Spotify>

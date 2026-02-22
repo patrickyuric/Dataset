@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vendas>
+
+    <venda>
+        <VendaID>1</VendaID>
+        <Data>2025-01-03</Data>
+        <Cliente>Ana Souza</Cliente>
+        <Cidade>São Paulo</Cidade>
+        <Estado>SP</Estado>
+        <Produto>Notebook Pro X</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>4500.0</ValorUnitario>
+        <ValorTotal>4500.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>2</VendaID>
+        <Data>2025-01-05</Data>
+        <Cliente>Carlos Lima</Cliente>
+        <Cidade>Campinas</Cidade>
+        <Estado>SP</Estado>
+        <Produto>Mouse Gamer</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>120.0</ValorUnitario>
+        <ValorTotal>240.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>3</VendaID>
+        <Data>2025-01-06</Data>
+        <Cliente>Mariana Alves</Cliente>
+        <Cidade>Rio de Janeiro</Cidade>
+        <Estado>RJ</Estado>
+        <Produto>Cadeira Escritório</Produto>
+        <Categoria>Móveis</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>980.0</ValorUnitario>
+        <ValorTotal>980.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>4</VendaID>
+        <Data>2025-01-07</Data>
+        <Cliente>João Pedro</Cliente>
+        <Cidade>Belo Horizonte</Cidade>
+        <Estado>MG</Estado>
+        <Produto>Monitor 27"</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>1350.0</ValorUnitario>
+        <ValorTotal>2700.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>5</VendaID>
+        <Data>2025-01-08</Data>
+        <Cliente>Fernanda Rocha</Cliente>
+        <Cidade>Curitiba</Cidade>
+        <Estado>PR</Estado>
+        <Produto>Teclado Mecânico</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>350.0</ValorUnitario>
+        <ValorTotal>350.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>6</VendaID>
+        <Data>2025-01-09</Data>
+        <Cliente>Lucas Martins</Cliente>
+        <Cidade>Salvador</Cidade>
+        <Estado>BA</Estado>
+        <Produto>Smartphone A15</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>2200.0</ValorUnitario>
+        <ValorTotal>2200.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>7</VendaID>
+        <Data>2025-01-10</Data>
+        <Cliente>Juliana Costa</Cliente>
+        <Cidade>Recife</Cidade>
+        <Estado>PE</Estado>
+        <Produto>Impressora Laser</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1600.0</ValorUnitario>
+        <ValorTotal>1600.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>8</VendaID>
+        <Data>2025-01-11</Data>
+        <Cliente>Rafael Gomes</Cliente>
+        <Cidade>Fortaleza</Cidade>
+        <Estado>CE</Estado>
+        <Produto>Tablet Plus</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>3</Quantidade>
+        <ValorUnitario>1500.0</ValorUnitario>
+        <ValorTotal>4500.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>9</VendaID>
+        <Data>2025-01-12</Data>
+        <Cliente>Beatriz Lima</Cliente>
+        <Cidade>Porto Alegre</Cidade>
+        <Estado>RS</Estado>
+        <Produto>HD Externo 1TB</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>400.0</ValorUnitario>
+        <ValorTotal>800.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>10</VendaID>
+        <Data>2025-01-13</Data>
+        <Cliente>Eduardo Silva</Cliente>
+        <Cidade>Goiânia</Cidade>
+        <Estado>GO</Estado>
+        <Produto>Smart TV 50"</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>3200.0</ValorUnitario>
+        <ValorTotal>3200.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>11</VendaID>
+        <Data>2025-01-14</Data>
+        <Cliente>Camila Ferreira</Cliente>
+        <Cidade>São Paulo</Cidade>
+        <Estado>SP</Estado>
+        <Produto>Mesa Escritório</Produto>
+        <Categoria>Móveis</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1200.0</ValorUnitario>
+        <ValorTotal>1200.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>12</VendaID>
+        <Data>2025-01-15</Data>
+        <Cliente>Daniel Ramos</Cliente>
+        <Cidade>Campinas</Cidade>
+        <Estado>SP</Estado>
+        <Produto>Notebook Pro X</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>4500.0</ValorUnitario>
+        <ValorTotal>4500.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>13</VendaID>
+        <Data>2025-01-16</Data>
+        <Cliente>Paula Mendes</Cliente>
+        <Cidade>Rio de Janeiro</Cidade>
+        <Estado>RJ</Estado>
+        <Produto>Headset Gamer</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>450.0</ValorUnitario>
+        <ValorTotal>900.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>14</VendaID>
+        <Data>2025-01-17</Data>
+        <Cliente>Gustavo Alves</Cliente>
+        <Cidade>Belo Horizonte</Cidade>
+        <Estado>MG</Estado>
+        <Produto>Smartphone A15</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>2200.0</ValorUnitario>
+        <ValorTotal>4400.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>15</VendaID>
+        <Data>2025-01-18</Data>
+        <Cliente>Larissa Costa</Cliente>
+        <Cidade>Curitiba</Cidade>
+        <Estado>PR</Estado>
+        <Produto>Monitor 27"</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1350.0</ValorUnitario>
+        <ValorTotal>1350.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>16</VendaID>
+        <Data>2025-01-19</Data>
+        <Cliente>Tiago Oliveira</Cliente>
+        <Cidade>Salvador</Cidade>
+        <Estado>BA</Estado>
+        <Produto>Cadeira Escritório</Produto>
+        <Categoria>Móveis</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>980.0</ValorUnitario>
+        <ValorTotal>1960.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>17</VendaID>
+        <Data>2025-01-20</Data>
+        <Cliente>Vanessa Lima</Cliente>
+        <Cidade>Recife</Cidade>
+        <Estado>PE</Estado>
+        <Produto>Smart TV 50"</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>3200.0</ValorUnitario>
+        <ValorTotal>3200.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>18</VendaID>
+        <Data>2025-01-21</Data>
+        <Cliente>Bruno Castro</Cliente>
+        <Cidade>Fortaleza</Cidade>
+        <Estado>CE</Estado>
+        <Produto>Teclado Mecânico</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>3</Quantidade>
+        <ValorUnitario>350.0</ValorUnitario>
+        <ValorTotal>1050.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>19</VendaID>
+        <Data>2025-01-22</Data>
+        <Cliente>Aline Rocha</Cliente>
+        <Cidade>Porto Alegre</Cidade>
+        <Estado>RS</Estado>
+        <Produto>Tablet Plus</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1500.0</ValorUnitario>
+        <ValorTotal>1500.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>20</VendaID>
+        <Data>2025-01-23</Data>
+        <Cliente>Marcos Pinto</Cliente>
+        <Cidade>Goiânia</Cidade>
+        <Estado>GO</Estado>
+        <Produto>HD Externo 1TB</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>4</Quantidade>
+        <ValorUnitario>400.0</ValorUnitario>
+        <ValorTotal>1600.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>21</VendaID>
+        <Data>2025-01-24</Data>
+        <Cliente>Renata Souza</Cliente>
+        <Cidade>São Paulo</Cidade>
+        <Estado>SP</Estado>
+        <Produto>Impressora Laser</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1600.0</ValorUnitario>
+        <ValorTotal>1600.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>22</VendaID>
+        <Data>2025-01-25</Data>
+        <Cliente>Felipe Nunes</Cliente>
+        <Cidade>Campinas</Cidade>
+        <Estado>SP</Estado>
+        <Produto>Mesa Escritório</Produto>
+        <Categoria>Móveis</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>1200.0</ValorUnitario>
+        <ValorTotal>2400.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>23</VendaID>
+        <Data>2025-01-26</Data>
+        <Cliente>Patrícia Moraes</Cliente>
+        <Cidade>Rio de Janeiro</Cidade>
+        <Estado>RJ</Estado>
+        <Produto>Notebook Pro X</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>4500.0</ValorUnitario>
+        <ValorTotal>4500.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>24</VendaID>
+        <Data>2025-01-27</Data>
+        <Cliente>André Luiz</Cliente>
+        <Cidade>Belo Horizonte</Cidade>
+        <Estado>MG</Estado>
+        <Produto>Mouse Gamer</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>5</Quantidade>
+        <ValorUnitario>120.0</ValorUnitario>
+        <ValorTotal>600.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>25</VendaID>
+        <Data>2025-01-28</Data>
+        <Cliente>Simone Ribeiro</Cliente>
+        <Cidade>Curitiba</Cidade>
+        <Estado>PR</Estado>
+        <Produto>Smartphone A15</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>2200.0</ValorUnitario>
+        <ValorTotal>2200.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>26</VendaID>
+        <Data>2025-02-01</Data>
+        <Cliente>Ricardo Lopes</Cliente>
+        <Cidade>Salvador</Cidade>
+        <Estado>BA</Estado>
+        <Produto>Monitor 27"</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>1350.0</ValorUnitario>
+        <ValorTotal>2700.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>27</VendaID>
+        <Data>2025-02-02</Data>
+        <Cliente>Amanda Dias</Cliente>
+        <Cidade>Recife</Cidade>
+        <Estado>PE</Estado>
+        <Produto>Smart TV 50"</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>3200.0</ValorUnitario>
+        <ValorTotal>3200.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>28</VendaID>
+        <Data>2025-02-03</Data>
+        <Cliente>Vinicius Melo</Cliente>
+        <Cidade>Fortaleza</Cidade>
+        <Estado>CE</Estado>
+        <Produto>Cadeira Escritório</Produto>
+        <Categoria>Móveis</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>980.0</ValorUnitario>
+        <ValorTotal>980.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>29</VendaID>
+        <Data>2025-02-04</Data>
+        <Cliente>Thaís Andrade</Cliente>
+        <Cidade>Porto Alegre</Cidade>
+        <Estado>RS</Estado>
+        <Produto>Headset Gamer</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>450.0</ValorUnitario>
+        <ValorTotal>900.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>30</VendaID>
+        <Data>2025-02-05</Data>
+        <Cliente>Leandro Costa</Cliente>
+        <Cidade>Goiânia</Cidade>
+        <Estado>GO</Estado>
+        <Produto>Tablet Plus</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>1500.0</ValorUnitario>
+        <ValorTotal>3000.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>31</VendaID>
+        <Data>2025-02-06</Data>
+        <Cliente>Carla Mendes</Cliente>
+        <Cidade>São Paulo</Cidade>
+        <Estado>SP</Estado>
+        <Produto>HD Externo 1TB</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>400.0</ValorUnitario>
+        <ValorTotal>400.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>32</VendaID>
+        <Data>2025-02-07</Data>
+        <Cliente>Rodrigo Alves</Cliente>
+        <Cidade>Campinas</Cidade>
+        <Estado>SP</Estado>
+        <Produto>Notebook Pro X</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>4500.0</ValorUnitario>
+        <ValorTotal>4500.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>33</VendaID>
+        <Data>2025-02-08</Data>
+        <Cliente>Débora Lima</Cliente>
+        <Cidade>Rio de Janeiro</Cidade>
+        <Estado>RJ</Estado>
+        <Produto>Mouse Gamer</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>3</Quantidade>
+        <ValorUnitario>120.0</ValorUnitario>
+        <ValorTotal>360.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>34</VendaID>
+        <Data>2025-02-09</Data>
+        <Cliente>Marcelo Silva</Cliente>
+        <Cidade>Belo Horizonte</Cidade>
+        <Estado>MG</Estado>
+        <Produto>Mesa Escritório</Produto>
+        <Categoria>Móveis</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1200.0</ValorUnitario>
+        <ValorTotal>1200.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>35</VendaID>
+        <Data>2025-02-10</Data>
+        <Cliente>Bruna Rocha</Cliente>
+        <Cidade>Curitiba</Cidade>
+        <Estado>PR</Estado>
+        <Produto>Impressora Laser</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1600.0</ValorUnitario>
+        <ValorTotal>1600.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>36</VendaID>
+        <Data>2025-02-11</Data>
+        <Cliente>Diego Martins</Cliente>
+        <Cidade>Salvador</Cidade>
+        <Estado>BA</Estado>
+        <Produto>Smartphone A15</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>2200.0</ValorUnitario>
+        <ValorTotal>4400.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>37</VendaID>
+        <Data>2025-02-12</Data>
+        <Cliente>Elisa Santos</Cliente>
+        <Cidade>Recife</Cidade>
+        <Estado>PE</Estado>
+        <Produto>Monitor 27"</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1350.0</ValorUnitario>
+        <ValorTotal>1350.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>38</VendaID>
+        <Data>2025-02-13</Data>
+        <Cliente>Henrique Ramos</Cliente>
+        <Cidade>Fortaleza</Cidade>
+        <Estado>CE</Estado>
+        <Produto>Tablet Plus</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1500.0</ValorUnitario>
+        <ValorTotal>1500.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>39</VendaID>
+        <Data>2025-02-14</Data>
+        <Cliente>Camila Pinto</Cliente>
+        <Cidade>Porto Alegre</Cidade>
+        <Estado>RS</Estado>
+        <Produto>Cadeira Escritório</Produto>
+        <Categoria>Móveis</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>980.0</ValorUnitario>
+        <ValorTotal>1960.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>40</VendaID>
+        <Data>2025-02-15</Data>
+        <Cliente>Leonardo Souza</Cliente>
+        <Cidade>Goiânia</Cidade>
+        <Estado>GO</Estado>
+        <Produto>Smart TV 50"</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>3200.0</ValorUnitario>
+        <ValorTotal>3200.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>41</VendaID>
+        <Data>2025-02-16</Data>
+        <Cliente>Isabela Moraes</Cliente>
+        <Cidade>São Paulo</Cidade>
+        <Estado>SP</Estado>
+        <Produto>Headset Gamer</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>450.0</ValorUnitario>
+        <ValorTotal>450.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>42</VendaID>
+        <Data>2025-02-17</Data>
+        <Cliente>Pedro Henrique</Cliente>
+        <Cidade>Campinas</Cidade>
+        <Estado>SP</Estado>
+        <Produto>HD Externo 1TB</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>3</Quantidade>
+        <ValorUnitario>400.0</ValorUnitario>
+        <ValorTotal>1200.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>43</VendaID>
+        <Data>2025-02-18</Data>
+        <Cliente>Larissa Gomes</Cliente>
+        <Cidade>Rio de Janeiro</Cidade>
+        <Estado>RJ</Estado>
+        <Produto>Notebook Pro X</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>4500.0</ValorUnitario>
+        <ValorTotal>4500.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>44</VendaID>
+        <Data>2025-02-19</Data>
+        <Cliente>Gabriel Costa</Cliente>
+        <Cidade>Belo Horizonte</Cidade>
+        <Estado>MG</Estado>
+        <Produto>Mouse Gamer</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>120.0</ValorUnitario>
+        <ValorTotal>240.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>45</VendaID>
+        <Data>2025-02-20</Data>
+        <Cliente>Mariana Lopes</Cliente>
+        <Cidade>Curitiba</Cidade>
+        <Estado>PR</Estado>
+        <Produto>Impressora Laser</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1600.0</ValorUnitario>
+        <ValorTotal>1600.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>46</VendaID>
+        <Data>2025-02-21</Data>
+        <Cliente>Thiago Ribeiro</Cliente>
+        <Cidade>Salvador</Cidade>
+        <Estado>BA</Estado>
+        <Produto>Smartphone A15</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>2200.0</ValorUnitario>
+        <ValorTotal>2200.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>47</VendaID>
+        <Data>2025-02-22</Data>
+        <Cliente>Aline Santos</Cliente>
+        <Cidade>Recife</Cidade>
+        <Estado>PE</Estado>
+        <Produto>Monitor 27"</Produto>
+        <Categoria>Informática</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>1350.0</ValorUnitario>
+        <ValorTotal>2700.0</ValorTotal>
+        <FormaPagamento>Cartão Débito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>48</VendaID>
+        <Data>2025-02-23</Data>
+        <Cliente>Fernando Lima</Cliente>
+        <Cidade>Fortaleza</Cidade>
+        <Estado>CE</Estado>
+        <Produto>Smart TV 50"</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>3200.0</ValorUnitario>
+        <ValorTotal>3200.0</ValorTotal>
+        <FormaPagamento>Pix</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>49</VendaID>
+        <Data>2025-02-24</Data>
+        <Cliente>Juliana Alves</Cliente>
+        <Cidade>Porto Alegre</Cidade>
+        <Estado>RS</Estado>
+        <Produto>Mesa Escritório</Produto>
+        <Categoria>Móveis</Categoria>
+        <Quantidade>1</Quantidade>
+        <ValorUnitario>1200.0</ValorUnitario>
+        <ValorTotal>1200.0</ValorTotal>
+        <FormaPagamento>Cartão Crédito</FormaPagamento>
+    </venda>
+
+    <venda>
+        <VendaID>50</VendaID>
+        <Data>2025-02-25</Data>
+        <Cliente>Renato Castro</Cliente>
+        <Cidade>Goiânia</Cidade>
+        <Estado>GO</Estado>
+        <Produto>Tablet Plus</Produto>
+        <Categoria>Eletrônicos</Categoria>
+        <Quantidade>2</Quantidade>
+        <ValorUnitario>1500.0</ValorUnitario>
+        <ValorTotal>3000.0</ValorTotal>
+        <FormaPagamento>Boleto</FormaPagamento>
+    </venda>
+
+</vendas>

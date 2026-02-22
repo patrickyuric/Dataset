@@ -1,0 +1,603 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Clientes>
+  <Cliente>
+    <ClienteID>1</ClienteID>
+    <Nome>Ana Souza</Nome>
+    <Genero>F</Genero>
+    <Idade>58</Idade>
+    <Cidade>São Paulo</Cidade>
+    <Estado>SP</Estado>
+    <Email>ana.souza@gmail.com</Email>
+    <Telefone>(19) 994108603</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2022-03-24</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>2</ClienteID>
+    <Nome>Carlos Lima</Nome>
+    <Genero>M</Genero>
+    <Idade>24</Idade>
+    <Cidade>Campinas</Cidade>
+    <Estado>SP</Estado>
+    <Email>carlos.lima@gmail.com</Email>
+    <Telefone>(19) 990533224</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-02-07</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>3</ClienteID>
+    <Nome>Mariana Alves</Nome>
+    <Genero>F</Genero>
+    <Idade>32</Idade>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>RJ</Estado>
+    <Email>mariana.alves@gmail.com</Email>
+    <Telefone>(21) 999142600</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2023-04-15</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>4</ClienteID>
+    <Nome>João Pedro</Nome>
+    <Genero>M</Genero>
+    <Idade>55</Idade>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>MG</Estado>
+    <Email>joao.pedro@gmail.com</Email>
+    <Telefone>(31) 997090293</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2023-05-05</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>5</ClienteID>
+    <Nome>Fernanda Rocha</Nome>
+    <Genero>F</Genero>
+    <Idade>31</Idade>
+    <Cidade>Curitiba</Cidade>
+    <Estado>PR</Estado>
+    <Email>fernanda.rocha@gmail.com</Email>
+    <Telefone>(41) 996374122</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2022-06-28</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>6</ClienteID>
+    <Nome>Lucas Martins</Nome>
+    <Genero>M</Genero>
+    <Idade>40</Idade>
+    <Cidade>Salvador</Cidade>
+    <Estado>BA</Estado>
+    <Email>lucas.martins@yahoo.com.br</Email>
+    <Telefone>(71) 997707870</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2024-02-13</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>7</ClienteID>
+    <Nome>Juliana Costa</Nome>
+    <Genero>F</Genero>
+    <Idade>23</Idade>
+    <Cidade>Recife</Cidade>
+    <Estado>PE</Estado>
+    <Email>juliana.costa@yahoo.com.br</Email>
+    <Telefone>(81) 999686361</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-12-03</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>8</ClienteID>
+    <Nome>Rafael Gomes</Nome>
+    <Genero>M</Genero>
+    <Idade>20</Idade>
+    <Cidade>Fortaleza</Cidade>
+    <Estado>CE</Estado>
+    <Email>rafael.gomes@hotmail.com</Email>
+    <Telefone>(85) 991338687</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-02-13</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>9</ClienteID>
+    <Nome>Beatriz Lima</Nome>
+    <Genero>F</Genero>
+    <Idade>35</Idade>
+    <Cidade>Porto Alegre</Cidade>
+    <Estado>RS</Estado>
+    <Email>beatriz.lima@yahoo.com.br</Email>
+    <Telefone>(51) 996210606</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2023-04-22</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>10</ClienteID>
+    <Nome>Eduardo Silva</Nome>
+    <Genero>M</Genero>
+    <Idade>35</Idade>
+    <Cidade>Goiânia</Cidade>
+    <Estado>GO</Estado>
+    <Email>eduardo.silva@gmail.com</Email>
+    <Telefone>(62) 998961380</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2024-04-06</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>11</ClienteID>
+    <Nome>Camila Ferreira</Nome>
+    <Genero>F</Genero>
+    <Idade>47</Idade>
+    <Cidade>São Paulo</Cidade>
+    <Estado>SP</Estado>
+    <Email>camila.ferreira@yahoo.com.br</Email>
+    <Telefone>(11) 995440561</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2022-04-27</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>12</ClienteID>
+    <Nome>Daniel Ramos</Nome>
+    <Genero>M</Genero>
+    <Idade>20</Idade>
+    <Cidade>Campinas</Cidade>
+    <Estado>SP</Estado>
+    <Email>daniel.ramos@outlook.com</Email>
+    <Telefone>(19) 991110460</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2022-10-23</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>13</ClienteID>
+    <Nome>Paula Mendes</Nome>
+    <Genero>F</Genero>
+    <Idade>38</Idade>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>RJ</Estado>
+    <Email>paula.mendes@outlook.com</Email>
+    <Telefone>(21) 997698256</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2022-05-05</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>14</ClienteID>
+    <Nome>Gustavo Alves</Nome>
+    <Genero>M</Genero>
+    <Idade>33</Idade>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>MG</Estado>
+    <Email>gustavo.alves@yahoo.com.br</Email>
+    <Telefone>(31) 999790057</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2023-06-08</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>15</ClienteID>
+    <Nome>Larissa Costa</Nome>
+    <Genero>F</Genero>
+    <Idade>26</Idade>
+    <Cidade>Curitiba</Cidade>
+    <Estado>PR</Estado>
+    <Email>larissa.costa@outlook.com</Email>
+    <Telefone>(41) 990790481</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-03-21</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>16</ClienteID>
+    <Nome>Tiago Oliveira</Nome>
+    <Genero>M</Genero>
+    <Idade>28</Idade>
+    <Cidade>Salvador</Cidade>
+    <Estado>BA</Estado>
+    <Email>tiago.oliveira@outlook.com</Email>
+    <Telefone>(71) 996455324</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2023-10-15</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>17</ClienteID>
+    <Nome>Vanessa Lima</Nome>
+    <Genero>F</Genero>
+    <Idade>51</Idade>
+    <Cidade>Recife</Cidade>
+    <Estado>PE</Estado>
+    <Email>vanessa.lima@gmail.com</Email>
+    <Telefone>(81) 999008867</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2023-11-11</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>18</ClienteID>
+    <Nome>Bruno Castro</Nome>
+    <Genero>M</Genero>
+    <Idade>25</Idade>
+    <Cidade>Fortaleza</Cidade>
+    <Estado>CE</Estado>
+    <Email>bruno.castro@outlook.com</Email>
+    <Telefone>(85) 997612220</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2022-12-24</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>19</ClienteID>
+    <Nome>Aline Rocha</Nome>
+    <Genero>F</Genero>
+    <Idade>34</Idade>
+    <Cidade>Porto Alegre</Cidade>
+    <Estado>RS</Estado>
+    <Email>aline.rocha@hotmail.com</Email>
+    <Telefone>(51) 995007072</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2024-09-20</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>20</ClienteID>
+    <Nome>Marcos Pinto</Nome>
+    <Genero>M</Genero>
+    <Idade>30</Idade>
+    <Cidade>Goiânia</Cidade>
+    <Estado>GO</Estado>
+    <Email>marcos.pinto@yahoo.com.br</Email>
+    <Telefone>(62) 999049278</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2024-01-20</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>21</ClienteID>
+    <Nome>Renata Souza</Nome>
+    <Genero>F</Genero>
+    <Idade>38</Idade>
+    <Cidade>São Paulo</Cidade>
+    <Estado>SP</Estado>
+    <Email>renata.souza@gmail.com</Email>
+    <Telefone>(11) 996089806</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2023-04-02</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>22</ClienteID>
+    <Nome>Felipe Nunes</Nome>
+    <Genero>M</Genero>
+    <Idade>33</Idade>
+    <Cidade>Campinas</Cidade>
+    <Estado>SP</Estado>
+    <Email>felipe.nunes@gmail.com</Email>
+    <Telefone>(11) 998153566</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-09-25</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>23</ClienteID>
+    <Nome>Patrícia Moraes</Nome>
+    <Genero>F</Genero>
+    <Idade>26</Idade>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>RJ</Estado>
+    <Email>patricia.moraes@outlook.com</Email>
+    <Telefone>(21) 994446912</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2024-10-14</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>24</ClienteID>
+    <Nome>André Luiz</Nome>
+    <Genero>M</Genero>
+    <Idade>31</Idade>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>MG</Estado>
+    <Email>andre.luiz@hotmail.com</Email>
+    <Telefone>(31) 996693979</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2024-11-12</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>25</ClienteID>
+    <Nome>Simone Ribeiro</Nome>
+    <Genero>F</Genero>
+    <Idade>46</Idade>
+    <Cidade>Curitiba</Cidade>
+    <Estado>PR</Estado>
+    <Email>simone.ribeiro@outlook.com</Email>
+    <Telefone>(41) 994159166</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-02-11</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>26</ClienteID>
+    <Nome>Ricardo Lopes</Nome>
+    <Genero>M</Genero>
+    <Idade>19</Idade>
+    <Cidade>Salvador</Cidade>
+    <Estado>BA</Estado>
+    <Email>ricardo.lopes@hotmail.com</Email>
+    <Telefone>(71) 990120642</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-12-21</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>27</ClienteID>
+    <Nome>Amanda Dias</Nome>
+    <Genero>F</Genero>
+    <Idade>21</Idade>
+    <Cidade>Recife</Cidade>
+    <Estado>PE</Estado>
+    <Email>amanda.dias@gmail.com</Email>
+    <Telefone>(81) 995543670</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2022-09-08</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>28</ClienteID>
+    <Nome>Vinicius Melo</Nome>
+    <Genero>M</Genero>
+    <Idade>35</Idade>
+    <Cidade>Fortaleza</Cidade>
+    <Estado>CE</Estado>
+    <Email>vinicius.melo@outlook.com</Email>
+    <Telefone>(85) 999046844</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-12-19</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>29</ClienteID>
+    <Nome>Thaís Andrade</Nome>
+    <Genero>F</Genero>
+    <Idade>54</Idade>
+    <Cidade>Porto Alegre</Cidade>
+    <Estado>RS</Estado>
+    <Email>thais.andrade@hotmail.com</Email>
+    <Telefone>(51) 996829332</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2022-02-04</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>30</ClienteID>
+    <Nome>Leandro Costa</Nome>
+    <Genero>M</Genero>
+    <Idade>60</Idade>
+    <Cidade>Goiânia</Cidade>
+    <Estado>GO</Estado>
+    <Email>leandro.costa@yahoo.com.br</Email>
+    <Telefone>(62) 996897151</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2023-12-02</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>31</ClienteID>
+    <Nome>Carla Mendes</Nome>
+    <Genero>F</Genero>
+    <Idade>59</Idade>
+    <Cidade>São Paulo</Cidade>
+    <Estado>SP</Estado>
+    <Email>carla.mendes@gmail.com</Email>
+    <Telefone>(11) 996754864</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2024-06-26</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>32</ClienteID>
+    <Nome>Rodrigo Alves</Nome>
+    <Genero>M</Genero>
+    <Idade>24</Idade>
+    <Cidade>Campinas</Cidade>
+    <Estado>SP</Estado>
+    <Email>rodrigo.alves@hotmail.com</Email>
+    <Telefone>(11) 998997381</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2023-03-14</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>33</ClienteID>
+    <Nome>Débora Lima</Nome>
+    <Genero>F</Genero>
+    <Idade>29</Idade>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>RJ</Estado>
+    <Email>debora.lima@outlook.com</Email>
+    <Telefone>(21) 991264748</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2023-09-04</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>34</ClienteID>
+    <Nome>Marcelo Silva</Nome>
+    <Genero>M</Genero>
+    <Idade>21</Idade>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>MG</Estado>
+    <Email>marcelo.silva@gmail.com</Email>
+    <Telefone>(31) 993965789</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2022-07-16</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>35</ClienteID>
+    <Nome>Bruna Rocha</Nome>
+    <Genero>F</Genero>
+    <Idade>48</Idade>
+    <Cidade>Curitiba</Cidade>
+    <Estado>PR</Estado>
+    <Email>bruna.rocha@outlook.com</Email>
+    <Telefone>(41) 992762152</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2023-01-13</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>36</ClienteID>
+    <Nome>Diego Martins</Nome>
+    <Genero>M</Genero>
+    <Idade>34</Idade>
+    <Cidade>Salvador</Cidade>
+    <Estado>BA</Estado>
+    <Email>diego.martins@yahoo.com.br</Email>
+    <Telefone>(71) 999324245</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2024-12-16</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>37</ClienteID>
+    <Nome>Elisa Santos</Nome>
+    <Genero>F</Genero>
+    <Idade>27</Idade>
+    <Cidade>Recife</Cidade>
+    <Estado>PE</Estado>
+    <Email>elisa.santos@yahoo.com.br</Email>
+    <Telefone>(81) 990981186</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2024-12-18</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>38</ClienteID>
+    <Nome>Henrique Ramos</Nome>
+    <Genero>M</Genero>
+    <Idade>21</Idade>
+    <Cidade>Fortaleza</Cidade>
+    <Estado>CE</Estado>
+    <Email>henrique.ramos@yahoo.com.br</Email>
+    <Telefone>(85) 990841248</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2024-08-17</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>39</ClienteID>
+    <Nome>Camila Pinto</Nome>
+    <Genero>F</Genero>
+    <Idade>51</Idade>
+    <Cidade>Porto Alegre</Cidade>
+    <Estado>RS</Estado>
+    <Email>camila.pinto@gmail.com</Email>
+    <Telefone>(51) 993117625</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2022-10-03</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>40</ClienteID>
+    <Nome>Leonardo Souza</Nome>
+    <Genero>M</Genero>
+    <Idade>33</Idade>
+    <Cidade>Goiânia</Cidade>
+    <Estado>GO</Estado>
+    <Email>leonardo.souza@gmail.com</Email>
+    <Telefone>(62) 999712650</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2024-01-20</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>41</ClienteID>
+    <Nome>Isabela Moraes</Nome>
+    <Genero>F</Genero>
+    <Idade>23</Idade>
+    <Cidade>São Paulo</Cidade>
+    <Estado>SP</Estado>
+    <Email>isabela.moraes@yahoo.com.br</Email>
+    <Telefone>(19) 993426900</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2024-12-11</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>42</ClienteID>
+    <Nome>Pedro Henrique</Nome>
+    <Genero>M</Genero>
+    <Idade>33</Idade>
+    <Cidade>Campinas</Cidade>
+    <Estado>SP</Estado>
+    <Email>pedro.henrique@outlook.com</Email>
+    <Telefone>(11) 995033115</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2023-06-25</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>43</ClienteID>
+    <Nome>Larissa Gomes</Nome>
+    <Genero>F</Genero>
+    <Idade>22</Idade>
+    <Cidade>Rio de Janeiro</Cidade>
+    <Estado>RJ</Estado>
+    <Email>larissa.gomes@outlook.com</Email>
+    <Telefone>(21) 991229110</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2024-04-17</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>44</ClienteID>
+    <Nome>Gabriel Costa</Nome>
+    <Genero>M</Genero>
+    <Idade>34</Idade>
+    <Cidade>Belo Horizonte</Cidade>
+    <Estado>MG</Estado>
+    <Email>gabriel.costa@yahoo.com.br</Email>
+    <Telefone>(31) 994098412</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2023-05-06</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>45</ClienteID>
+    <Nome>Mariana Lopes</Nome>
+    <Genero>F</Genero>
+    <Idade>46</Idade>
+    <Cidade>Curitiba</Cidade>
+    <Estado>PR</Estado>
+    <Email>mariana.lopes@yahoo.com.br</Email>
+    <Telefone>(41) 999304682</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2023-11-04</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>46</ClienteID>
+    <Nome>Thiago Ribeiro</Nome>
+    <Genero>M</Genero>
+    <Idade>26</Idade>
+    <Cidade>Salvador</Cidade>
+    <Estado>BA</Estado>
+    <Email>thiago.ribeiro@gmail.com</Email>
+    <Telefone>(71) 999281552</Telefone>
+    <Plano>Prata</Plano>
+    <DataCadastro>2022-05-10</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>47</ClienteID>
+    <Nome>Aline Santos</Nome>
+    <Genero>F</Genero>
+    <Idade>56</Idade>
+    <Cidade>Recife</Cidade>
+    <Estado>PE</Estado>
+    <Email>aline.santos@yahoo.com.br</Email>
+    <Telefone>(81) 994428914</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2024-08-09</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>48</ClienteID>
+    <Nome>Fernando Lima</Nome>
+    <Genero>M</Genero>
+    <Idade>21</Idade>
+    <Cidade>Fortaleza</Cidade>
+    <Estado>CE</Estado>
+    <Email>fernando.lima@outlook.com</Email>
+    <Telefone>(85) 990739653</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2022-06-25</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>49</ClienteID>
+    <Nome>Juliana Alves</Nome>
+    <Genero>F</Genero>
+    <Idade>26</Idade>
+    <Cidade>Porto Alegre</Cidade>
+    <Estado>RS</Estado>
+    <Email>juliana.alves@yahoo.com.br</Email>
+    <Telefone>(51) 997412769</Telefone>
+    <Plano>Ouro</Plano>
+    <DataCadastro>2024-12-14</DataCadastro>
+  </Cliente>
+  <Cliente>
+    <ClienteID>50</ClienteID>
+    <Nome>Renato Castro</Nome>
+    <Genero>M</Genero>
+    <Idade>53</Idade>
+    <Cidade>Goiânia</Cidade>
+    <Estado>GO</Estado>
+    <Email>renato.castro@gmail.com</Email>
+    <Telefone>(62) 992500715</Telefone>
+    <Plano>Bronze</Plano>
+    <DataCadastro>2024-01-27</DataCadastro>
+  </Cliente>
+</Clientes>
