@@ -1,0 +1,253 @@
+﻿user_id,nickname,region,played_at,track_name,artist_name,genre,play_time_seconds,times_repeated_in_session,liked_track,skipped,device,subscription_type,session_id
+user_2,ana_maria,RJ,2025-01-14 03:07:00,Peaches,Justin Bieber,R&B,212,5,1,1,Desktop,Free,S1339
+user_3,leo_silva,MG,2025-07-23 18:32:00,Bones,Imagine Dragons,Rock,337,2,1,0,Desktop,Premium,S5687
+user_3,leo_silva,MG,2025-07-31 14:13:00,Bones,Imagine Dragons,Rock,380,3,0,0,Desktop,Premium,S4331
+user_3,leo_silva,MG,2026-02-26 06:09:00,Dákiti,Bad Bunny,Reggaeton,374,3,0,0,Desktop,Premium,S5843
+user_3,leo_silva,MG,2025-01-17 22:32:00,Me Porto Bonito,Bad Bunny,Reggaeton,309,1,1,0,iPhone,Premium,S4943
+user_2,ana_maria,RJ,2025-02-16 16:02:00,Envolver,Anitta,pop,273,1,0,0,Desktop,Free,S3634
+user_2,ana_maria,RJ,2026-02-02 19:22:00,Someone Like You,Adele,Pop,138,5,0,no,Android,Free,S1815
+user_1,paty_moura,SP,2026-01-31 09:52:00,Bad Habits,Ed Sheeran,Pop,135,4,1,1,Web Player,Premium,S5554
+user_1,paty_moura,SP,2025-03-25 12:38:00,Montero,Lil Nas X,Hip-Hop,276,6,0,0,iPhone,Premium,S2169
+user_2,ana_maria,RJ,2025-07-29 22:20:00,Watermelon Sugar,Harry Styles,Pop,174,3,1,0,Web Player,Free,S6546
+user_1,paty_moura,SP,2025-12-29 18:13:00,Blinding Lights,The Weeknd,Pop,159,5,1,0,iPhone,Premium,S5786
+user_3,leo_silva,MG,2025-04-15 11:36:00,Callaíta,Bad Bunny,Reggaeton ,168,6,1,0,Web Player,Premium,S6658
+user_3,leo_silva,MG,2026-01-22 18:21:00,Tití Me Preguntó,Bad Bunny,Reggaeton,337,6,0,0,Web Player,Premium,S3365
+user_1,paty_moura,SP,2026-03-07 21:45:00,Industry Baby,Lil Nas X,Hip-Hop,236,6,0,0,Desktop,Premium,S4919
+user_1,paty_moura,SP,2026-03-05 00:30:00,Show das Poderosas,Anitta,Pop ,142,2,1,1,Web Player,Premium,S7658
+user_2,ana_maria,RJ,2025-11-11 23:02:00,Bones,Imagine Dragons,Rock,380,6,1,0,Android,Free,S5381
+user_3,leo_silva,MG,2025-04-21 19:54:00,Bad Habits,Ed Sheeran,Pop,275,5,0,0,Desktop,Premium,S8710
+user_3,leo_silva,MG,2025-01-20 04:40:00,Save Your Tears,The Weeknd,Pop,265,2,0,0,iPhone,Premium,S9446
+user_1,paty_moura,SP,2025-02-10 18:50:00,Radioactive,Imagine Dragons,Rock,245,3,1,1,Android,Premium,S4150
+user_2,ana_maria,RJ,2025-03-06 14:22:00,Save Your Tears,The Weeknd,Pop,364,4,0,0,Android,Free,S6931
+user_3,leo_silva,MG,2025-12-13 18:32:00,Dákiti,Bad Bunny,Reggaeton,289,3,0,1,Desktop,Premium,S3399
+user_3,leo_silva,MG,2026-01-30 09:51:00,Ojitos Lindos,Bad Bunny,Reggaeton,201,4,0,0,Desktop,Premium,S6714
+user_1,paty_moura,SP,2025-07-23 06:46:00,Heat Waves,Glass Animals,Indie,133,2,1,0,Desktop,Premium,S2669
+user_3,leo_silva,MG,2025-06-19 16:07:00,Callaíta,Bad Bunny,Reggaeton,146,5,0,0,Web Player,Premium,S3587
+user_1,paty_moura,SP,2026-01-03 11:42:00,Perfect,Ed Sheeran,Pop,199,5,1,0,Desktop,Premium,S9004
+user_1,paty_moura,SP,2025-09-28 08:34:00,Montero,Lil Nas X,Hip-Hop,378,6,0,1,Desktop,Premium,S2876
+user_3,leo_silva,MG,2026-03-02 14:55:00,Believer,Imagine Dragons,Rock,141,4,0,1,Android,Premium,S6727
+user_3,leo_silva,MG,2025-01-17 20:39:00,Dákiti,Bad Bunny,Reggaeton,173,3,1,0,Android,Premium,S8273
+user_1,paty_moura,SP,2025-12-14 18:18:00,Montero,Lil Nas X,Hip-Hop,264,3,0,1,Desktop,Premium,S3925
+user_2,ana_maria,RJ,2025-11-20 23:21:00,Bad Habits,Ed Sheeran,Pop,242,4,1,1,Android,Free,S2612
+user_1,paty_moura,SP,2025-04-01 23:45:00,Starboy,The Weeknd,R&B,360,1,1,0,iPhone,Premium,S8478
+user_2,ana_maria,RJ,2025-08-19 03:31:00,Save Your Tears,The Weeknd,Pop,270,6,0,1,Android,Free,S3827
+user_2,ana_maria,RJ,2025-06-18 05:02:00,Bad Habits,Ed Sheeran,Pop ,96,2,1,0,Desktop,Free,S9850
+user_2,ana_maria,RJ,2025-01-26 11:23:00,Starboy,The Weeknd,r&b,219,2,1,1,iPhone,Free,S2124
+user_2,ana_maria,RJ,2025-12-13 08:06:00,Hello,Adele,Pop,322,4,1,0,iPhone,Free,S4833
+user_1,paty_moura,SP,2025-08-09 04:21:00,Starboy,The Weeknd,R&B,116,1,1,0,iPhone,Premium,S6862
+user_2,ana_maria,RJ,2025-05-05 14:52:00,Stay,The Kid LAROI,Pop,300,3,0,0,iPhone,Free,S6562
+user_3,leo_silva,MG,2026-01-02 15:37:00,Industry Baby,Lil Nas X,Hip-Hop,113,2,0,0,Desktop,Premium,S1686
+user_2,ana_maria,RJ,2025-06-02 20:05:00,Set Fire to the Rain,Adele,pop,314,5,1,0,iPhone,Free,S2625
+user_3,leo_silva,MG,2025-09-05 08:21:00,Thinking Out Loud,Ed Sheeran,Pop,302,1,0,0,Web Player,Premium,S3589
+user_1,paty_moura,SP,2025-08-12 00:03:00,Cruel Summer,Taylor Swift,Pop,361,6,0,1,Desktop,Premium,S4228
+user_2,ana_maria,RJ,2025-05-02 13:01:00,Believer,Imagine Dragons,Rock,387,6,0,0,Android,Free,S5837
+user_2,ana_maria,RJ,2025-12-14 23:09:00,Thinking Out Loud,Ed Sheeran,Pop,344,2,0,0,Android,Free,S7475
+user_2,ana_maria,RJ,2025-08-12 00:38:00,Believer,Imagine Dragons,Rock,330,5,1,1,Web Player,Free,S8033
+user_1,paty_moura,SP,2025-01-10 03:49:00,Montero,Lil Nas X,Hip-Hop,280,3,1,1,Android,Premium,S4923
+user_3,leo_silva,MG,2025-03-08 20:53:00,STAYING ALIVE,DJ Khaled,Hip-Hop,139,6,0,0,Web Player,Premium,S8842
+user_3,leo_silva,MG,2025-08-01 15:35:00,Boys Don't Cry,Anitta,Pop,383,3,0,0,Web Player,Premium,S1356
+user_3,leo_silva,MG,2025-09-02 22:12:00,Envolver,Anitta,Pop,197,3,0,0,Android,Premium,S1969
+user_2,ana_maria,RJ,2025-07-30 19:19:00,Boys Don't Cry,Anitta,Pop,187,4,0,0,Web Player,Free,S4945
+user_1,paty_moura,SP,2025-03-20 07:18:00,Cruel Summer,Taylor Swift,Pop,127,4,0,0,Android,Premium,S7812
+user_1,paty_moura,SP,2025-07-26 23:47:00,Peaches,Justin Bieber,R&B,246,6,0,0,iPhone,Premium,S7211
+user_2,ana_maria,RJ,2025-07-28 09:32:00,Bones,Imagine Dragons,Rock,111,4,0,0,Desktop,Free,S4868
+user_3,leo_silva,MG,2025-12-15 21:57:00,Shake It Off,Taylor Swift,Pop,230,2,0,0,Desktop,Premium,S5571
+user_2,ana_maria,RJ,2025-06-08 15:02:00,Heat Waves,Glass Animals,Indie,112,1,1,0,Desktop,Free,S5835
+user_3,leo_silva,MG,2025-05-14 13:05:00,Believer,Imagine Dragons,Rock,215,0,0,0,Android,Premium,S5947
+user_2,ana_maria,RJ,2025-05-30 17:22:00,Cruel Summer,Taylor Swift,pop,234,4,0,0,Web Player,Free,S4993
+user_3,leo_silva,MG,2025-05-21 04:16:00,Dákiti,Bad Bunny,reggaeton,250,6,0,0,iPhone,Premium,S3762
+user_2,ana_maria,RJ,2025-08-29 15:05:00,Levitating,Dua Lipa,Pop,250,3,1,0,Android,Free,S9312
+user_2,ana_maria,RJ,2025-02-13 10:34:00,Cruel Summer,Taylor Swift,Pop,381,2,1,0,Android,Free,S9624
+user_1,paty_moura,SP,2025-02-13 08:14:00,Industry Baby,Lil Nas X,Hip-Hop,303,6,1,0,Web Player,Premium,S8800
+user_3,leo_silva,MG,2025-03-13 17:11:00,Industry Baby,Lil Nas X,Hip-Hop,243,5,1,0,Desktop,Premium,S6224
+user_3,leo_silva,MG,2025-06-13 05:32:00,Dákiti,Bad Bunny ,Reggaeton,296,3,1,1,Web Player,Premium,S6511
+user_2,ana_maria,RJ,2025-03-20 23:26:00,Peaches,Justin Bieber,r&b,337,1,1,0,Android,Free,S8075
+user_3,leo_silva,MG,2025-12-05 17:47:00,Tití Me Preguntó,Bad Bunny,Reggaeton,208,5,0,0,Web Player,Premium,S3869
+user_1,paty_moura,SP,2025-02-21 02:30:00,STAYING ALIVE,DJ Khaled,Hip-Hop,370,15,0,0,iPhone,Premium,S2127
+user_2,ana_maria,RJ,2025-11-05 05:07:00,Anti-Hero,Taylor Swift,Pop,265,3,1,0,Web Player,Free,S6082
+user_1,paty_moura,SP,2025-11-29 12:44:00,Anti-Hero,Taylor Swift,Pop,319,2,0,1,Android,Premium,S4681
+user_1,paty_moura,SP,2025-11-21 21:08:00,Anti-Hero,Taylor Swift,Pop,266,2,1,0,iPhone,Premium,S6085
+user_3,leo_silva,MG,2025-03-26 05:31:00,Thinking Out Loud,Ed Sheeran,Pop,260,5,0,1,Android,Premium,S5653
+user_2,ana_maria,RJ,2025-03-21 02:38:00,Watermelon Sugar,Harry Styles,Pop,246,5,0,1,Android,Free,S9626
+user_2,ana_maria,RJ,2025-07-08 18:35:00,Anti-Hero,Taylor Swift,Pop,278,1,0,0,Android,Free,S8450
+user_1,paty_moura,SP,2026-03-07 21:45:00,Industry Baby,Lil Nas X,Hip-Hop,236,6,0,0,Desktop,Premium,S4919
+user_2,ana_maria,RJ,2025-03-06 17:08:00,Save Your Tears,The Weeknd,Pop,264,4,1,1,Web Player,Free,S2633
+user_3,leo_silva,MG,2025-05-02 10:16:00,Ojitos Lindos,Bad Bunny ,Reggaeton,157,5,0,0,Android,Premium,S8489
+user_2,ana_maria,RJ,2025-10-28 10:12:00,Hello,Adele,Pop,312,3,0,0,Web Player,Free,S4263
+user_3,leo_silva,MG,2025-06-30 08:12:00,Dákiti,Bad Bunny,Reggaeton,387,1,1,0,Desktop,Premium,S9576
+user_3,leo_silva,MG,2025-02-07 04:16:00,STAYING ALIVE,DJ Khaled,Hip-Hop,257,6,0,0,Desktop,Premium,S9476
+user_1,paty_moura,SP,2025-12-10 22:01:00,Watermelon Sugar,Harry Styles,Pop,248,1,1,0,Web Player,Premium,S1152
+user_3,leo_silva,MG,2025-01-17 19:32:00,Tití Me Preguntó,Bad Bunny,Reggaeton,151,4,0,0,Web Player,Premium,S3481
+user_2,ana_maria,RJ,2025-09-10 15:50:00,STAYING ALIVE,DJ Khaled,Hip-Hop,383,5,0,0,Desktop,Free,S6295
+user_1,paty_moura,SP,2025-03-20 21:25:00,Starboy,The Weeknd,R&B ,176,1,0,0,Web Player,Premium,S7304
+user_1,paty_moura,SP,2026-01-03 23:46:00,Heat Waves,Glass Animals,Indie,291,6,0,0,Android,Premium,S1090
+user_2,ana_maria,RJ,2025-12-18 03:41:00,Radioactive,Imagine Dragons,Rock,346,1,0,0,iPhone,Free,S6277
+user_3,leo_silva,MG,2025-04-06 00:28:00,Cruel Summer,Taylor Swift,Pop,267,2,1,0,Web Player,Premium,S3875
+user_1,paty_moura,SP,2025-07-15 01:19:00,Starboy,The Weeknd,R&B,335,4,1,0,Desktop,Premium,S6728
+user_1,paty_moura,SP,2025-07-19 19:56:00,Easy On Me,Adele,Pop,105,4,1,1,Android,Premium,S8814
+user_2,ana_maria,RJ,2025-08-29 09:56:00,Vai Malandra,Anitta,Pop ,111,6,1,0,Android,Free,S8438
+user_2,ana_maria,RJ,2025-07-31 11:34:00,Bad Habits,Ed Sheeran,Pop,327,3,1,0,Desktop,Free,S7992
+user_2,ana_maria,RJ,2025-01-31 05:39:00,Believer,Imagine Dragons ,Rock,252,3,1,0,Android,Free,S8195
+user_1,paty_moura,SP,2026-01-22 15:06:00,Peaches,Justin Bieber,R&B,353,4,1,0,Web Player,Premium,S3607
+user_2,ana_maria,RJ,2025-09-18 12:21:00,Easy On Me,Adele,Pop,104,2,0,0,Web Player,Free,S6598
+user_3,leo_silva,MG,2025-11-02 18:17:00,Callaíta,Bad Bunny,Reggaeton,103,6,1,0,Desktop,Premium,S3352
+user_3,leo_silva,MG,2025-08-30 01:04:00,Believer,Imagine Dragons,Rock,241,6,1,0,Desktop,Premium,S7887
+user_3,leo_silva,MG,2025-10-07 11:33:00,Ojitos Lindos,Bad Bunny,Reggaeton,184,6,1,1,iPhone,Premium,S8840
+user_1,paty_moura,SP,2025-06-19 21:16:00,STAYING ALIVE,DJ Khaled,Hip-Hop,255,3,0,0,Desktop,Premium,S9308
+user_2,ana_maria,RJ,2025-12-05 02:46:00,Photograph,Ed Sheeran,Pop ,175,2,1,0,Web Player,Free,S1043
+user_1,paty_moura,SP,2025-04-25 00:48:00,Starboy,The Weeknd,R&B,193,1,0,0,Desktop,Premium,S5573
+user_1,paty_moura,SP,2025-03-13 14:24:00,Set Fire to the Rain,Adele,Pop,188,1,0,0,Android,Premium,S8260
+user_3,leo_silva,MG,2025-03-10 17:12:00,Calm Down,Rema,Afrobeats,334,3,1,0,Web Player,Premium,S3662
+user_2,ana_maria,RJ,2025-07-31 11:34:00,Bad Habits,Ed Sheeran,Pop,327,3,1,0,Desktop,Free,S7992
+user_2,ana_maria,RJ,2025-10-15 11:11:00,Vai Malandra,Anitta,Pop,208,4,1,0,Web Player,Free,S5951
+user_3,leo_silva,MG,2025-10-06 14:28:00,Shake It Off,Taylor Swift,Pop,367,4,0,0,iPhone,Premium,S6671
+user_2,ana_maria,RJ,2025-02-09 17:25:00,Shape of You,Ed Sheeran,Pop,153,3,0,0,iPhone,Free,S6752
+user_3,leo_silva,MG,2025-02-09 19:15:00,Hello,Adele,Pop,152,5,0,0,iPhone,Premium,S4312
+user_2,ana_maria,RJ,2026-01-19 22:56:00,Anti-Hero,Taylor Swift,Pop,229,3,1,0,iPhone,Free,S2775
+user_3,leo_silva,MG,2025-08-18 12:53:00,Calm Down,Rema,Afrobeats,287,5,1,0,Desktop,Premium,S3178
+user_2,ana_maria,RJ,2025-11-16 21:36:00,Photograph,Ed Sheeran ,Pop,375,5,0,0,Desktop,Free,S9692
+user_1,paty_moura,SP,2025-01-13 01:34:00,Starboy,The Weeknd,r&b,220,1,1,1,Web Player,Premium,S8461
+user_2,ana_maria,RJ,2025-07-28 03:10:00,Show das Poderosas,Anitta,Pop,210,4,1,1,iPhone,Free,S2924
+user_3,leo_silva,MG,2025-09-15 12:45:00,Callaíta,Bad Bunny,Reggaeton,215,2,0,0,Desktop,Premium,S1461
+user_1,paty_moura,SP,2025-04-02 11:20:00,Heat Waves,Glass Animals,Indie,305,2,1,0,iPhone,Premium,S5371
+user_1,paty_moura,SP,2025-09-06 00:59:00,Easy On Me,Adele,Pop,294,4,1,0,Web Player,Premium,S3704
+user_2,ana_maria,RJ,2026-01-31 13:47:00,Stay,The Kid LAROI,Pop,358,5,0,1,Web Player,Free,S8569
+user_3,leo_silva,MG,2025-08-01 15:35:00,Boys Don't Cry,Anitta,Pop,383,3,0,0,Web Player,Premium,S1356
+user_2,ana_maria,RJ,2025-08-13 17:53:00,Set Fire to the Rain,Adele,Pop,362,3,0,0,Web Player,Free,S7347
+user_3,leo_silva,MG,2025-09-12 23:37:00,Tití Me Preguntó,Bad Bunny,Reggaeton,349,3,1,0,Web Player,Premium,S2353
+user_3,leo_silva,MG,2026-01-18 00:33:00,Calm Down,Rema,Afrobeats,277,6,0,0,Desktop,Premium,S2698
+user_3,leo_silva,MG,2025-11-24 20:03:00,Dákiti,Bad Bunny,Reggaeton,188,5,0,0,Android,Premium,S1907
+user_2,ana_maria,RJ,2026-01-23 05:58:00,Flowers,Miley Cyrus,Pop,335,3,0,0,Web Player,Free,S3973
+user_1,paty_moura,SP,2025-11-26 15:39:00,Peaches,Justin Bieber,R&B,168,5,0,0,Desktop,Premium,S9830
+user_1,paty_moura,SP,2025-06-11 04:04:00,Perfect,Ed Sheeran,Pop,369,2,1,1,Web Player,Premium,S4545
+user_2,ana_maria,RJ,2025-07-05 21:15:00,Boys Don't Cry,Anitta,Pop,350,2,1,0,iPhone,Free,S5375
+user_3,leo_silva,MG,2025-10-06 17:19:00,Dákiti,Bad Bunny,Reggaeton,354,4,0,0,Web Player,Premium,S1713
+user_2,ana_maria,RJ,2026-01-16 23:46:00,Anti-Hero,Taylor Swift,Pop,371,2,1,0,Android,Free,S7797
+user_1,paty_moura,SP,2025-08-29 00:39:00,Levitating,Dua Lipa,Pop,371,2,1,0,Android,Premium,S2124
+user_3,leo_silva,MG,2025-12-21 08:03:00,Ojitos Lindos,Bad Bunny,Reggaeton,126,2,0,0,Desktop,Premium,S7642
+user_3,leo_silva,MG,2025-06-27 15:05:00,Me Porto Bonito,Bad Bunny,Reggaeton,226,5,0,0,Desktop,Premium,S5442
+user_2,ana_maria,RJ,2026-01-20 14:26:00,Anti-Hero,Taylor Swift,Pop,121,3,1,1,iPhone,Free,S2697
+user_2,ana_maria,RJ,2025-12-05 00:52:00,Starboy,the weeknd,R&B,162,2,1,0,Android,Free,S6304
+user_3,leo_silva,MG,2025-07-07 13:35:00,Boys Don't Cry,Anitta,Pop,255,1,0,0,iPhone,Premium,S1424
+user_1,paty_moura,SP,2025-10-26 13:37:00,Peaches,Justin Bieber,R&B,280,5,1,0,Android,Premium,S9085
+user_1,paty_moura,SP,2025-04-13 00:41:00,Starboy,The Weeknd,R&B,173,1,0,0,Web Player,Premium,S4571
+user_3,leo_silva,MG,2025-01-18 15:14:00,Dákiti,Bad Bunny,Reggaeton,119,4,0,0,iPhone,Premium,S4839
+user_2,ana_maria,RJ,2026-02-10 01:24:00,Show das Poderosas,Anitta,Pop,325,2,1,1,Web Player,Free,S6267
+user_3,leo_silva,MG,2026-03-02 14:55:00,Believer,Imagine Dragons,Rock,141,4,yes,1,Android,Premium,S6727
+user_1,paty_moura,SP,2025-02-10 02:55:00,Paradinha,Anitta,Pop,343,5,1,0,iPhone,Premium,S3060
+user_1,paty_moura,SP,2025-02-17 10:02:00,Industry Baby,Lil Nas X,Hip-Hop,208,6,0,0,Web Player,Premium,S7046
+user_2,ana_maria,RJ,2025-08-09 03:23:00,Vai Malandra,Anitta,Pop,153,5,1,1,Web Player,Free,S4522
+user_3,leo_silva,MG,2025-04-10 12:22:00,Dákiti,Bad Bunny,Reggaeton,378,4,0,0,Android,Premium,S5582
+user_3,leo_silva,MG,2025-02-08 22:54:00,Save Your Tears,The Weeknd,Pop,302,6,1,0,Android,Premium,S3621
+user_2,ana_maria,RJ,2025-11-11 01:28:00,Bad Habits,Ed Sheeran,Pop,361,1,1,0,Web Player,Free,S1996
+user_1,paty_moura,SP,2026-01-15 09:23:00,Industry Baby,Lil Nas X,Hip-Hop,220,6,1,0,Android,Premium,S9935
+user_2,ana_maria,RJ,2026-02-02 14:01:00,Bad Habits,Ed Sheeran,Pop,117,4,0,0,iPhone,Free,S7325
+user_3,leo_silva,MG,2026-01-04 20:39:00,Dákiti,Bad Bunny,Reggaeton,267,1,1,1,Android,Premium,S2330
+user_2,ana_maria,RJ,2025-12-24 16:32:00,Heat Waves,Glass Animals,Indie,157,2,1,0,Desktop,Free,S3594
+user_3,leo_silva,MG,2025-05-29 13:06:00,Me Porto Bonito,Bad Bunny,Reggaeton,309,2,1,0,Desktop,Premium,S6364
+user_2,ana_maria,RJ,2025-04-25 03:41:00,Envolver,Anitta,Pop,274,3,0,1,Web Player,Free,S4705
+user_3,leo_silva,MG,2026-01-15 20:01:00,Dákiti,Bad Bunny,Reggaeton,9999,5,1,0,iPhone,Premium,S4697
+user_3,leo_silva,MG,2025-12-02 11:19:00,Starboy,The Weeknd,R&B ,234,4,0,0,Web Player,Premium,S8204
+user_2,ana_maria,RJ,2025-06-26 11:20:00,Envolver,Anitta,Pop,377,3,0,0,iPhone,Free,S4090
+user_3,leo_silva,MG,2025-06-17 02:57:00,STAYING ALIVE,DJ Khaled,Hip-Hop,300,2,0,0,Desktop,Premium,S8822
+user_1,paty_moura,SP,2025-04-28 01:05:00,Starboy,The Weeknd,R&B,256,5,0,0,iPhone,Premium,S6155
+user_2,ana_maria,RJ,2026-02-08 21:20:00,Peaches,Justin Bieber,R&B,196,6,0,0,Desktop,Free,S3441
+user_2,ana_maria,RJ,2025-12-25 13:44:00,Thinking Out Loud,Ed Sheeran,Pop,234,1,0,0,Web Player,Free,S1653
+user_2,ana_maria,RJ,2025-12-12 13:33:00,Bones,Imagine Dragons,Rock,380,1,1,0,Android,Free,S5332
+user_1,paty_moura,SP,2025-02-27 10:01:00,Peaches,Justin Bieber,R&B,317,6,0,0,iPhone,Premium,S5315
+user_2,ana_maria,RJ,2025-05-12 06:44:00,Watermelon Sugar,Harry Styles ,Pop,183,6,1,0,iPhone,Free,S2234
+user_1,paty_moura,SP,2025-12-06 03:32:00,Peaches,Justin Bieber,R&B,163,6,1,0,Desktop,Premium,S3546
+user_1,paty_moura,SP,2026-02-18 13:53:00,Envolver,Anitta,Pop,192,3,1,0,Web Player,Premium,S7939
+user_2,ana_maria,RJ,2025-05-21 00:16:00,Callaíta,Bad Bunny,Reggaeton,384,1,1,1,Desktop,Free,S9138
+user_2,ana_maria,RJ,2025-06-03 00:59:00,Cruel Summer,Taylor Swift,Pop,118,3,0,0,Web Player,Free,S7141
+user_3,leo_silva,MG,2025-04-13 04:44:00,Stay,The Kid LAROI,Pop,216,5,0,0,Web Player,Premium,S7044
+user_3,leo_silva,MG,2025-08-09 04:34:00,Stay,The Kid LAROI,Pop,230,3,1,0,Web Player,Premium,S1741
+user_1,paty_moura,SP,2025-05-23 15:23:00,Heat Waves,Glass Animals,Indie,219,6,1,0,Desktop,Premium,S7209
+user_2,ana_maria,RJ,2025-05-28 22:36:00,Envolver,Anitta,Pop,300,4,1,0,Desktop,Free,S2442
+user_1,paty_moura,SP,2025-05-23 00:13:00,Paradinha,Anitta ,Pop,176,2,0,0,Desktop,Premium,S4527
+user_1,paty_moura,SP,2025-10-11 07:51:00,Paradinha,Anitta,Pop,207,1,1,0,Android,Premium,S4750
+user_1,paty_moura,SP,2026-02-26 16:43:00,Easy On Me,Adele,Pop,149,4,0,0,Web Player,Premium,S3506
+user_3,leo_silva,MG,2025-06-01 12:32:00,As It Was,Harry Styles,Pop,208,2,0,0,Desktop,Premium,S8454
+user_1,paty_moura,SP,2026-01-03 23:46:00,Heat Waves,Glass Animals,Indie,291,6,0,0,Android,Premium,S1090
+user_3,leo_silva,MG,2025-09-28 14:17:00,STAYING ALIVE,DJ Khaled ,Hip-Hop,177,2,1,0,Android,Premium,S5096
+user_1,paty_moura,SP,2025-02-28 02:13:00,Envolver,Anitta,Pop,300,6,1,0,iPhone,Premium,S1878
+user_3,leo_silva,MG,2025-03-27 23:32:00,Callaíta,Bad Bunny,Reggaeton,322,3,0,0,Desktop,Premium,S8126
+user_1,paty_moura,SP,2025-08-11 11:47:00,Vai Malandra,Anitta,Pop,255,1,1,0,iPhone,Premium,S7311
+user_2,ana_maria,RJ,2025-05-29 03:55:00,Peaches,Justin Bieber,R&B,302,5,0,0,Desktop,Free,S8538
+user_1,paty_moura,SP,2025-03-27 20:40:00,Peaches,Justin Bieber,R&B,153,3,0,0,Android,Premium,S2771
+user_1,paty_moura,SP,2026-02-12 19:19:00,Heat Waves,Glass Animals,Indie,116,3,0,0,Desktop,Premium,S2129
+user_3,leo_silva,MG,2026-01-17 07:26:00,Me Porto Bonito,Bad Bunny,Reggaeton,132,1,0,0,Android,Premium,S9866
+user_3,leo_silva,MG,2025-02-07 15:25:00,Tití Me Preguntó,Bad Bunny,Reggaeton,183,1,0,1,Desktop,Premium,S6236
+user_3,leo_silva,MG,2025-11-29 11:26:00,Bones,Imagine Dragons,Rock,169,4,0,0,Web Player,Premium,S3273
+user_1,paty_moura,SP,2025-07-14 11:10:00,Photograph,Ed Sheeran,Pop,203,4,0,0,Web Player,Premium,S5558
+user_1,paty_moura,SP,2025-02-06 17:32:00,Heat Waves,Glass Animals,Indie,216,5,0,0,Web Player,Premium,S3167
+user_3,leo_silva,MG,2025-04-15 11:36:00,Callaíta,Bad Bunny,Reggaeton ,168,6,1,0,Web Player,Premium,S6658
+user_3,leo_silva,MG,2025-09-21 19:10:00,Ojitos Lindos,Bad Bunny,Reggaeton,149,3,0,0,iPhone,Premium,S8366
+user_3,leo_silva,MG,2025-07-21 18:03:00,Dákiti,Bad Bunny,Reggaeton,160,1,0,0,Desktop,Premium,S1372
+user_1,paty_moura,SP,2025-11-17 10:11:00,Industry Baby,Lil Nas X,Hip-Hop,354,2,0,0,Android,Premium,S9837
+user_2,ana_maria,RJ,2025-12-27 07:51:00,Show das Poderosas,Anitta,Pop,351,3,1,0,Web Player,Free,S2180
+user_3,leo_silva,MG,2025-10-01 01:16:00,Bad Habits,Ed Sheeran,Pop,184,1,1,0,Web Player,Premium,S7504
+user_2,ana_maria,RJ,2025-04-19 04:41:00,Thinking Out Loud,Ed Sheeran,Pop,225,4,0,0,iPhone,Free,S8055
+user_1,paty_moura,SP,2026-01-25 17:54:00,Paradinha,Anitta,Pop,239,3,1,1,Desktop,Premium,S4727
+user_1,paty_moura,SP,2025-06-05 02:54:00,Paradinha,Anitta,Pop,222,5,1,0,Web Player,Premium,S4697
+user_1,paty_moura,SP,2025-01-28 22:59:00,STAYING ALIVE,DJ Khaled,Hip-Hop ,145,1,1,0,iPhone,Premium,S5073
+user_1,paty_moura,SP,2026-01-21 13:18:00,Heat Waves,Glass Animals,Indie,309,5,1,0,Web Player,Premium,S4613
+user_2,ana_maria,RJ,2025-12-12 18:12:00,Someone Like You,Adele,Pop,289,4,1,1,Android,Free,S9864
+user_2,ana_maria,RJ,2025-11-07 12:01:00,Starboy,The Weeknd,R&B,207,6,1,0,Android,Free,S3240
+user_1,paty_moura,SP,2025-08-13 18:32:00,Shape of You,Ed Sheeran,Pop,249,6,1,0,Android,Premium,S9666
+user_3,leo_silva,MG,2025-08-15 03:58:00,Dákiti,Bad Bunny,Reggaeton,200,5,0,0,Android,Premium,S8298
+user_1,paty_moura,SP,2025-08-06 18:47:00,Montero,Lil Nas X,Hip-Hop,264,3,0,0,iPhone,Premium,S5118
+user_3,leo_silva,MG,2025-09-02 17:56:00,Anti-Hero,Taylor Swift,Pop,287,5,0,0,Desktop,Premium,S6608
+user_1,paty_moura,SP,2025-05-27 08:00:00,STAYING ALIVE,DJ Khaled,Hip-Hop,234,1,1,0,iPhone,Premium,S3267
+user_2,ana_maria,RJ,2026-03-04 06:37:00,Envolver,Anitta,Pop,283,4,1,0,Desktop,Free,S8564
+user_1,paty_moura,SP,2025-02-17 21:39:00,Heat Waves,Glass Animals,Indie,311,3,0,1,Desktop,Premium,S3143
+user_1,paty_moura,SP,2025-11-21 21:08:00,Anti-Hero,Taylor Swift,Pop,266,2,1,0,iPhone,Premium,S6085
+user_2,ana_maria,RJ,2026-02-09 21:32:00,Starboy,The Weeknd,R&B,266,6,0,0,Desktop,Free,S7333
+user_2,ana_maria,RJ,2025-08-06 16:34:00,Anti-Hero,Taylor Swift,Pop,321,5,0,0,Desktop,Free,S2864
+user_3,leo_silva,MG,2025-02-10 00:38:00,Me Porto Bonito,Bad Bunny,Reggaeton,226,6,0,0,Web Player,Premium,S9647
+user_1,paty_moura,SP,2025-10-10 14:35:00,Set Fire to the Rain,Adele,Pop,382,6,0,0,Android,Premium,S3442
+user_1,paty_moura,SP,2025-02-19 12:15:00,Rolling in the Deep,Adele,pop,271,6,1,0,Android,Premium,S8527
+user_3,leo_silva,MG,2025-01-20 00:18:00,Ojitos Lindos,Bad Bunny,Reggaeton,247,3,0,0,Web Player,Premium,S5662
+user_3,leo_silva,MG,2025-11-30 07:11:00,Heat Waves,Glass Animals,Indie,387,4,1,0,Desktop,Premium,S9938
+user_1,paty_moura,SP,2025-07-15 01:19:00,Starboy,The Weeknd,R&B,335,4,1,0,Desktop,Premium,S6728
+user_3,leo_silva,MG,2025-06-26 21:57:00,Save Your Tears,The Weeknd,Pop,290,4,0,0,iPhone,Premium,S7688
+user_1,paty_moura,SP,2025-04-04 16:38:00,Someone Like You,Adele,Pop,203,3,0,0,Android,Premium,S5526
+user_2,ana_maria,RJ,2025-04-08 20:27:00,Rolling in the Deep,Adele,Pop ,355,1,0,0,Web Player,Free,S5526
+user_2,ana_maria,RJ,2025-04-29 15:44:00,Heat Waves,Glass Animals,Indie,225,4,1,0,iPhone,Free,S5712
+user_3,leo_silva,MG,2025-08-30 01:04:00,Believer,Imagine Dragons,Rock,241,6,1,0,Desktop,Premium,S7887
+user_2,ana_maria,RJ,2025-11-02 12:51:00,Starboy,The Weeknd,R&B,173,5,1,0,Web Player,Free,S3712
+user_3,leo_silva,MG,2025-09-14 20:52:00,Easy On Me,Adele,Pop,-15,1,1,1,iPhone,Premium,S3262
+user_1,paty_moura,SP,2025-07-27 18:42:00,Montero,Lil Nas X,Hip-Hop,95,5,0,0,Web Player,Premium,S6279
+user_2,ana_maria,RJ,2025-11-11 01:28:00,Bad Habits,Ed Sheeran,Pop,361,1,1,0,Web Player,Free,S1996
+user_3,leo_silva,MG,2025-07-21 12:44:00,Me Porto Bonito,Bad Bunny,Reggaeton,268,2,0,0,Web Player,Premium,S4261
+user_1,paty_moura,SP,2025-05-16 18:00:00,Starboy,The Weeknd,R&B,311,6,1,1,Desktop,Premium,S4295
+user_1,paty_moura,SP,2025-07-21 20:12:00,Heat Waves,Glass Animals ,Indie,383,4,0,0,Web Player,Premium,S3223
+user_2,ana_maria,RJ,2026-02-17 10:04:00,Envolver,Anitta,Pop,268,1,0,0,iPhone,Free,S3306
+user_1,paty_moura,SP,2025-11-30 09:13:00,Boys Don't Cry,Anitta,Pop,370,6,0,0,Desktop,Premium,S5397
+user_1,paty_moura,SP,2025-01-31 05:37:00,Montero,Lil Nas X,Hip-Hop,289,4,0,0,Web Player,Premium,S5673
+user_1,paty_moura,SP,2025-07-01 19:06:00,Starboy,The Weeknd,R&B,303,2,1,1,iPhone,Premium,S3662
+user_1,paty_moura,SP,2025-04-20 17:26:00,STAYING ALIVE,DJ Khaled,Hip-Hop,337,6,1,0,Android,Premium,S3780
+user_3,leo_silva,MG,2025-10-11 03:30:00,Hello,Adele,Pop,359,2,0,1,Web Player,Premium,S5469
+user_2,ana_maria,RJ,2025-01-20 01:56:00,Set Fire to the Rain,Adele,pop,283,1,0,1,Web Player,Free,S9307
+user_2,ana_maria,RJ,2025-04-13 04:30:00,Starboy,The Weeknd,R&B,371,5,0,1,iPhone,Free,S5465
+user_2,ana_maria,RJ,2025-01-16 03:07:00,As It Was,Harry Styles,Pop,366,3,0,0,Desktop,Free,S3578
+user_2,ana_maria,RJ,2025-05-17 00:05:00,Boys Don't Cry,Anitta,Pop,239,5,1,0,iPhone,Free,S9022
+user_1,paty_moura,SP,2025-03-25 15:46:00,Industry Baby,Lil Nas X,Hip-Hop,289,6,1,0,Desktop,Premium,S4598
+user_3,leo_silva,MG,2025-08-30 18:20:00,Dákiti,Bad Bunny,Reggaeton,206,5,1,0,Web Player,Premium,S2341
+user_1,paty_moura,SP,2025-01-26 19:56:00,Starboy,The Weeknd,R&B,339,2,1,0,Android,Premium,S1931
+user_3,leo_silva,MG,2025-12-02 19:44:00,Photograph,Ed Sheeran,pop,390,4,0,0,Web Player,Premium,S3793
+user_3,leo_silva,MG,2025-10-15 04:01:00,Rolling in the Deep,Adele,Pop,229,2,1,0,Web Player,Premium,S5678
+user_2,ana_maria,RJ,2026-02-20 04:26:00,Peaches,Justin Bieber,R&B,379,5,1,0,Android,Free,S6400
+user_1,paty_moura,SP,2025-11-01 02:19:00,Heat Waves,Glass Animals,Indie,215,5,1,0,Android,Premium,S5033
+user_3,leo_silva,MG,2025-09-01 00:34:00,Thinking Out Loud,Ed Sheeran,Pop,283,4,0,0,Android,Premium,S6040
+user_3,leo_silva,MG,2025-09-13 17:34:00,Tití Me Preguntó,Bad Bunny,Reggaeton,334,1,0,0,Web Player,Premium,S2475
+user_3,leo_silva,MG,2025-12-14 14:57:00,Dákiti,Bad Bunny,Reggaeton ,112,6,0,0,Desktop,Premium,S7001
+user_2,ana_maria,RJ,2025-03-21 02:38:00,Watermelon Sugar,Harry Styles,Pop,246,5,0,1,Android,Free,S9626
+user_2,ana_maria,RJ,2025-01-20 10:23:00,Save Your Tears,The Weeknd,Pop,347,5,0,0,Web Player,Free,S3222
+user_1,paty_moura,SP,2025-12-03 19:55:00,Montero,Lil Nas X,Hip-Hop,384,2,1,0,iPhone,Premium,S6147
+user_2,ana_maria,RJ,2025-05-12 06:44:00,Watermelon Sugar,Harry Styles ,Pop,183,6,1,0,iPhone,Free,S2234
+user_1,paty_moura,SP,2025-02-22 00:25:00,Montero,Lil Nas X,Hip-Hop,388,3,0,0,Android,Premium,S4020
+user_3,leo_silva,MG,2025-10-05 09:54:00,Show das Poderosas,Anitta,Pop,248,6,1,1,Desktop,Premium,S3852
+user_1,paty_moura,SP,2025-03-21 06:28:00,Peaches,Justin Bieber,R&B,246,6,0,0,Android,Premium,S9883
+user_2,ana_maria,RJ,2026-01-26 10:32:00,Cruel Summer,Taylor Swift,Pop,268,2,0,0,Android,Free,S7566
+user_1,paty_moura,SP,2025-01-16 03:11:00,Industry Baby,Lil Nas X,Hip-Hop,206,5,1,0,Web Player,Premium,S4257
