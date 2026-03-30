@@ -1,18 +1,18 @@
 Show_ID,Tipo,Titulo,Diretor,Elenco,Pais,Data_Adicao,Ano_Lancamento,Classificacao,Duracao,Genero,Descricao
 1,Filme,Enola Holmes 2,David Fincher,"Úrsula Corberó, Álvaro Morte",Japão,2021-05-01,2022,18+,89 min,Terror,Uma produção emocionante de terror ambientada em Japão.
 2,Filme,O Irlandês 4,David Fincher,"Wagner Moura, Pedro Pascal",México,2022-09-21,2016,14+,131 min,Drama,Uma produção emocionante de drama ambientada em México.
-3,Que Horas Ela Volta?,O Céu da Meia-Noite 4,Greta Gerwig,"Jason Bateman, Laura Linney",Alemanha,2023-07-29,2023,Livre,162 min,Suspense,Uma produção emocionante de suspense ambientada em Alemanha.
+3,Filme,Que Horas Ela Volta?,Greta Gerwig,"Jason Bateman, Laura Linney",Brasil,2023-07-29,2023,Livre,162 min,Suspense,Uma produção emocionante de suspense ambientada em Alemanha.
 4,Série,Stranger Things (Temporada 3),Vários Diretores,"Henry Cavill, Freya Allan",México,2019-05-19,2018,14+,1 Temporadas,Drama,Uma produção emocionante de drama ambientada em México.
 5,Série,Lupin (Temporada 2),Vários Diretores,"Wagner Moura, Pedro Pascal",Alemanha,2020-12-28,2016,16+,3 Temporadas,Comédia,Uma produção emocionante de comédia ambientada em Alemanha.
 6,Série,Bridgerton (Temporada 4),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Japão,2021-11-12,2016,16+,4 Temporadas,Drama,Uma produção emocionante de drama ambientada em Japão.
-7,3%,O Irlandês 4,Christopher Nolan,"Wagner Moura, Pedro Pascal",Coreia do Sul,2023-09-28,2017,10+,102 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Coreia do Sul.
-8,Cidade de Deus,O Irlandês 4,Bong Joon-ho,"Jason Bateman, Laura Linney",EUA,2020-02-20,2016,18+,139 min,Terror,Uma produção emocionante de terror ambientada em EUA.
-9,Sintonia,Power 1,Bong Joon-ho,"Wagner Moura, Pedro Pascal",Espanha,2023-03-14,2018,16+,140 min,Drama,Uma produção emocionante de drama ambientada em Espanha.
+7,Série,3%,Christopher Nolan,"Wagner Moura, Pedro Pascal",Brasil,2023-09-28,2017,10+,102 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Coreia do Sul.
+8,Filme,Cidade de Deus,Bong Joon-ho,"Jason Bateman, Laura Linney",Brasil,2020-02-20,2016,18+,139 min,Terror,Uma produção emocionante de terror ambientada em EUA.
+9,Série,Sintonia,Bong Joon-ho,"Wagner Moura, Pedro Pascal",Brasil,2023-03-14,2018,16+,140 min,Drama,Uma produção emocionante de drama ambientada em Espanha.
 10,Série,Lupin (Temporada 1),Vários Diretores,"Olivia Colman, Tobias Menzies",Reino Unido,2019-12-26,2017,14+,3 Temporadas,Suspense,Uma produção emocionante de suspense ambientada em Reino Unido.
 11,Filme,Mank 3,Greta Gerwig,"Jason Bateman, Laura Linney",México,2023-02-22,2023,10+,131 min,Documentário,Uma produção emocionante de documentário ambientada em México.
-12,Irmandade,O Resgate 3,Zack Snyder,"Olivia Colman, Tobias Menzies",EUA,2021-11-23,2017,10+,104 min,Documentário,Uma produção emocionante de documentário ambientada em EUA.
+12,Série,Irmandade,Zack Snyder,"Olivia Colman, Tobias Menzies",Brasil,2021-11-23,2017,10+,104 min,Documentário,Uma produção emocionante de documentário ambientada em EUA.
 13,Série,The Crown (Temporada 4),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Alemanha,2021-09-08,2023,14+,1 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em Alemanha.
-14,3%,Bridgerton (Temporada 3),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Japão,2022-09-17,2018,Livre,5 Temporadas,Romance,Uma produção emocionante de romance ambientada em Japão.
+14,Série,3%,Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2022-09-17,2018,Livre,5 Temporadas,Romance,Uma produção emocionante de romance ambientada em Japão.
 15,Série,Elite (Temporada 3),Vários Diretores,"Henry Cavill, Freya Allan",México,2023-08-07,2018,Livre,5 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em México.
 16,Série,The Witcher (Temporada 4),Vários Diretores,"Jason Bateman, Laura Linney",França,2022-01-09,2024,14+,3 Temporadas,Terror,Uma produção emocionante de terror ambientada em França.
 17,Filme,O Irlandês 5,Ava DuVernay,"Úrsula Corberó, Álvaro Morte",França,2021-05-14,2017,14+,158 min,Suspense,Uma produção emocionante de suspense ambientada em França.
@@ -20,36 +20,36 @@ Show_ID,Tipo,Titulo,Diretor,Elenco,Pais,Data_Adicao,Ano_Lancamento,Classificacao
 19,Filme,O Céu da Meia-Noite 3,David Fincher,"Wagner Moura, Pedro Pascal",Alemanha,2020-04-03,2015,14+,94 min,Drama,Uma produção emocionante de drama ambientada em Alemanha.
 20,Filme,Power 3,David Fincher,"Millie Bobby Brown, Finn Wolfhard",Alemanha,2021-01-11,2018,16+,114 min,Suspense,Uma produção emocionante de suspense ambientada em Alemanha.
 21,Filme,Roma 4,Zack Snyder,"Jason Bateman, Laura Linney",Reino Unido,2021-08-10,2016,18+,95 min,Comédia,Uma produção emocionante de comédia ambientada em Reino Unido.
-22,Carandiru,Bridgerton (Temporada 1),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2023-02-07,2022,14+,2 Temporadas,Romance,Uma produção emocionante de romance ambientada em Brasil.
-23,Reality Z,A Caminho da Lua 4,Zack Snyder,"Millie Bobby Brown, Finn Wolfhard",Espanha,2023-01-06,2023,18+,132 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
+22,Filme,Carandiru,Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2023-02-07,2022,14+,2 Temporadas,Romance,Uma produção emocionante de romance ambientada em Brasil.
+23,Série,Reality Z,Zack Snyder,"Millie Bobby Brown, Finn Wolfhard",Brasil,2023-01-06,2023,18+,132 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
 24,Filme,Power 1,Bong Joon-ho,"Jason Bateman, Laura Linney",Alemanha,2023-08-04,2024,10+,122 min,Comédia,Uma produção emocionante de comédia ambientada em Alemanha.
-25,Carandiru,Mank 1,Christopher Nolan,"Jason Bateman, Laura Linney",EUA,2019-04-27,2017,16+,135 min,Drama,Uma produção emocionante de drama ambientada em EUA.
+25,Filme,Carandiru,Christopher Nolan,"Jason Bateman, Laura Linney",Brasil,2019-04-27,2017,16+,135 min,Drama,Uma produção emocionante de drama ambientada em EUA.
 26,Série,La Casa de Papel (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",França,2020-08-10,2016,18+,4 Temporadas,Romance,Uma produção emocionante de romance ambientada em França.
 27,Filme,O Céu da Meia-Noite 3,Zack Snyder,"Úrsula Corberó, Álvaro Morte",México,2021-12-16,2016,Livre,167 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em México.
 28,Série,Elite (Temporada 4),Vários Diretores,"Jason Bateman, Laura Linney",Espanha,2020-08-05,2020,18+,6 Temporadas,Comédia,Uma produção emocionante de comédia ambientada em Espanha.
-29,Bacurau,Dark (Temporada 1),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Brasil,2022-02-07,2021,16+,5 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Brasil.
+29,Filme,Bacurau,Vários Diretores,"Úrsula Corberó, Álvaro Morte",Brasil,2022-02-07,2021,16+,5 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Brasil.
 30,Filme,O Irlandês 4,Bong Joon-ho,"Jason Bateman, Laura Linney",Espanha,2020-01-21,2015,Livre,173 min,Ação,Uma produção emocionante de ação ambientada em Espanha.
 31,Filme,Bird Box 4,Bong Joon-ho,"Olivia Colman, Tobias Menzies",França,2023-01-15,2020,18+,156 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em França.
-32,Irmandade,The Crown (Temporada 3),Vários Diretores,"Olivia Colman, Tobias Menzies",França,2021-01-04,2015,14+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em França.
-33,"Bom Dia, Verônica",O Céu da Meia-Noite 4,Christopher Nolan,"Wagner Moura, Pedro Pascal",Reino Unido,2022-12-18,2017,18+,133 min,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
-34,Coisa Mais Linda,Power 1,Greta Gerwig,"Henry Cavill, Freya Allan",Japão,2019-03-14,2021,Livre,171 min,Drama,Uma produção emocionante de drama ambientada em Japão.
+32,Série,Irmandade,Vários Diretores,"Olivia Colman, Tobias Menzies",Brasil,2021-01-04,2015,14+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em França.
+33,Série,"Bom Dia, Verônica",Christopher Nolan,"Wagner Moura, Pedro Pascal",Brasil,2022-12-18,2017,18+,133 min,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
+34,Série,Coisa Mais Linda,Greta Gerwig,"Henry Cavill, Freya Allan",Brasil,2019-03-14,2021,Livre,171 min,Drama,Uma produção emocionante de drama ambientada em Japão.
 35,Série,Dark (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",França,2020-01-12,2018,10+,3 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em França.
 36,Série,Ozark (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",EUA,2023-09-05,2019,14+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em EUA.
-37,Série,Narcos (Temporada 1),Vários Diretores,"Wagner Moura, Pedro Pascal",Brasil,2021-09-04,2015,Livre,1 Temporadas,Romance,Uma produção emocionante de romance ambientada em Brasil.
+37,Série,Narcos (Temporada 1),Vários Diretores,"Wagner Moura, Pedro Pascal",Estados Unidos,2021-09-04,2015,Livre,1 Temporadas,Romance,Uma produção emocionante de romance ambientada em Brasil.
 38,Série,Elite (Temporada 2),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Japão,2021-03-21,2018,10+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Japão.
-39,Central do Brasil,A Caminho da Lua 1,Christopher Nolan,"Olivia Colman, Tobias Menzies",Brasil,2021-08-24,2016,16+,144 min,Terror,Uma produção emocionante de terror ambientada em Brasil.
+39,Filme,Central do Brasil,Christopher Nolan,"Olivia Colman, Tobias Menzies",Brasil,2021-08-24,2016,16+,144 min,Terror,Uma produção emocionante de terror ambientada em Brasil.
 40,Série,La Casa de Papel (Temporada 1),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Espanha,2021-07-26,2018,18+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
 41,Série,Ozark (Temporada 1),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Reino Unido,2019-04-14,2019,Livre,5 Temporadas,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
 42,Série,Elite (Temporada 3),Vários Diretores,"Jason Bateman, Laura Linney",Espanha,2019-06-06,2015,16+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
 43,Série,Lupin (Temporada 3),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",EUA,2019-02-08,2019,18+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em EUA.
-44,Coisa Mais Linda,O Irlandês 3,Ava DuVernay,"Henry Cavill, Freya Allan",México,2019-10-08,2020,Livre,115 min,Comédia,Uma produção emocionante de comédia ambientada em México.
-45,Dom,Bird Box 3,Greta Gerwig,"Wagner Moura, Pedro Pascal",Reino Unido,2019-11-19,2024,18+,137 min,Suspense,Uma produção emocionante de suspense ambientada em Reino Unido.
-46,Tropa de Elite,The Crown (Temporada 2),Vários Diretores,"Henry Cavill, Freya Allan",México,2021-10-18,2020,14+,2 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em México.
+44,Série,Coisa Mais Linda,Ava DuVernay,"Henry Cavill, Freya Allan",Brasil,2019-10-08,2020,Livre,115 min,Comédia,Uma produção emocionante de comédia ambientada em México.
+45,Série,Dom,Greta Gerwig,"Wagner Moura, Pedro Pascal",Brasil,2019-11-19,2024,18+,137 min,Suspense,Uma produção emocionante de suspense ambientada em Reino Unido.
+46,Filme,Tropa de Elite,Vários Diretores,"Henry Cavill, Freya Allan",Brasil,2021-10-18,2020,14+,2 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em México.
 47,Filme,O Irlandês 4,Greta Gerwig,"Jason Bateman, Laura Linney",Alemanha,2022-05-12,2024,16+,128 min,Romance,Uma produção emocionante de romance ambientada em Alemanha.
 48,Filme,Roma 3,Christopher Nolan,"Millie Bobby Brown, Finn Wolfhard",França,2020-08-09,2020,Livre,149 min,Comédia,Uma produção emocionante de comédia ambientada em França.
-49,Dom,The Witcher (Temporada 2),Vários Diretores,"Henry Cavill, Freya Allan",França,2021-08-19,2016,18+,3 Temporadas,Drama,Uma produção emocionante de drama ambientada em França.
+49,Série,Dom,Vários Diretores,"Henry Cavill, Freya Allan",Brasil,2021-08-19,2016,18+,3 Temporadas,Drama,Uma produção emocionante de drama ambientada em França.
 50,Filme,Bird Box 1,Bong Joon-ho,"Wagner Moura, Pedro Pascal",Coreia do Sul,2021-07-14,2019,Livre,180 min,Drama,Uma produção emocionante de drama ambientada em Coreia do Sul.
-51,Cidade de Deus,Mank 2,Bong Joon-ho,"Olivia Colman, Tobias Menzies",Reino Unido,2022-06-09,2022,18+,160 min,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
+51,Filme,Cidade de Deus,Bong Joon-ho,"Olivia Colman, Tobias Menzies",Brasil,2022-06-09,2022,18+,160 min,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
 52,Série,The Crown (Temporada 1),Vários Diretores,"Jason Bateman, Laura Linney",EUA,2023-04-25,2018,Livre,2 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em EUA.
 53,Filme,O Céu da Meia-Noite 4,David Fincher,"Jason Bateman, Laura Linney",França,2023-06-11,2024,14+,171 min,Documentário,Uma produção emocionante de documentário ambientada em França.
 54,Série,The Crown (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",EUA,2021-05-09,2019,10+,1 Temporadas,Terror,Uma produção emocionante de terror ambientada em EUA.
@@ -57,83 +57,83 @@ Show_ID,Tipo,Titulo,Diretor,Elenco,Pais,Data_Adicao,Ano_Lancamento,Classificacao
 56,Filme,Bird Box 3,Bong Joon-ho,"Úrsula Corberó, Álvaro Morte",EUA,2019-07-12,2015,16+,82 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em EUA.
 57,Série,Elite (Temporada 4),Vários Diretores,"Wagner Moura, Pedro Pascal",EUA,2020-04-27,2019,18+,1 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em EUA.
 58,Série,The Crown (Temporada 1),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Reino Unido,2019-02-27,2016,16+,1 Temporadas,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
-59,Irmandade,Roma 5,Alfonso Cuarón,"Olivia Colman, Tobias Menzies",Brasil,2020-07-19,2022,Livre,104 min,Documentário,Uma produção emocionante de documentário ambientada em Brasil.
-60,Reality Z,Mank 1,Alfonso Cuarón,"Olivia Colman, Tobias Menzies",França,2020-10-24,2020,18+,173 min,Suspense,Uma produção emocionante de suspense ambientada em França.
+59,Série,Irmandade,Alfonso Cuarón,"Olivia Colman, Tobias Menzies",Brasil,2020-07-19,2022,Livre,104 min,Documentário,Uma produção emocionante de documentário ambientada em Brasil.
+60,Série,Reality Z,Alfonso Cuarón,"Olivia Colman, Tobias Menzies",Brasil,2020-10-24,2020,18+,173 min,Suspense,Uma produção emocionante de suspense ambientada em França.
 61,Filme,A Caminho da Lua 5,Christopher Nolan,"Úrsula Corberó, Álvaro Morte",Alemanha,2021-08-27,2022,14+,151 min,Comédia,Uma produção emocionante de comédia ambientada em Alemanha.
 62,Série,The Witcher (Temporada 2),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",EUA,2022-04-08,2015,16+,2 Temporadas,Romance,Uma produção emocionante de romance ambientada em EUA.
-63,Bacurau,Elite (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",Coreia do Sul,2023-07-15,2024,16+,5 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Coreia do Sul.
+63,Filme,Bacurau,Vários Diretores,"Olivia Colman, Tobias Menzies",Brasil,2023-07-15,2024,16+,5 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Coreia do Sul.
 64,Filme,Mank 5,Zack Snyder,"Millie Bobby Brown, Finn Wolfhard",Japão,2020-06-24,2019,18+,90 min,Romance,Uma produção emocionante de romance ambientada em Japão.
 65,Série,Elite (Temporada 4),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Japão,2022-07-07,2023,14+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em Japão.
 66,Série,The Crown (Temporada 1),Vários Diretores,"Jason Bateman, Laura Linney",França,2019-10-27,2020,16+,4 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em França.
 67,Série,Lupin (Temporada 4),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Alemanha,2022-04-06,2019,Livre,5 Temporadas,Suspense,Uma produção emocionante de suspense ambientada em Alemanha.
 68,Série,Stranger Things (Temporada 2),Vários Diretores,"Olivia Colman, Tobias Menzies",México,2019-04-25,2023,16+,3 Temporadas,Romance,Uma produção emocionante de romance ambientada em México.
 69,Série,Lupin (Temporada 3),Vários Diretores,"Olivia Colman, Tobias Menzies",EUA,2023-09-19,2019,18+,5 Temporadas,Romance,Uma produção emocionante de romance ambientada em EUA.
-70,Irmandade,Mistério no Mediterrâneo 3,Greta Gerwig,"Úrsula Corberó, Álvaro Morte",Alemanha,2023-06-30,2016,16+,134 min,Terror,Uma produção emocionante de terror ambientada em Alemanha.
-1,Bacurau,Enola Holmes 2,David Fincher,"Úrsula Corberó, Álvaro Morte",Japão,2021-05-01,2022,18+,89 min,Terror,Uma produção emocionante de terror ambientada em Japão.
+70,Série,Irmandade,Greta Gerwig,"Úrsula Corberó, Álvaro Morte",Brasil,2023-06-30,2016,16+,134 min,Terror,Uma produção emocionante de terror ambientada em Alemanha.
+1,Filme,Bacurau,David Fincher,"Úrsula Corberó, Álvaro Morte",Brasil,2021-05-01,2022,18+,89 min,Terror,Uma produção emocionante de terror ambientada em Japão.
 2,Filme,O Irlandês 4,David Fincher,"Wagner Moura, Pedro Pascal",México,2022-09-21,2016,14+,131 min,Drama,Uma produção emocionante de drama ambientada em México.
 3,Filme,O Céu da Meia-Noite 4,Greta Gerwig,"Jason Bateman, Laura Linney",Alemanha,2023-07-29,2023,Livre,162 min,Suspense,Uma produção emocionante de suspense ambientada em Alemanha.
 4,Série,Stranger Things (Temporada 3),Vários Diretores,"Henry Cavill, Freya Allan",México,2019-05-19,2018,14+,1 Temporadas,Drama,Uma produção emocionante de drama ambientada em México.
-5,Irmandade,Lupin (Temporada 2),Vários Diretores,"Wagner Moura, Pedro Pascal",Alemanha,2020-12-28,2016,16+,3 Temporadas,Comédia,Uma produção emocionante de comédia ambientada em Alemanha.
-6,Central do Brasil,Bridgerton (Temporada 4),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Japão,2021-11-12,2016,16+,4 Temporadas,Drama,Uma produção emocionante de drama ambientada em Japão.
+5,Série,Irmandade,Vários Diretores,"Wagner Moura, Pedro Pascal",Brasil,2020-12-28,2016,16+,3 Temporadas,Comédia,Uma produção emocionante de comédia ambientada em Alemanha.
+6,Filme,Central do Brasil,Vários Diretores,"Úrsula Corberó, Álvaro Morte",Brasil,2021-11-12,2016,16+,4 Temporadas,Drama,Uma produção emocionante de drama ambientada em Japão.
 7,Filme,O Irlandês 4,Christopher Nolan,"Wagner Moura, Pedro Pascal",Coreia do Sul,2023-09-28,2017,10+,102 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Coreia do Sul.
-8,Dom,O Irlandês 4,Bong Joon-ho,"Jason Bateman, Laura Linney",EUA,2020-02-20,2016,18+,139 min,Terror,Uma produção emocionante de terror ambientada em EUA.
+8,Série,Dom,Bong Joon-ho,"Jason Bateman, Laura Linney",Brasil,2020-02-20,2016,18+,139 min,Terror,Uma produção emocionante de terror ambientada em EUA.
 9,Filme,Power 1,Bong Joon-ho,"Wagner Moura, Pedro Pascal",Espanha,2023-03-14,2018,16+,140 min,Drama,Uma produção emocionante de drama ambientada em Espanha.
 10,Série,Lupin (Temporada 1),Vários Diretores,"Olivia Colman, Tobias Menzies",Reino Unido,2019-12-26,2017,14+,3 Temporadas,Suspense,Uma produção emocionante de suspense ambientada em Reino Unido.
-11,Carandiru,Mank 3,Greta Gerwig,"Jason Bateman, Laura Linney",México,2023-02-22,2023,10+,131 min,Documentário,Uma produção emocionante de documentário ambientada em México.
-12,Irmandade,O Resgate 3,Zack Snyder,"Olivia Colman, Tobias Menzies",EUA,2021-11-23,2017,10+,104 min,Documentário,Uma produção emocionante de documentário ambientada em EUA.
-13,3%,The Crown (Temporada 4),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Alemanha,2021-09-08,2023,14+,1 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em Alemanha.
+11,Filme,Carandiru,Greta Gerwig,"Jason Bateman, Laura Linney",Brasil,2023-02-22,2023,10+,131 min,Documentário,Uma produção emocionante de documentário ambientada em México.
+12,Série,Irmandade,Zack Snyder,"Olivia Colman, Tobias Menzies",Brasil,2021-11-23,2017,10+,104 min,Documentário,Uma produção emocionante de documentário ambientada em EUA.
+13,Série,3%,Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2021-09-08,2023,14+,1 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em Alemanha.
 14,Série,Bridgerton (Temporada 3),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Japão,2022-09-17,2018,Livre,5 Temporadas,Romance,Uma produção emocionante de romance ambientada em Japão.
 15,Série,Elite (Temporada 3),Vários Diretores,"Henry Cavill, Freya Allan",México,2023-08-07,2018,Livre,5 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em México.
-16,Coisa Mais Linda,The Witcher (Temporada 4),Vários Diretores,"Jason Bateman, Laura Linney",França,2022-01-09,2024,14+,3 Temporadas,Terror,Uma produção emocionante de terror ambientada em França.
+16,Série,Coisa Mais Linda,Vários Diretores,"Jason Bateman, Laura Linney",Brasil,2022-01-09,2024,14+,3 Temporadas,Terror,Uma produção emocionante de terror ambientada em França.
 17,Filme,O Irlandês 5,Ava DuVernay,"Úrsula Corberó, Álvaro Morte",França,2021-05-14,2017,14+,158 min,Suspense,Uma produção emocionante de suspense ambientada em França.
 18,Série,Bridgerton (Temporada 4),Vários Diretores,"Henry Cavill, Freya Allan",França,2019-03-30,2021,16+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em França.
 19,Filme,O Céu da Meia-Noite 3,David Fincher,"Wagner Moura, Pedro Pascal",Alemanha,2020-04-03,2015,14+,94 min,Drama,Uma produção emocionante de drama ambientada em Alemanha.
-20,Sintonia,Power 3,David Fincher,"Millie Bobby Brown, Finn Wolfhard",Alemanha,2021-01-11,2018,16+,114 min,Suspense,Uma produção emocionante de suspense ambientada em Alemanha.
+20,Série,Sintonia,David Fincher,"Millie Bobby Brown, Finn Wolfhard",Brasil,2021-01-11,2018,16+,114 min,Suspense,Uma produção emocionante de suspense ambientada em Alemanha.
 21,Filme,Roma 4,Zack Snyder,"Jason Bateman, Laura Linney",Reino Unido,2021-08-10,2016,18+,95 min,Comédia,Uma produção emocionante de comédia ambientada em Reino Unido.
-22,Sintonia,Bridgerton (Temporada 1),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2023-02-07,2022,14+,2 Temporadas,Romance,Uma produção emocionante de romance ambientada em Brasil.
-23,Reality Z,A Caminho da Lua 4,Zack Snyder,"Millie Bobby Brown, Finn Wolfhard",Espanha,2023-01-06,2023,18+,132 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
-24,O Mecanismo,Power 1,Bong Joon-ho,"Jason Bateman, Laura Linney",Alemanha,2023-08-04,2024,10+,122 min,Comédia,Uma produção emocionante de comédia ambientada em Alemanha.
+22,Série,Sintonia,Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2023-02-07,2022,14+,2 Temporadas,Romance,Uma produção emocionante de romance ambientada em Brasil.
+23,Série,Reality Z,Zack Snyder,"Millie Bobby Brown, Finn Wolfhard",Brasil,2023-01-06,2023,18+,132 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
+24,Série,O Mecanismo,Bong Joon-ho,"Jason Bateman, Laura Linney",Brasil,2023-08-04,2024,10+,122 min,Comédia,Uma produção emocionante de comédia ambientada em Alemanha.
 25,Filme,Mank 1,Christopher Nolan,"Jason Bateman, Laura Linney",EUA,2019-04-27,2017,16+,135 min,Drama,Uma produção emocionante de drama ambientada em EUA.
-26,Irmandade,La Casa de Papel (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",França,2020-08-10,2016,18+,4 Temporadas,Romance,Uma produção emocionante de romance ambientada em França.
-27,Coisa Mais Linda,O Céu da Meia-Noite 3,Zack Snyder,"Úrsula Corberó, Álvaro Morte",México,2021-12-16,2016,Livre,167 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em México.
-28,Coisa Mais Linda,Elite (Temporada 4),Vários Diretores,"Jason Bateman, Laura Linney",Espanha,2020-08-05,2020,18+,6 Temporadas,Comédia,Uma produção emocionante de comédia ambientada em Espanha.
-29,Série,Dark (Temporada 1),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Brasil,2022-02-07,2021,16+,5 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Brasil.
-30,Bacurau,O Irlandês 4,Bong Joon-ho,"Jason Bateman, Laura Linney",Espanha,2020-01-21,2015,Livre,173 min,Ação,Uma produção emocionante de ação ambientada em Espanha.
+26,Série,Irmandade,Vários Diretores,"Olivia Colman, Tobias Menzies",Brasil,2020-08-10,2016,18+,4 Temporadas,Romance,Uma produção emocionante de romance ambientada em França.
+27,Série,Coisa Mais Linda,Zack Snyder,"Úrsula Corberó, Álvaro Morte",Brasil,2021-12-16,2016,Livre,167 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em México.
+28,Série,Coisa Mais Linda,Vários Diretores,"Jason Bateman, Laura Linney",Brasil,2020-08-05,2020,18+,6 Temporadas,Comédia,Uma produção emocionante de comédia ambientada em Espanha.
+29,Série,Dark (Temporada 1),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Alemanha,2022-02-07,2021,16+,5 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Brasil.
+30,Filme,Bacurau,Bong Joon-ho,"Jason Bateman, Laura Linney",Brasil,2020-01-21,2015,Livre,173 min,Ação,Uma produção emocionante de ação ambientada em Espanha.
 31,Filme,Bird Box 4,Bong Joon-ho,"Olivia Colman, Tobias Menzies",França,2023-01-15,2020,18+,156 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em França.
 32,Série,The Crown (Temporada 3),Vários Diretores,"Olivia Colman, Tobias Menzies",França,2021-01-04,2015,14+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em França.
 33,Filme,O Céu da Meia-Noite 4,Christopher Nolan,"Wagner Moura, Pedro Pascal",Reino Unido,2022-12-18,2017,18+,133 min,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
 34,Filme,Power 1,Greta Gerwig,"Henry Cavill, Freya Allan",Japão,2019-03-14,2021,Livre,171 min,Drama,Uma produção emocionante de drama ambientada em Japão.
 35,Série,Dark (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",França,2020-01-12,2018,10+,3 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em França.
 36,Série,Ozark (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",EUA,2023-09-05,2019,14+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em EUA.
-37,Série,Narcos (Temporada 1),Vários Diretores,"Wagner Moura, Pedro Pascal",Brasil,2021-09-04,2015,Livre,1 Temporadas,Romance,Uma produção emocionante de romance ambientada em Brasil.
-38,3%,Elite (Temporada 2),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Japão,2021-03-21,2018,10+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Japão.
-39,Filme,A Caminho da Lua 1,Christopher Nolan,"Olivia Colman, Tobias Menzies",Brasil,2021-08-24,2016,16+,144 min,Terror,Uma produção emocionante de terror ambientada em Brasil.
-40,Irmandade,La Casa de Papel (Temporada 1),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Espanha,2021-07-26,2018,18+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
+37,Série,Narcos (Temporada 1),Vários Diretores,"Wagner Moura, Pedro Pascal",Estados Unidos,2021-09-04,2015,Livre,1 Temporadas,Romance,Uma produção emocionante de romance ambientada em Brasil.
+38,Série,3%,Vários Diretores,"Úrsula Corberó, Álvaro Morte",Brasil,2021-03-21,2018,10+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Japão.
+39,Filme,A Caminho da Lua 1,Christopher Nolan,"Olivia Colman, Tobias Menzies",Estados Unidos,2021-08-24,2016,16+,144 min,Terror,Uma produção emocionante de terror ambientada em Brasil.
+40,Série,Irmandade,Vários Diretores,"Úrsula Corberó, Álvaro Morte",Brasil,2021-07-26,2018,18+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
 41,Série,Ozark (Temporada 1),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Reino Unido,2019-04-14,2019,Livre,5 Temporadas,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
-42,"Bom Dia, Verônica",Elite (Temporada 3),Vários Diretores,"Jason Bateman, Laura Linney",Espanha,2019-06-06,2015,16+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
-43,Bacurau,Lupin (Temporada 3),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",EUA,2019-02-08,2019,18+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em EUA.
-44,Cidade de Deus,O Irlandês 3,Ava DuVernay,"Henry Cavill, Freya Allan",México,2019-10-08,2020,Livre,115 min,Comédia,Uma produção emocionante de comédia ambientada em México.
+42,Série,"Bom Dia, Verônica",Vários Diretores,"Jason Bateman, Laura Linney",Brasil,2019-06-06,2015,16+,2 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Espanha.
+43,Filme,Bacurau,Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2019-02-08,2019,18+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em EUA.
+44,Filme,Cidade de Deus,Ava DuVernay,"Henry Cavill, Freya Allan",Brasil,2019-10-08,2020,Livre,115 min,Comédia,Uma produção emocionante de comédia ambientada em México.
 45,Filme,Bird Box 3,Greta Gerwig,"Wagner Moura, Pedro Pascal",Reino Unido,2019-11-19,2024,18+,137 min,Suspense,Uma produção emocionante de suspense ambientada em Reino Unido.
-46,Dom,The Crown (Temporada 2),Vários Diretores,"Henry Cavill, Freya Allan",México,2021-10-18,2020,14+,2 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em México.
-47,"Bom Dia, Verônica",O Irlandês 4,Greta Gerwig,"Jason Bateman, Laura Linney",Alemanha,2022-05-12,2024,16+,128 min,Romance,Uma produção emocionante de romance ambientada em Alemanha.
+46,Série,Dom,Vários Diretores,"Henry Cavill, Freya Allan",Brasil,2021-10-18,2020,14+,2 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em México.
+47,Série,"Bom Dia, Verônica",Greta Gerwig,"Jason Bateman, Laura Linney",Brasil,2022-05-12,2024,16+,128 min,Romance,Uma produção emocionante de romance ambientada em Alemanha.
 48,Filme,Roma 3,Christopher Nolan,"Millie Bobby Brown, Finn Wolfhard",França,2020-08-09,2020,Livre,149 min,Comédia,Uma produção emocionante de comédia ambientada em França.
 49,Série,The Witcher (Temporada 2),Vários Diretores,"Henry Cavill, Freya Allan",França,2021-08-19,2016,18+,3 Temporadas,Drama,Uma produção emocionante de drama ambientada em França.
-50,Reality Z,Bird Box 1,Bong Joon-ho,"Wagner Moura, Pedro Pascal",Coreia do Sul,2021-07-14,2019,Livre,180 min,Drama,Uma produção emocionante de drama ambientada em Coreia do Sul.
+50,Série,Reality Z,Bong Joon-ho,"Wagner Moura, Pedro Pascal",Brasil,2021-07-14,2019,Livre,180 min,Drama,Uma produção emocionante de drama ambientada em Coreia do Sul.
 51,Filme,Mank 2,Bong Joon-ho,"Olivia Colman, Tobias Menzies",Reino Unido,2022-06-09,2022,18+,160 min,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
 52,Série,The Crown (Temporada 1),Vários Diretores,"Jason Bateman, Laura Linney",EUA,2023-04-25,2018,Livre,2 Temporadas,Documentário,Uma produção emocionante de documentário ambientada em EUA.
 53,Filme,O Céu da Meia-Noite 4,David Fincher,"Jason Bateman, Laura Linney",França,2023-06-11,2024,14+,171 min,Documentário,Uma produção emocionante de documentário ambientada em França.
 54,Série,The Crown (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",EUA,2021-05-09,2019,10+,1 Temporadas,Terror,Uma produção emocionante de terror ambientada em EUA.
-55,Dom,Mistério no Mediterrâneo 5,Alfonso Cuarón,"Jason Bateman, Laura Linney",Reino Unido,2022-10-08,2018,14+,112 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Reino Unido.
+55,Série,Dom,Alfonso Cuarón,"Jason Bateman, Laura Linney",Brasil,2022-10-08,2018,14+,112 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Reino Unido.
 56,Filme,Bird Box 3,Bong Joon-ho,"Úrsula Corberó, Álvaro Morte",EUA,2019-07-12,2015,16+,82 min,Ficção Científica,Uma produção emocionante de ficção científica ambientada em EUA.
 57,Série,Elite (Temporada 4),Vários Diretores,"Wagner Moura, Pedro Pascal",EUA,2020-04-27,2019,18+,1 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em EUA.
 58,Série,The Crown (Temporada 1),Vários Diretores,"Úrsula Corberó, Álvaro Morte",Reino Unido,2019-02-27,2016,16+,1 Temporadas,Drama,Uma produção emocionante de drama ambientada em Reino Unido.
-59,Filme,Roma 5,Alfonso Cuarón,"Olivia Colman, Tobias Menzies",Brasil,2020-07-19,2022,Livre,104 min,Documentário,Uma produção emocionante de documentário ambientada em Brasil.
+59,Filme,Roma 5,Alfonso Cuarón,"Olivia Colman, Tobias Menzies",México,2020-07-19,2022,Livre,104 min,Documentário,Uma produção emocionante de documentário ambientada em Brasil.
 60,Filme,Mank 1,Alfonso Cuarón,"Olivia Colman, Tobias Menzies",França,2020-10-24,2020,18+,173 min,Suspense,Uma produção emocionante de suspense ambientada em França.
 61,Filme,A Caminho da Lua 5,Christopher Nolan,"Úrsula Corberó, Álvaro Morte",Alemanha,2021-08-27,2022,14+,151 min,Comédia,Uma produção emocionante de comédia ambientada em Alemanha.
-62,Que Horas Ela Volta?,The Witcher (Temporada 2),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",EUA,2022-04-08,2015,16+,2 Temporadas,Romance,Uma produção emocionante de romance ambientada em EUA.
+62,Filme,Que Horas Ela Volta?,Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2022-04-08,2015,16+,2 Temporadas,Romance,Uma produção emocionante de romance ambientada em EUA.
 63,Série,Elite (Temporada 4),Vários Diretores,"Olivia Colman, Tobias Menzies",Coreia do Sul,2023-07-15,2024,16+,5 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em Coreia do Sul.
 64,Filme,Mank 5,Zack Snyder,"Millie Bobby Brown, Finn Wolfhard",Japão,2020-06-24,2019,18+,90 min,Romance,Uma produção emocionante de romance ambientada em Japão.
-65,O Mecanismo,Elite (Temporada 4),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Japão,2022-07-07,2023,14+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em Japão.
+65,Série,O Mecanismo,Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Brasil,2022-07-07,2023,14+,2 Temporadas,Ação,Uma produção emocionante de ação ambientada em Japão.
 66,Série,The Crown (Temporada 1),Vários Diretores,"Jason Bateman, Laura Linney",França,2019-10-27,2020,16+,4 Temporadas,Ficção Científica,Uma produção emocionante de ficção científica ambientada em França.
 67,Série,Lupin (Temporada 4),Vários Diretores,"Millie Bobby Brown, Finn Wolfhard",Alemanha,2022-04-06,2019,Livre,5 Temporadas,Suspense,Uma produção emocionante de suspense ambientada em Alemanha.
 68,Série,Stranger Things (Temporada 2),Vários Diretores,"Olivia Colman, Tobias Menzies",México,2019-04-25,2023,16+,3 Temporadas,Romance,Uma produção emocionante de romance ambientada em México.
